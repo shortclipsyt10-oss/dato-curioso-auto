@@ -23,7 +23,7 @@
  "subir_a_youtube": true,
  "voz": "em_alex",
  "velocidad_voz": 1.12,
- "auditoria_aprobada": false,
+ "auditoria_aprobada": true,
  "subidas_antes_de_auditoria": 1,
- "_auditoria": "Hasta que Google apruebe la auditoría de la API, los videos subidos quedan bloqueados en privado. Se sube 1 de prueba y el resto solo se genera. Cuando la aprueben, pon auditoria_aprobada a true."
+ "_auditoria": "Si YouTube bloquea en privado los videos subidos por la API (proyecto sin auditar), pon auditoria_aprobada a false para subir solo 1 y generar el resto."
 }
