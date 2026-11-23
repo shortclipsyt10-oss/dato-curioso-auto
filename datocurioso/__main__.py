@@ -75,6 +75,12 @@ def buscar(cfg, ident):
     return pend[0]
 
 
+def puede_subir(cfg, reg):
+    if not cfg["subir_a_youtube"]: return False
+    subidos = sum(1 for x in reg["videos"].values() if x.get("youtube_id"))
+    return cfg.get("auditoria_aprobada", True) or subidos < cfg.get("subidas_antes_de_auditoria", 1)
+
+
 def cmd_lote(cfg, args):
     from . import video, youtube
     lock = os.path.join(cfg["carpeta_datos"], "lote.lock")
@@ -91,7 +97,7 @@ def cmd_lote(cfg, args):
         for slot in libres:
             # Reutiliza un video ya renderizado que no se pudo subir; si no, la siguiente historia.
             pend_subida = [k for k, v in reg["videos"].items() if not v.get("youtube_id") and v.get("mp4") and os.path.exists(v["mp4"])
-                          and (cfg["subir_a_youtube"] and not args.sin_subir or not v.get("reservado"))]
+                          and (puede_subir(cfg, reg) and not args.sin_subir or not v.get("reservado"))]
             if pend_subida:
                 hid = pend_subida[0]; h = json.load(open(os.path.join(reg["videos"][hid]["carpeta"], "historia.json"), encoding="utf-8"))
             else:
@@ -107,7 +113,12 @@ def cmd_lote(cfg, args):
             v = reg["videos"][hid]
             meta = metadatos.generar(h)
             with open(os.path.join(v["carpeta"], "metadatos.json"), "w", encoding="utf-8") as f: json.dump(meta, f, ensure_ascii=False, indent=1)
-            if not cfg["subir_a_youtube"] or args.sin_subir:
+            subidos = sum(1 for x in reg["videos"].values() if x.get("youtube_id"))
+            bloqueo = not cfg.get("auditoria_aprobada", True) and subidos >= cfg.get("subidas_antes_de_auditoria", 1)
+            if bloqueo and not getattr(cmd_lote, "_aviso", False):
+                log(cfg, "Auditoría de YouTube pendiente: solo genero los videos (los subidos ahora quedarían bloqueados en privado).")
+                cmd_lote._aviso = True
+            if not cfg["subir_a_youtube"] or args.sin_subir or bloqueo:
                 # Reserva el hueco para no generar más videos de la cuenta; se subirá cuando se active la subida.
                 v["reservado"] = slot.isoformat(); guardar_registro(cfg, reg)
                 log(cfg, f"Listo (sin subir): {v['mp4']}"); continue

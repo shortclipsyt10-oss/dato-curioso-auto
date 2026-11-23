@@ -2,9 +2,28 @@
  "_comentario": "Ajustes del canal. Nada secreto aquí. Para cambios solo en tu PC crea config.local.json con las claves que quieras sobrescribir.",
  "carpeta_salida": "~/Desktop/curiosidades",
  "zona_horaria": "Europe/Madrid",
- "horas_publicacion": ["09:00", "12:00", "15:00", "18:00", "21:00", "00:00"],
- "_horas_cuando_amplien_cuota": ["00:00", "03:00", "06:00", "09:00", "12:00", "15:00", "18:00", "21:00"],
+ "horas_publicacion": [
+  "09:00",
+  "12:00",
+  "15:00",
+  "18:00",
+  "21:00",
+  "00:00"
+ ],
+ "_horas_cuando_amplien_cuota": [
+  "00:00",
+  "03:00",
+  "06:00",
+  "09:00",
+  "12:00",
+  "15:00",
+  "18:00",
+  "21:00"
+ ],
  "subir_a_youtube": true,
  "voz": "em_alex",
- "velocidad_voz": 1.12
+ "velocidad_voz": 1.12,
+ "auditoria_aprobada": false,
+ "subidas_antes_de_auditoria": 1,
+ "_auditoria": "Hasta que Google apruebe la auditoría de la API, los videos subidos quedan bloqueados en privado. Se sube 1 de prueba y el resto solo se genera. Cuando la aprueben, pon auditoria_aprobada a true."
 }
