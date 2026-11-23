@@ -52,7 +52,7 @@ def log(cfg, msg):
 
 def huecos(cfg, reg, ahora):
     tz = _tz(cfg); ahora = ahora.astimezone(tz)
-    ocupados = {v["publicar_en"] for v in reg["videos"].values() if v.get("publicar_en")}
+    ocupados = {v.get("publicar_en") or v.get("reservado") for v in reg["videos"].values()} - {None}
     ini = ahora + dt.timedelta(minutes=cfg["margen_minutos"]); fin = ahora + dt.timedelta(hours=cfg["horizonte_horas"])
     out = []
     for dia in range(0, 3):
@@ -90,7 +90,8 @@ def cmd_lote(cfg, args):
         log(cfg, f"Huecos por rellenar: {', '.join(s.strftime('%d/%m %H:%M') for s in libres)}")
         for slot in libres:
             # Reutiliza un video ya renderizado que no se pudo subir; si no, la siguiente historia.
-            pend_subida = [k for k, v in reg["videos"].items() if not v.get("youtube_id") and v.get("mp4") and os.path.exists(v["mp4"])]
+            pend_subida = [k for k, v in reg["videos"].items() if not v.get("youtube_id") and v.get("mp4") and os.path.exists(v["mp4"])
+                          and (cfg["subir_a_youtube"] and not args.sin_subir or not v.get("reservado"))]
             if pend_subida:
                 hid = pend_subida[0]; h = json.load(open(os.path.join(reg["videos"][hid]["carpeta"], "historia.json"), encoding="utf-8"))
             else:
@@ -107,6 +108,8 @@ def cmd_lote(cfg, args):
             meta = metadatos.generar(h)
             with open(os.path.join(v["carpeta"], "metadatos.json"), "w", encoding="utf-8") as f: json.dump(meta, f, ensure_ascii=False, indent=1)
             if not cfg["subir_a_youtube"] or args.sin_subir:
+                # Reserva el hueco para no generar más videos de la cuenta; se subirá cuando se active la subida.
+                v["reservado"] = slot.isoformat(); guardar_registro(cfg, reg)
                 log(cfg, f"Listo (sin subir): {v['mp4']}"); continue
             try:
                 yid = youtube.subir(cfg, v["mp4"], meta, publicar_en=slot, miniatura=os.path.join(v["carpeta"], "miniatura.png"))
