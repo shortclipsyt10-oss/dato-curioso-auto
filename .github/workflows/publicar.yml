@@ -1,0 +1,98 @@
+# Genera y sube los shorts en la nube cada 3 horas (no hace falta tener el PC encendido).
+# Secretos necesarios (Settings > Secrets and variables > Actions):
+#   YT_CLIENT_SECRET  contenido de client_secret.json
+#   YT_TOKEN          contenido de token.json (se crea con `python -m datocurioso autorizar`)
+name: Publicar shorts
+
+on:
+  schedule:
+    - cron: "37 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Máximo de videos en esta ejecución (vacío = todos los huecos)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  lote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      HAY_TOKEN: ${{ secrets.YT_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Comprobar credenciales
+        if: env.HAY_TOKEN != 'true'
+        run: echo "Faltan los secretos YT_CLIENT_SECRET y YT_TOKEN; no hago nada." 
+
+      - uses: actions/setup-python@v5
+        if: env.HAY_TOKEN == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Caché de modelos
+        if: env.HAY_TOKEN == 'true' de voz y emojis
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.dato-curioso/modelos
+            ~/.dato-curioso/emojis
+            ~/.fonts
+          key: datos-v1
+
+      - name: Instalar dependencias
+        if: env.HAY_TOKEN == 'true' y fuente
+        run: |
+          pip install -r requirements.txt
+          if [ ! -f ~/.fonts/InterDisplay-Black.otf ]; then
+            mkdir -p ~/.fonts /tmp/inter
+            curl -sL -o /tmp/inter.zip https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip
+            unzip -q -o /tmp/inter.zip -d /tmp/inter
+            find /tmp/inter -name "InterDisplay-Black.otf" -exec cp {} ~/.fonts/ \;
+          fi
+          fc-cache -f >/dev/null
+
+      - name: Configuración y credenciales
+        if: env.HAY_TOKEN == 'true'
+        env:
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_TOKEN: ${{ secrets.YT_TOKEN }}
+        run: |
+          mkdir -p ~/.dato-curioso
+          printf '%s' "$YT_CLIENT_SECRET" > ~/.dato-curioso/client_secret.json
+          printf '%s' "$YT_TOKEN" > ~/.dato-curioso/token.json
+          echo '{"carpeta_salida": "salida", "archivo_registro": "estado/registro.json", "fuente": "Inter Display Black", "procesos_render": 4}' > config.local.json
+
+      - name: Generar y subir
+        if: env.HAY_TOKEN == 'true'
+        run: |
+          if [ -n "${{ github.event.inputs.max }}" ]; then python -m datocurioso lote --max "${{ github.event.inputs.max }}"; else python -m datocurioso lote; fi
+
+      - name: Guardar registro
+        if: always() && env.HAY_TOKEN == 'true'
+        run: |
+          rm -f ~/.dato-curioso/token.json ~/.dato-curioso/client_secret.json
+          cp salida/registro.log estado/ultimo.log 2>/dev/null || true
+          git config user.name "dato-curioso-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add estado/
+          git diff --cached --quiet || (git commit -m "Registro de publicación" && git pull --rebase -q && git push)
+
+      - name: Videos generados (descargables 30 días)
+        if: always() && env.HAY_TOKEN == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-${{ github.run_number }}
+          path: |
+            salida/*/*.mp4
+            salida/*/miniatura.png
+          retention-days: 30
+          if-no-files-found: ignore

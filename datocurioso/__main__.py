@@ -28,7 +28,14 @@ def _tz(cfg):
 
 
 def _reg_path(cfg):
+    if cfg.get("archivo_registro"):
+        p = os.path.join(config.RAIZ, cfg["archivo_registro"]); os.makedirs(os.path.dirname(p), exist_ok=True); return p
     return os.path.join(cfg["carpeta_salida"], "registro.json")
+
+
+def usadas(reg):
+    """Historias ya subidas, o generadas cuyo video sigue en disco."""
+    return {k for k, v in reg["videos"].items() if v.get("youtube_id") or (v.get("mp4") and os.path.exists(v["mp4"]))}
 
 
 def leer_registro(cfg):
@@ -70,7 +77,7 @@ def buscar(cfg, ident):
         for r, h in historias.todas():
             if h["id"] == ident or os.path.basename(r).startswith(ident): return h
         raise SystemExit(f"No encuentro la historia {ident}")
-    pend = historias.siguientes(set(reg["videos"]))
+    pend = historias.siguientes(usadas(reg))
     if not pend: raise SystemExit("No quedan historias pendientes.")
     return pend[0]
 
@@ -82,6 +89,8 @@ def puede_subir(cfg, reg):
 
 
 def cmd_lote(cfg, args):
+    if cfg.get("ejecutar_en") == "nube" and not os.environ.get("GITHUB_ACTIONS"):
+        print("La publicación se hace en GitHub Actions (config.json: ejecutar_en = nube). Este PC no sube nada."); return
     from . import video, youtube
     lock = os.path.join(cfg["carpeta_datos"], "lote.lock")
     if os.path.exists(lock) and (dt.datetime.now().timestamp() - os.path.getmtime(lock)) < 3 * 3600:
@@ -101,7 +110,7 @@ def cmd_lote(cfg, args):
             if pend_subida:
                 hid = pend_subida[0]; h = json.load(open(os.path.join(reg["videos"][hid]["carpeta"], "historia.json"), encoding="utf-8"))
             else:
-                cola = historias.siguientes(set(reg["videos"]))
+                cola = historias.siguientes(usadas(reg))
                 if not cola:
                     log(cfg, "⚠️ No quedan historias en la cola (haz git pull o espera a que lleguen más)."); break
                 h = cola[0]; hid = h["id"]
@@ -129,7 +138,7 @@ def cmd_lote(cfg, args):
             v.update(youtube_id=yid, publicar_en=slot.isoformat(), subido_en=dt.datetime.now().isoformat(timespec="seconds"))
             guardar_registro(cfg, reg)
             log(cfg, f"Subido {hid} -> https://youtube.com/shorts/{yid} (se publica {slot:%d/%m %H:%M})")
-        quedan = len(historias.siguientes(set(reg["videos"])))
+        quedan = len(historias.siguientes(usadas(reg)))
         if quedan < len(cfg["horas_publicacion"]) * 2:
             log(cfg, f"Aviso: solo quedan {quedan} historias en cola.")
     finally:
@@ -142,7 +151,7 @@ def cmd_estado(cfg, args):
     prog = sorted((v["publicar_en"], k, v.get("youtube_id")) for k, v in reg["videos"].items() if v.get("publicar_en"))
     print("Programados / publicados:")
     for p, k, y in prog[-20:]: print(f"  {p[:16].replace('T', ' ')}  {k}  https://youtube.com/shorts/{y}")
-    cola = historias.siguientes(set(reg["videos"]))
+    cola = historias.siguientes(usadas(reg))
     print(f"\nHistorias en cola: {len(cola)}")
     for h in cola[:10]: print(f"  {h['id']}: {h['titulo']}")
 
