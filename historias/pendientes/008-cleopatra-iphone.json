@@ -1,0 +1,138 @@
+{
+ "id": "008-cleopatra-iphone",
+ "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯",
+ "descripcion": "La Gran Pirámide ya era antiquísima cuando nació Cleopatra. Las fechas no mienten.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#egipto",
+  "#cleopatra",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "cleopatra",
+  "pirámides",
+  "egipto",
+  "historia"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "MÁS CERCA DEL IPHONE",
+  "emojis": [
+   "📱",
+   "🏛️"
+  ]
+ },
+ "nota_veracidad": "La Gran Pirámide de Guiza se terminó hacia el 2560 a. C.; Cleopatra VII vivió del 69 al 30 a. C.; el primer iPhone salió en 2007. Las distancias son aproximadas (unos 2.500 frente a unos 2.040 años).",
+ "fuentes": [
+  "Encyclopaedia Britannica: Great Pyramid of Giza",
+  "Encyclopaedia Britannica: Cleopatra"
+ ],
+ "claves": [
+  "cleopatra",
+  "iphone",
+  "pirámide",
+  "dos",
+  "mil",
+  "quinientos",
+  "romanos",
+  "antigua"
+ ],
+ "escenas": [
+  {
+   "texto": "Cleopatra vivió más cerca de la época del iPhone que de cuando se construyó la Gran Pirámide.",
+   "tipo": "emoji",
+   "emojis": [
+    "📱",
+    "🏛️"
+   ],
+   "rotulo": "¿En serio?"
+  },
+  {
+   "texto": "La Gran Pirámide de Guiza se terminó hace unos cuatro mil quinientos años.",
+   "tipo": "fecha",
+   "anio": "2560 a. C.",
+   "emojis": [
+    "🔺"
+   ],
+   "rotulo": "Gran Pirámide"
+  },
+  {
+   "texto": "Cleopatra nació unos dos mil quinientos años después.",
+   "tipo": "fecha",
+   "anio": "69 a. C.",
+   "emojis": [
+    "👑"
+   ],
+   "rotulo": "Cleopatra"
+  },
+  {
+   "texto": "Y desde su muerte hasta el primer iPhone pasaron unos dos mil cuarenta años.",
+   "tipo": "fecha",
+   "anio": "2007",
+   "emojis": [
+    "📱"
+   ],
+   "rotulo": "Primer iPhone"
+  },
+  {
+   "texto": "O sea: para Cleopatra, las pirámides ya eran ruinas antiquísimas.",
+   "tipo": "sello",
+   "emojis": [
+    "🏚️"
+   ],
+   "sello": "¡Ya eran antiguas!"
+  },
+  {
+   "texto": "Los propios egipcios de su época las visitaban como monumentos del pasado, igual que nosotros.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧭",
+    "🔺"
+   ],
+   "rotulo": "Turismo antiguo"
+  },
+  {
+   "texto": "Y otro dato: Cleopatra no era egipcia de origen, sino de una familia griega, los Ptolomeos.",
+   "tipo": "versus",
+   "emojis": [
+    "🇬🇷",
+    "🏺"
+   ],
+   "rotulos": [
+    "Familia griega",
+    "Reina de Egipto"
+   ],
+   "rotulo": "Sus raíces"
+  },
+  {
+   "texto": "Fue la primera de su dinastía en aprender a hablar egipcio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🗣️"
+   ],
+   "rotulo": "Aprendió el idioma"
+  },
+  {
+   "texto": "Cuando murió, Egipto pasó a ser una provincia de Roma.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦅",
+    "🏛️"
+   ],
+   "rotulo": "Llegan los romanos"
+  },
+  {
+   "texto": "La historia antigua es mucho más larga de lo que parece.",
+   "tipo": "pregunta",
+   "emojis": [
+    "⏳",
+    "📜"
+   ]
+  },
+  {
+   "texto": "¿Te lo esperabas? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "id": "009-flamencos-rosas",
+ "titulo": "Los flamencos no nacen rosas 🦩",
+ "descripcion": "Las crías de flamenco son grises. Su color rosa viene de lo que comen.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#flamencos",
+  "#naturaleza",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "flamencos",
+  "animales",
+  "carotenoides",
+  "aves"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "NO NACEN ROSAS",
+  "emojis": [
+   "🦩"
+  ]
+ },
+ "nota_veracidad": "El color se debe a pigmentos carotenoides de algas y pequeños crustáceos (como la artemia). Las crías nacen con plumón grisáceo.",
+ "fuentes": [
+  "Smithsonian's National Zoo: American flamingo",
+  "National Geographic: Flamingos"
+ ],
+ "claves": [
+  "flamencos",
+  "grises",
+  "rosas",
+  "comen",
+  "carotenoides",
+  "zanahoria",
+  "cabeza",
+  "abajo",
+  "pata"
+ ],
+ "escenas": [
+  {
+   "texto": "Los flamencos no nacen rosas. Las crías son de un gris bastante aburrido.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦩",
+    "🐣"
+   ],
+   "rotulo": "Nacen grises"
+  },
+  {
+   "texto": "Su color viene de lo que comen: pequeñas algas y diminutos crustáceos.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🌿",
+     "Algas"
+    ],
+    [
+     "🦐",
+     "Crustáceos"
+    ],
+    [
+     "💧",
+     "Agua salada"
+    ]
+   ]
+  },
+  {
+   "texto": "Esos alimentos tienen unos pigmentos llamados carotenoides.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪"
+   ],
+   "rotulo": "Carotenoides"
+  },
+  {
+   "texto": "Son los mismos que dan el color naranja a la zanahoria.",
+   "tipo": "versus",
+   "emojis": [
+    "🥕",
+    "🦩"
+   ],
+   "rotulos": [
+    "Zanahoria",
+    "Flamenco"
+   ],
+   "rotulo": "Mismo pigmento"
+  },
+  {
+   "texto": "El cuerpo del flamenco los acumula en las plumas, y por eso se vuelven rosas.",
+   "tipo": "sello",
+   "emojis": [
+    "🦩"
+   ],
+   "sello": "¡Rosa!"
+  },
+  {
+   "texto": "Si dejan de comerlos, con el tiempo su plumaje se va apagando.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎨"
+   ],
+   "rotulo": "Pierden el color"
+  },
+  {
+   "texto": "Por eso en los zoológicos les dan una dieta especial para que no pierdan el color.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍽️",
+    "🦩"
+   ],
+   "rotulo": "Dieta especial"
+  },
+  {
+   "texto": "Además, comen con la cabeza boca abajo y filtran el agua con el pico.",
+   "tipo": "emoji",
+   "emojis": [
+    "🙃"
+   ],
+   "rotulo": "Al revés"
+  },
+  {
+   "texto": "¿Y por qué se apoyan en una sola pata? Los científicos aún no lo tienen del todo claro.",
+   "tipo": "duda",
+   "emojis": [
+    "🦩"
+   ],
+   "sello": "¿Misterio?"
+  },
+  {
+   "texto": "Una de las ideas es que así pierden menos calor.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌡️"
+   ],
+   "rotulo": "Una teoría"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

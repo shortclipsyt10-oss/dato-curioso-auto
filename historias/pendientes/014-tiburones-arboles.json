@@ -1,0 +1,144 @@
+{
+ "id": "014-tiburones-arboles",
+ "titulo": "Los tiburones son más antiguos que los árboles 🦈🌳",
+ "descripcion": "Ya había tiburones nadando en el mar millones de años antes de que existiera el primer árbol.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#tiburones",
+  "#animales",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tiburones",
+  "árboles",
+  "evolución",
+  "prehistoria"
+ ],
+ "paleta": "oceano",
+ "miniatura": {
+  "texto": "MÁS ANTIGUOS QUE LOS ÁRBOLES",
+  "emojis": [
+   "🦈",
+   "🌳"
+  ]
+ },
+ "nota_veracidad": "Los primeros indicios de tiburones (escamas fósiles) tienen unos 450 millones de años; los primeros árboles, unos 385-390 millones. Las fechas exactas se siguen debatiendo.",
+ "fuentes": [
+  "Natural History Museum (Londres): 'Sharks are older than trees'",
+  "Stein et al. (2007), Nature: árboles fósiles de Gilboa"
+ ],
+ "claves": [
+  "tiburones",
+  "árboles",
+  "cuatrocientos",
+  "cincuenta",
+  "millones",
+  "dinosaurios",
+  "extinciones",
+  "sobrevivido"
+ ],
+ "escenas": [
+  {
+   "texto": "Los tiburones son más antiguos que los árboles.",
+   "tipo": "versus",
+   "emojis": [
+    "🦈",
+    "🌳"
+   ],
+   "rotulos": [
+    "Tiburón",
+    "Árbol"
+   ],
+   "rotulo": "¿Quién llegó antes?"
+  },
+  {
+   "texto": "Los restos más antiguos de tiburones tienen unos cuatrocientos cincuenta millones de años.",
+   "tipo": "numero",
+   "valor": "450",
+   "unidad": "millones de años",
+   "emojis": [
+    "🦈"
+   ],
+   "rotulo": "Tiburones"
+  },
+  {
+   "texto": "Los primeros árboles aparecieron unos sesenta millones de años después.",
+   "tipo": "numero",
+   "valor": "385",
+   "unidad": "millones de años",
+   "emojis": [
+    "🌳"
+   ],
+   "rotulo": "Árboles"
+  },
+  {
+   "texto": "Es decir: había tiburones nadando cuando en tierra firme apenas había musgos y plantitas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌱"
+   ],
+   "rotulo": "Tierra casi vacía"
+  },
+  {
+   "texto": "También son mucho más antiguos que los dinosaurios.",
+   "tipo": "versus",
+   "emojis": [
+    "🦈",
+    "🦖"
+   ],
+   "rotulos": [
+    "Tiburón",
+    "Dinosaurio"
+   ],
+   "rotulo": "Ni comparación"
+  },
+  {
+   "texto": "Han sobrevivido a cinco grandes extinciones masivas.",
+   "tipo": "numero",
+   "valor": "5",
+   "unidad": "extinciones",
+   "emojis": [
+    "☄️"
+   ],
+   "rotulo": "Supervivientes"
+  },
+  {
+   "texto": "Incluida la del meteorito que acabó con los dinosaurios.",
+   "tipo": "sello",
+   "emojis": [
+    "☄️",
+    "🦈"
+   ],
+   "sello": "¡Sobrevivieron!"
+  },
+  {
+   "texto": "Su secreto: un diseño tan eficaz que apenas ha necesitado cambiar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏆"
+   ],
+   "rotulo": "Diseño perfecto"
+  },
+  {
+   "texto": "Hoy, por desgracia, muchas especies de tiburón están en peligro por la pesca.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎣",
+    "⚠️"
+   ],
+   "rotulo": "En peligro"
+  },
+  {
+   "texto": "Llevan aquí más que casi nadie.",
+   "tipo": "pregunta",
+   "emojis": [
+    "🦈"
+   ]
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

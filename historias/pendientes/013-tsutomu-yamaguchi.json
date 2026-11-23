@@ -1,0 +1,135 @@
+{
+ "id": "013-tsutomu-yamaguchi",
+ "titulo": "El hombre que sobrevivió a dos bombas atómicas",
+ "descripcion": "Tsutomu Yamaguchi estaba en Hiroshima cuando cayó la primera bomba. Tres días después, en Nagasaki, cayó la segunda.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#japon",
+  "#segundaguerramundial",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tsutomu yamaguchi",
+  "hiroshima",
+  "nagasaki",
+  "historia"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "SOBREVIVIÓ DOS VECES",
+  "emojis": [
+   "🏙️",
+   "🕊️"
+  ]
+ },
+ "nota_veracidad": "Yamaguchi es el único superviviente reconocido oficialmente por Japón (en 2009) de ambos bombardeos, aunque se sabe de otras personas que estuvieron en las dos ciudades. Murió en 2010 a los 93 años.",
+ "fuentes": [
+  "The Guardian (2010): 'Tsutomu Yamaguchi obituary'",
+  "BBC News (2010): 'Japanese survivor of both atomic bombs dies'"
+ ],
+ "claves": [
+  "hiroshima",
+  "nagasaki",
+  "tres",
+  "kilómetros",
+  "días",
+  "noventa",
+  "dos",
+  "bombas",
+  "paz"
+ ],
+ "escenas": [
+  {
+   "texto": "Tsutomu Yamaguchi sobrevivió a las dos bombas atómicas de la Segunda Guerra Mundial.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️"
+   ],
+   "rotulo": "Dos veces"
+  },
+  {
+   "texto": "En agosto de mil novecientos cuarenta y cinco era ingeniero y estaba de viaje de trabajo en Hiroshima.",
+   "tipo": "fecha",
+   "anio": "1945",
+   "emojis": [
+    "🧳"
+   ],
+   "rotulo": "Viaje de trabajo"
+  },
+  {
+   "texto": "Cuando cayó la bomba, estaba a unos tres kilómetros. Sufrió quemaduras y se quedó sin oír de un oído.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "kilómetros",
+   "emojis": [
+    "💥"
+   ],
+   "rotulo": "Hiroshima"
+  },
+  {
+   "texto": "Al día siguiente, herido, volvió en tren a su ciudad.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚂"
+   ],
+   "rotulo": "De vuelta a casa"
+  },
+  {
+   "texto": "Su ciudad era Nagasaki.",
+   "tipo": "sello",
+   "emojis": [
+    "🏙️"
+   ],
+   "sello": "Nagasaki"
+  },
+  {
+   "texto": "Tres días después de la primera, cayó allí la segunda bomba, mientras le contaba a su jefe lo ocurrido.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "días después",
+   "emojis": [
+    "😨"
+   ],
+   "rotulo": "Otra vez"
+  },
+  {
+   "texto": "Volvió a sobrevivir, de nuevo a unos tres kilómetros.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍀"
+   ],
+   "rotulo": "Sobrevivió"
+  },
+  {
+   "texto": "En dos mil nueve, Japón le reconoció oficialmente como superviviente de los dos bombardeos.",
+   "tipo": "fecha",
+   "anio": "2009",
+   "emojis": [
+    "📜"
+   ],
+   "rotulo": "Reconocido"
+  },
+  {
+   "texto": "Dedicó sus últimos años a hablar contra las armas nucleares, y murió con noventa y tres años.",
+   "tipo": "numero",
+   "valor": "93",
+   "unidad": "años",
+   "emojis": [
+    "☮️"
+   ],
+   "rotulo": "Por la paz"
+  },
+  {
+   "texto": "Una historia increíble que nunca debería repetirse.",
+   "tipo": "pregunta",
+   "emojis": [
+    "🕊️"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

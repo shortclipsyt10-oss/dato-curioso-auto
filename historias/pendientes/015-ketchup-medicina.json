@@ -1,0 +1,145 @@
+{
+ "id": "015-ketchup-medicina",
+ "titulo": "El ketchup se vendía como medicina 🍅💊",
+ "descripcion": "En el siglo XIX, en Estados Unidos, el tomate se vendió en pastillas como remedio para casi todo.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#comida",
+  "#ketchup",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "ketchup",
+  "historia de la comida",
+  "tomate",
+  "curiosidades"
+ ],
+ "paleta": "comida",
+ "miniatura": {
+  "texto": "ERA UNA MEDICINA",
+  "emojis": [
+   "🍅",
+   "💊"
+  ]
+ },
+ "nota_veracidad": "Hacia 1834 el médico John Cook Bennett promocionó el tomate como remedio, y después se vendieron 'píldoras de tomate' como las del Dr. Miles. No tenían ningún efecto médico demostrado. El ketchup original asiático era una salsa de pescado fermentado.",
+ "fuentes": [
+  "Andrew F. Smith, 'The Tomato in America' (1994)",
+  "Smithsonian Magazine: The history of ketchup"
+ ],
+ "claves": [
+  "ketchup",
+  "medicina",
+  "tomate",
+  "pastillas",
+  "pescado",
+  "indigestión",
+  "falsas"
+ ],
+ "escenas": [
+  {
+   "texto": "Hubo una época en la que el ketchup se vendía como medicina.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍅",
+    "💊"
+   ],
+   "rotulo": "¿Medicina?"
+  },
+  {
+   "texto": "Por cierto, el ketchup original no llevaba tomate: era una salsa asiática de pescado fermentado.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐟",
+    "🫙"
+   ],
+   "rotulo": "Ketchup original"
+  },
+  {
+   "texto": "Con los siglos, en Occidente se fue haciendo con setas, nueces… y, al final, tomate.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🍄",
+     "Setas"
+    ],
+    [
+     "🌰",
+     "Nueces"
+    ],
+    [
+     "🍅",
+     "Tomate"
+    ]
+   ]
+  },
+  {
+   "texto": "Hacia mil ochocientos treinta y cuatro, un médico estadounidense empezó a decir que el tomate curaba de todo.",
+   "tipo": "fecha",
+   "anio": "1834",
+   "emojis": [
+    "👨‍⚕️"
+   ],
+   "rotulo": "Un médico"
+  },
+  {
+   "texto": "Según él, servía para la indigestión, la diarrea y otros males.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤢"
+   ],
+   "rotulo": "Remedio para todo"
+  },
+  {
+   "texto": "Publicó recetas de ketchup como tónico, y pronto se vendieron pastillas de tomate.",
+   "tipo": "emoji",
+   "emojis": [
+    "💊",
+    "🍅"
+   ],
+   "rotulo": "Pastillas de tomate"
+  },
+  {
+   "texto": "Fueron un éxito enorme… hasta que se descubrió que muchas no tenían ni tomate.",
+   "tipo": "sello",
+   "emojis": [
+    "💊"
+   ],
+   "sello": "¡Falsas!"
+  },
+  {
+   "texto": "Algunas eran simples laxantes con otro nombre.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚽"
+   ],
+   "rotulo": "Solo laxantes"
+  },
+  {
+   "texto": "La moda de las pastillas se hundió, pero el ketchup como salsa se quedó para siempre.",
+   "tipo": "versus",
+   "emojis": [
+    "💊",
+    "🍟"
+   ],
+   "rotulos": [
+    "Medicina",
+    "Salsa"
+   ],
+   "rotulo": "Ganó la salsa"
+  },
+  {
+   "texto": "¿Te imaginas ir a la farmacia a por ketchup?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🍅",
+    "🏥"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

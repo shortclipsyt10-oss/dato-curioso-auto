@@ -1,0 +1,142 @@
+{
+ "id": "019-torre-eiffel-crece",
+ "titulo": "La Torre Eiffel crece en verano 🗼☀️",
+ "descripcion": "Con el calor, el hierro se dilata y la Torre Eiffel puede ganar varios centímetros de altura.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#paris",
+  "#torreeiffel",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "torre eiffel",
+  "dilatación",
+  "parís",
+  "ciencia"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "CRECE EN VERANO",
+  "emojis": [
+   "🗼",
+   "☀️"
+  ]
+ },
+ "nota_veracidad": "La web oficial de la Torre Eiffel indica que puede variar hasta unos 15 cm según la temperatura. Se construyó en 1889 y su permiso inicial era por 20 años.",
+ "fuentes": [
+  "Sitio oficial de la Torre Eiffel (toureiffel.paris): 'The tower moves'"
+ ],
+ "claves": [
+  "torre",
+  "eiffel",
+  "crece",
+  "verano",
+  "quince",
+  "centímetros",
+  "hierro",
+  "veinte",
+  "años",
+  "antena"
+ ],
+ "escenas": [
+  {
+   "texto": "La Torre Eiffel crece en verano.",
+   "tipo": "emoji",
+   "emojis": [
+    "🗼",
+    "☀️"
+   ],
+   "rotulo": "¿Crece?"
+  },
+  {
+   "texto": "Está hecha de hierro, y el hierro se dilata con el calor.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔥",
+    "🔩"
+   ],
+   "rotulo": "Dilatación"
+  },
+  {
+   "texto": "En los días calurosos puede ganar hasta unos quince centímetros de altura.",
+   "tipo": "numero",
+   "valor": "15",
+   "unidad": "centímetros",
+   "emojis": [
+    "📏"
+   ],
+   "rotulo": "Más alta"
+  },
+  {
+   "texto": "Y en invierno, con el frío, vuelve a encoger.",
+   "tipo": "versus",
+   "emojis": [
+    "☀️",
+    "❄️"
+   ],
+   "rotulos": [
+    "Verano: crece",
+    "Invierno: encoge"
+   ],
+   "rotulo": "Respira"
+  },
+  {
+   "texto": "Además, el sol calienta más un lado que otro, y la punta se inclina un poquito.",
+   "tipo": "emoji",
+   "emojis": [
+    "↗️"
+   ],
+   "rotulo": "Se inclina"
+  },
+  {
+   "texto": "Se construyó para la Exposición Universal de mil ochocientos ochenta y nueve.",
+   "tipo": "fecha",
+   "anio": "1889",
+   "emojis": [
+    "🎡"
+   ],
+   "rotulo": "Exposición Universal"
+  },
+  {
+   "texto": "Y no debía quedarse: tenía permiso para solo veinte años.",
+   "tipo": "numero",
+   "valor": "20",
+   "unidad": "años de permiso",
+   "emojis": [
+    "⏳"
+   ],
+   "rotulo": "Era temporal"
+  },
+  {
+   "texto": "Muchos artistas de la época la odiaban y la llamaban monstruosa.",
+   "tipo": "emoji",
+   "emojis": [
+    "😠",
+    "🎨"
+   ],
+   "rotulo": "La odiaban"
+  },
+  {
+   "texto": "Se salvó en parte por ser útil como antena de radio.",
+   "tipo": "sello",
+   "emojis": [
+    "📡"
+   ],
+   "sello": "¡Salvada!"
+  },
+  {
+   "texto": "Hoy es uno de los monumentos más visitados del mundo.",
+   "tipo": "emoji",
+   "emojis": [
+    "📸",
+    "🌍"
+   ],
+   "rotulo": "Todo un éxito"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

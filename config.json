@@ -1,0 +1,10 @@
+{
+ "_comentario": "Ajustes del canal. Nada secreto aquí. Para cambios solo en tu PC crea config.local.json con las claves que quieras sobrescribir.",
+ "carpeta_salida": "~/Desktop/curiosidades",
+ "zona_horaria": "Europe/Madrid",
+ "horas_publicacion": ["09:00", "12:00", "15:00", "18:00", "21:00", "00:00"],
+ "_horas_cuando_amplien_cuota": ["00:00", "03:00", "06:00", "09:00", "12:00", "15:00", "18:00", "21:00"],
+ "subir_a_youtube": true,
+ "voz": "em_alex",
+ "velocidad_voz": 1.12
+}

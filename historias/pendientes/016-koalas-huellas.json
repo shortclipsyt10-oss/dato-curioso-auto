@@ -1,0 +1,127 @@
+{
+ "id": "016-koalas-huellas",
+ "titulo": "Las huellas de los koalas se parecen a las tuyas 🐨",
+ "descripcion": "Las huellas dactilares de los koalas son tan parecidas a las humanas que cuesta distinguirlas.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#koala",
+  "#naturaleza",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "koala",
+  "huellas dactilares",
+  "animales",
+  "australia"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "HUELLAS COMO LAS TUYAS",
+  "emojis": [
+   "🐨",
+   "🔍"
+  ]
+ },
+ "nota_veracidad": "Un estudio de 1996 (Henneberg y colaboradores) mostró que las huellas de koala son muy similares a las humanas, incluso al microscopio. Lo de confundir a la policía en la escena de un crimen es una posibilidad teórica, no un caso documentado.",
+ "fuentes": [
+  "Henneberg, Lambert y Leigh (1997), Nature: 'Fingerprint homoplasy: koalas and humans'"
+ ],
+ "claves": [
+  "koalas",
+  "huellas",
+  "dactilares",
+  "humanas",
+  "eucalipto",
+  "veinte",
+  "horas",
+  "duermen",
+  "chimpancés"
+ ],
+ "escenas": [
+  {
+   "texto": "Los koalas tienen huellas dactilares casi idénticas a las de los humanos.",
+   "tipo": "versus",
+   "emojis": [
+    "🐨",
+    "🖐️"
+   ],
+   "rotulos": [
+    "Koala",
+    "Humano"
+   ],
+   "rotulo": "Huellas gemelas"
+  },
+  {
+   "texto": "Son tan parecidas que, incluso al microscopio, cuesta distinguirlas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔬"
+   ],
+   "rotulo": "Al microscopio"
+  },
+  {
+   "texto": "Lo curioso es que no somos parientes cercanos: ni los chimpancés se parecen tanto.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐒"
+   ],
+   "rotulo": "No somos familia"
+  },
+  {
+   "texto": "Se cree que las desarrollaron por separado, para agarrarse bien a las ramas y a las hojas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌿"
+   ],
+   "rotulo": "Para agarrarse"
+  },
+  {
+   "texto": "Algunos expertos dicen, medio en broma, que podrían confundir a la policía en un crimen.",
+   "tipo": "duda",
+   "emojis": [
+    "🕵️"
+   ],
+   "sello": "¿Sospechoso?"
+  },
+  {
+   "texto": "Pero un koala tiene poco tiempo para delinquir: duerme hasta unas veinte horas al día.",
+   "tipo": "numero",
+   "valor": "20",
+   "unidad": "horas durmiendo",
+   "emojis": [
+    "😴"
+   ],
+   "rotulo": "Dormilones"
+  },
+  {
+   "texto": "Es porque solo comen hojas de eucalipto, que les dan muy poca energía.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌿",
+    "🔋"
+   ],
+   "rotulo": "Eucalipto"
+  },
+  {
+   "texto": "Además, esas hojas son tóxicas para la mayoría de los animales.",
+   "tipo": "sello",
+   "emojis": [
+    "☠️"
+   ],
+   "sello": "Tóxicas"
+  },
+  {
+   "texto": "Los koalas tienen bacterias especiales en el intestino que les permiten digerirlas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦠"
+   ],
+   "rotulo": "Superdigestión"
+  },
+  {
+   "texto": "¿Sabías que los koalas tienen huellas como las tuyas? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

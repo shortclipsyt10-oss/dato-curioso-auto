@@ -1,0 +1,24 @@
+{
+ "id": "007-tardigrados",
+ "titulo": "El animal que sobrevive al espacio 🐻🚀",
+ "descripcion": "Miden menos de un milímetro, pero aguantan el vacío del espacio, la radiación y años sin agua. Así son los tardígrados, los osos de agua.",
+ "hashtags": ["#datoscuriosos", "#tardigrados", "#ciencia", "#animales", "#shorts"],
+ "etiquetas": ["tardígrados", "osos de agua", "animales extremos", "datos curiosos", "ciencia"],
+ "paleta": "ciencia",
+ "miniatura": {"texto": "SOBREVIVE AL ESPACIO", "emojis": ["🐻", "🚀"]},
+ "nota_veracidad": "En 2007 la misión FOTON-M3 expuso tardígrados al vacío espacial durante unos 10 días y una parte sobrevivió y se reprodujo. La resistencia depende del estado de 'tun' (deshidratados). No son literalmente indestructibles.",
+ "fuentes": ["Jönsson et al. (2008), Current Biology: 'Tardigrades survive exposure to space in low Earth orbit'"],
+ "claves": ["tardígrados", "espacio", "agua", "milímetro", "radiación", "diez", "días", "tun", "indestructibles"],
+ "escenas": [
+  {"texto": "Hay un animal que ha sobrevivido al vacío del espacio. Y probablemente viva en el musgo de tu calle.", "tipo": "emoji", "emojis": ["🚀", "🌿"], "rotulo": "Sobrevive al espacio"},
+  {"texto": "Se llaman tardígrados, aunque los científicos los apodan osos de agua.", "tipo": "emoji", "emojis": ["🐻", "💧"], "rotulo": "Osos de agua"},
+  {"texto": "Miden menos de un milímetro y tienen ocho patitas con garras.", "tipo": "numero", "valor": "0,5", "unidad": "milímetros", "emojis": ["🔬"], "rotulo": "Diminutos"},
+  {"texto": "Su truco es secarse por completo: se encogen como una bolita y apagan casi todo su cuerpo.", "tipo": "emoji", "emojis": ["🫥"], "rotulo": "Modo bolita"},
+  {"texto": "En ese estado aguantan frío extremo, calor, radiación y años sin una gota de agua.", "tipo": "lista", "items": [["🥶", "Frío extremo"], ["🔥", "Calor"], ["☢️", "Radiación"]]},
+  {"texto": "En dos mil siete, una misión espacial los dejó unos diez días expuestos fuera de la nave.", "tipo": "fecha", "anio": "2007", "emojis": ["🛰️"], "rotulo": "Misión espacial"},
+  {"texto": "Al volver a la Tierra y mojarlos, una parte despertó… e incluso tuvo crías.", "tipo": "sello", "emojis": ["🐣"], "sello": "¡Sobrevivieron!"},
+  {"texto": "Ojo, no son indestructibles: muchos murieron, sobre todo los que recibieron la luz directa del sol.", "tipo": "duda", "emojis": ["☀️"], "sello": "No inmortales"},
+  {"texto": "Aun así, son de los animales más resistentes que conocemos.", "tipo": "versus", "emojis": ["🐻", "🦁"], "rotulos": ["Tardígrado", "Cualquier otro"], "rotulo": "Campeón"},
+  {"texto": "¿Te imaginabas que algo tan pequeño fuera tan duro? Síguenos para más curiosidades.", "tipo": "final"}
+ ]
+}

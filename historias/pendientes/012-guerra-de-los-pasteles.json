@@ -1,0 +1,142 @@
+{
+ "id": "012-guerra-de-los-pasteles",
+ "titulo": "La guerra que empezó por unos pasteles 🥐⚔️",
+ "descripcion": "En 1838 Francia y México entraron en guerra… y todo empezó con una pastelería destrozada.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#mexico",
+  "#francia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "guerra de los pasteles",
+  "historia de méxico",
+  "francia",
+  "historia"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "LA GUERRA DE LOS PASTELES",
+  "emojis": [
+   "🥐",
+   "⚔️"
+  ]
+ },
+ "nota_veracidad": "La reclamación del pastelero Remontel fue la más famosa y le dio nombre, pero Francia reclamaba muchas deudas y daños a ciudadanos franceses. La cifra exigida fue de 600.000 pesos.",
+ "fuentes": [
+  "Encyclopaedia Britannica: Pastry War"
+ ],
+ "claves": [
+  "pasteles",
+  "pastelero",
+  "francia",
+  "méxico",
+  "seiscientos",
+  "mil",
+  "pesos",
+  "barcos",
+  "santa",
+  "anna",
+  "pierna"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil ochocientos treinta y ocho, Francia y México entraron en guerra. Y la llamaron la guerra de los pasteles.",
+   "tipo": "fecha",
+   "anio": "1838",
+   "emojis": [
+    "🥐"
+   ],
+   "rotulo": "Guerra de los pasteles"
+  },
+  {
+   "texto": "Todo empezó años antes, cuando unos soldados destrozaron la pastelería de un francés en México.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥐",
+    "💥"
+   ],
+   "rotulo": "Pastelería destrozada"
+  },
+  {
+   "texto": "El pastelero pidió una compensación… y el gobierno francés hizo suya la queja.",
+   "tipo": "emoji",
+   "emojis": [
+    "👨‍🍳",
+    "📜"
+   ],
+   "rotulo": "Una queja"
+  },
+  {
+   "texto": "Francia sumó otras deudas y exigió seiscientos mil pesos, una fortuna para la época.",
+   "tipo": "numero",
+   "valor": "600.000",
+   "unidad": "pesos",
+   "emojis": [
+    "💰"
+   ],
+   "rotulo": "La factura"
+  },
+  {
+   "texto": "México se negó a pagar, y Francia mandó barcos de guerra a bloquear el puerto de Veracruz.",
+   "tipo": "versus",
+   "emojis": [
+    "⛵",
+    "🏰"
+   ],
+   "rotulos": [
+    "Francia",
+    "Veracruz"
+   ],
+   "rotulo": "Bloqueo"
+  },
+  {
+   "texto": "Hubo bombardeos y combates durante varios meses.",
+   "tipo": "emoji",
+   "emojis": [
+    "💣",
+    "⚔️"
+   ],
+   "rotulo": "Meses de combate"
+  },
+  {
+   "texto": "En uno de ellos, el general mexicano Santa Anna perdió una pierna.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦵"
+   ],
+   "rotulo": "Santa Anna"
+  },
+  {
+   "texto": "Años después, le hizo un funeral con honores militares a su propia pierna.",
+   "tipo": "sello",
+   "emojis": [
+    "⚰️",
+    "🦵"
+   ],
+   "sello": "¡Un funeral!"
+  },
+  {
+   "texto": "Al final, con ayuda británica, México aceptó pagar y la guerra terminó en mil ochocientos treinta y nueve.",
+   "tipo": "fecha",
+   "anio": "1839",
+   "emojis": [
+    "🕊️"
+   ],
+   "rotulo": "Fin de la guerra"
+  },
+  {
+   "texto": "Todo, en parte, por unos pasteles.",
+   "tipo": "pregunta",
+   "emojis": [
+    "🥐",
+    "🍰"
+   ]
+  },
+  {
+   "texto": "¿La conocías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

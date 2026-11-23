@@ -1,0 +1,129 @@
+{
+ "id": "018-gran-muralla-espacio",
+ "titulo": "¿Se ve la Gran Muralla desde el espacio? 🧱🚀",
+ "descripcion": "Es uno de los mitos más repetidos del mundo. Los astronautas lo tienen claro.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#mitos",
+  "#china",
+  "#espacio",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "gran muralla china",
+  "mitos",
+  "espacio",
+  "astronautas"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "¿SE VE DESDE EL ESPACIO?",
+  "emojis": [
+   "🧱",
+   "🚀"
+  ]
+ },
+ "nota_veracidad": "Desde la órbita baja (unos 400 km) la muralla es prácticamente imposible de ver a simple vista por su anchura y su color parecido al terreno. El astronauta chino Yang Liwei dijo en 2003 que no la vio. Con cámaras y teleobjetivo sí se ha fotografiado.",
+ "fuentes": [
+  "NASA Earth Observatory: 'Great Wall of China'",
+  "Scientific American: 'Is China's Great Wall visible from space?'"
+ ],
+ "claves": [
+  "muralla",
+  "espacio",
+  "mito",
+  "cuatrocientos",
+  "kilómetros",
+  "astronauta",
+  "cabello",
+  "luces"
+ ],
+ "escenas": [
+  {
+   "texto": "Seguro que te han dicho que la Gran Muralla China se ve desde el espacio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧱",
+    "🚀"
+   ],
+   "rotulo": "¿Verdad o mito?"
+  },
+  {
+   "texto": "Pues es un mito.",
+   "tipo": "sello",
+   "emojis": [
+    "🙅"
+   ],
+   "sello": "¡Mito!"
+  },
+  {
+   "texto": "La muralla es larguísima, pero muy estrecha: en muchos tramos mide unos pocos metros de ancho.",
+   "tipo": "versus",
+   "emojis": [
+    "📏",
+    "🧱"
+   ],
+   "rotulos": [
+    "Muy larga",
+    "Muy estrecha"
+   ],
+   "rotulo": "El problema"
+  },
+  {
+   "texto": "Y desde la Estación Espacial, que orbita a unos cuatrocientos kilómetros, eso es casi invisible.",
+   "tipo": "numero",
+   "valor": "400",
+   "unidad": "kilómetros de altura",
+   "emojis": [
+    "🛰️"
+   ],
+   "rotulo": "Desde la estación"
+  },
+  {
+   "texto": "Sería como intentar ver un cabello a varios kilómetros de distancia.",
+   "tipo": "emoji",
+   "emojis": [
+    "👀"
+   ],
+   "rotulo": "Como un cabello"
+  },
+  {
+   "texto": "Además, está hecha de piedra y tierra del mismo color que el terreno.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪨"
+   ],
+   "rotulo": "Se camufla"
+  },
+  {
+   "texto": "El primer astronauta chino, en dos mil tres, contó que no la pudo ver.",
+   "tipo": "fecha",
+   "anio": "2003",
+   "emojis": [
+    "👨‍🚀"
+   ],
+   "rotulo": "Lo confirmó"
+  },
+  {
+   "texto": "Con cámaras y teleobjetivos sí se ha fotografiado, pero no a simple vista.",
+   "tipo": "emoji",
+   "emojis": [
+    "📸"
+   ],
+   "rotulo": "Solo con cámara"
+  },
+  {
+   "texto": "Lo que sí se ve muy bien desde el espacio, de noche, son las luces de las ciudades.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌃",
+    "💡"
+   ],
+   "rotulo": "Eso sí se ve"
+  },
+  {
+   "texto": "¿Tú también te lo creías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

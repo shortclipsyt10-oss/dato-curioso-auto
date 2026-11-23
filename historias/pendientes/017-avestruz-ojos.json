@@ -1,0 +1,142 @@
+{
+ "id": "017-avestruz-ojos",
+ "titulo": "El ojo del avestruz es más grande que su cerebro 🦤",
+ "descripcion": "El avestruz tiene los ojos más grandes de cualquier animal terrestre… y un cerebro más pequeño que uno de ellos.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#avestruz",
+  "#naturaleza",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "avestruz",
+  "aves",
+  "animales",
+  "ojos"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "OJOS MÁS GRANDES QUE SU CEREBRO",
+  "emojis": [
+   "👁️",
+   "🧠"
+  ]
+ },
+ "nota_veracidad": "Cada ojo del avestruz mide unos 5 cm de diámetro, el mayor de los vertebrados terrestres. Lo de esconder la cabeza en la arena es un mito: bajan la cabeza para cuidar los huevos o esconderse tumbados.",
+ "fuentes": [
+  "San Diego Zoo Wildlife Alliance: Ostrich",
+  "National Geographic: Ostrich"
+ ],
+ "claves": [
+  "avestruz",
+  "ojos",
+  "cerebro",
+  "cinco",
+  "centímetros",
+  "setenta",
+  "kilómetros",
+  "arena",
+  "mito"
+ ],
+ "escenas": [
+  {
+   "texto": "Cada ojo de un avestruz es más grande que su cerebro.",
+   "tipo": "versus",
+   "emojis": [
+    "👁️",
+    "🧠"
+   ],
+   "rotulos": [
+    "Un ojo",
+    "Su cerebro"
+   ],
+   "rotulo": "Avestruz"
+  },
+  {
+   "texto": "Miden unos cinco centímetros: son los ojos más grandes de cualquier animal terrestre.",
+   "tipo": "numero",
+   "valor": "5",
+   "unidad": "centímetros",
+   "emojis": [
+    "👁️"
+   ],
+   "rotulo": "Ojazos"
+  },
+  {
+   "texto": "Gracias a ellos pueden ver a un depredador a kilómetros de distancia.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔭"
+   ],
+   "rotulo": "Vista de lince"
+  },
+  {
+   "texto": "Y cuando lo ven, corren. Pueden alcanzar unos setenta kilómetros por hora.",
+   "tipo": "numero",
+   "valor": "70",
+   "unidad": "km/h",
+   "emojis": [
+    "💨"
+   ],
+   "rotulo": "Velocistas"
+  },
+  {
+   "texto": "Es el ave más rápida en tierra… aunque no puede volar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏃"
+   ],
+   "rotulo": "No vuela"
+  },
+  {
+   "texto": "También pone el huevo más grande del mundo: pesa como unos veinte huevos de gallina.",
+   "tipo": "versus",
+   "emojis": [
+    "🥚",
+    "🐔"
+   ],
+   "rotulos": [
+    "1 de avestruz",
+    "20 de gallina"
+   ],
+   "rotulo": "Huevazo"
+  },
+  {
+   "texto": "¿Y lo de que esconde la cabeza en la arena cuando tiene miedo?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🏜️"
+   ]
+  },
+  {
+   "texto": "Es un mito.",
+   "tipo": "sello",
+   "emojis": [
+    "🙅"
+   ],
+   "sello": "¡Falso!"
+  },
+  {
+   "texto": "Lo que hacen es bajar la cabeza para dar la vuelta a los huevos en el nido, que cavan en el suelo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥚",
+    "🕳️"
+   ],
+   "rotulo": "Cuidan los huevos"
+  },
+  {
+   "texto": "O se tumban pegados al suelo para pasar desapercibidos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🫣"
+   ],
+   "rotulo": "Camuflaje"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "id": "011-platanos-radiactivos",
+ "titulo": "Los plátanos son (un poco) radiactivos 🍌☢️",
+ "descripcion": "Todos los plátanos emiten algo de radiación. Tranquilo: no pasa nada por comerlos.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#ciencia",
+  "#platano",
+  "#radiacion",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "plátano",
+  "radiación",
+  "potasio",
+  "ciencia"
+ ],
+ "paleta": "comida",
+ "miniatura": {
+  "texto": "RADIACTIVOS",
+  "emojis": [
+   "🍌",
+   "☢️"
+  ]
+ },
+ "nota_veracidad": "El potasio natural contiene un 0,012 % de potasio-40, radiactivo. La 'dosis equivalente a un plátano' es una unidad informal. El cuerpo regula su potasio, así que comer plátanos no acumula radiación.",
+ "fuentes": [
+  "Health Physics Society: Banana Equivalent Dose",
+  "US EPA: Radiation sources and doses"
+ ],
+ "claves": [
+  "plátanos",
+  "radiactivos",
+  "potasio",
+  "cuerpo",
+  "millones",
+  "tranquilo",
+  "plátano"
+ ],
+ "escenas": [
+  {
+   "texto": "Los plátanos son radiactivos. Sí, el de tu frutero también.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍌",
+    "☢️"
+   ],
+   "rotulo": "¿Radiactivos?"
+  },
+  {
+   "texto": "Es por el potasio. Los plátanos tienen mucho, y una parte diminuta del potasio natural es radiactiva.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪"
+   ],
+   "rotulo": "Potasio"
+  },
+  {
+   "texto": "Se llama potasio cuarenta, y está en casi todo lo que comemos.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🥔",
+     "Patatas"
+    ],
+    [
+     "🥜",
+     "Frutos secos"
+    ],
+    [
+     "🥬",
+     "Verduras"
+    ]
+   ]
+  },
+  {
+   "texto": "Tanto que los científicos inventaron, medio en broma, una unidad: la dosis equivalente a un plátano.",
+   "tipo": "sello",
+   "emojis": [
+    "🍌"
+   ],
+   "sello": "1 plátano"
+  },
+  {
+   "texto": "Tranquilo: para que fuera peligroso tendrías que comerte millones de golpe.",
+   "tipo": "numero",
+   "valor": "10.000.000",
+   "unidad": "plátanos",
+   "emojis": [
+    "😵"
+   ],
+   "rotulo": "Imposible"
+  },
+  {
+   "texto": "Y además, tu cuerpo expulsa el potasio que le sobra, así que no se acumula.",
+   "tipo": "emoji",
+   "emojis": [
+    "💪"
+   ],
+   "rotulo": "Tu cuerpo lo regula"
+  },
+  {
+   "texto": "De hecho, tú también eres un poco radiactivo, por el mismo motivo.",
+   "tipo": "versus",
+   "emojis": [
+    "🍌",
+    "🧍"
+   ],
+   "rotulos": [
+    "Plátano",
+    "Tú"
+   ],
+   "rotulo": "Los dos"
+  },
+  {
+   "texto": "Dormir al lado de alguien también te da una pizca de radiación. Totalmente inofensiva.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛌"
+   ],
+   "rotulo": "Inofensivo"
+  },
+  {
+   "texto": "Así que puedes seguir comiendo plátanos sin ningún miedo.",
+   "tipo": "sello",
+   "emojis": [
+    "😋",
+    "🍌"
+   ],
+   "sello": "¡A comer!"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

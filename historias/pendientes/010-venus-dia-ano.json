@@ -1,0 +1,145 @@
+{
+ "id": "010-venus-dia-ano",
+ "titulo": "En Venus un día dura más que un año 🪐",
+ "descripcion": "Venus gira tan despacio sobre sí mismo que da la vuelta al Sol antes de completar un día.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#espacio",
+  "#venus",
+  "#astronomia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "venus",
+  "planetas",
+  "astronomía",
+  "espacio"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "UN DÍA MÁS LARGO QUE UN AÑO",
+  "emojis": [
+   "🪐",
+   "⏳"
+  ]
+ },
+ "nota_veracidad": "Una rotación de Venus dura unos 243 días terrestres y una vuelta al Sol unos 225. El 'día solar' (de amanecer a amanecer) es de unos 117 días terrestres por su giro retrógrado.",
+ "fuentes": [
+  "NASA Science: Venus Facts"
+ ],
+ "claves": [
+  "venus",
+  "día",
+  "año",
+  "doscientos",
+  "cuarenta",
+  "tres",
+  "oeste",
+  "plomo",
+  "caliente"
+ ],
+ "escenas": [
+  {
+   "texto": "En Venus, un día dura más que un año. Y no es un error.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪐",
+    "⏳"
+   ],
+   "rotulo": "Venus"
+  },
+  {
+   "texto": "Venus tarda unos doscientos veinticinco días en dar la vuelta al Sol: ese es su año.",
+   "tipo": "numero",
+   "valor": "225",
+   "unidad": "días = 1 año",
+   "emojis": [
+    "☀️"
+   ],
+   "rotulo": "Su año"
+  },
+  {
+   "texto": "Pero en girar una vez sobre sí mismo tarda unos doscientos cuarenta y tres.",
+   "tipo": "numero",
+   "valor": "243",
+   "unidad": "días = 1 giro",
+   "emojis": [
+    "🔄"
+   ],
+   "rotulo": "Su día"
+  },
+  {
+   "texto": "Así que completa su año antes de terminar una sola vuelta.",
+   "tipo": "sello",
+   "emojis": [
+    "🪐"
+   ],
+   "sello": "¡Más largo!"
+  },
+  {
+   "texto": "Y encima gira al revés que casi todos los planetas.",
+   "tipo": "emoji",
+   "emojis": [
+    "↩️"
+   ],
+   "rotulo": "Gira al revés"
+  },
+  {
+   "texto": "Allí, el Sol sale por el oeste y se pone por el este.",
+   "tipo": "versus",
+   "emojis": [
+    "🌅",
+    "🌇"
+   ],
+   "rotulos": [
+    "Sale: oeste",
+    "Se pone: este"
+   ],
+   "rotulo": "Al contrario"
+  },
+  {
+   "texto": "No es un lugar agradable: su superficie está a unos cuatrocientos sesenta grados.",
+   "tipo": "numero",
+   "valor": "460",
+   "unidad": "grados",
+   "emojis": [
+    "🔥"
+   ],
+   "rotulo": "Hace calor"
+  },
+  {
+   "texto": "Es el planeta más caliente, aunque Mercurio esté más cerca del Sol.",
+   "tipo": "versus",
+   "emojis": [
+    "🪐",
+    "☀️"
+   ],
+   "rotulos": [
+    "Venus",
+    "Mercurio"
+   ],
+   "rotulo": "Más caliente"
+  },
+  {
+   "texto": "La culpa es de su atmósfera espesísima, que atrapa el calor como un invernadero.",
+   "tipo": "emoji",
+   "emojis": [
+    "☁️",
+    "🌡️"
+   ],
+   "rotulo": "Efecto invernadero"
+  },
+  {
+   "texto": "Allí se derretiría hasta el plomo.",
+   "tipo": "sello",
+   "emojis": [
+    "🫠"
+   ],
+   "sello": "Plomo fundido"
+  },
+  {
+   "texto": "¿Sabías que en Venus el día es más largo que el año? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}
