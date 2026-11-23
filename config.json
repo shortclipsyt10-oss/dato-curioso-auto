@@ -25,5 +25,6 @@
  "velocidad_voz": 1.12,
  "auditoria_aprobada": true,
  "subidas_antes_de_auditoria": 1,
- "_auditoria": "Si YouTube bloquea en privado los videos subidos por la API (proyecto sin auditar), pon auditoria_aprobada a false para subir solo 1 y generar el resto."
+ "_auditoria": "Si YouTube bloquea en privado los videos subidos por la API (proyecto sin auditar), pon auditoria_aprobada a false para subir solo 1 y generar el resto.",
+ "ejecutar_en": "nube"
 }
