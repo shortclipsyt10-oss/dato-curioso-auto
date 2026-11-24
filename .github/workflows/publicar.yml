@@ -1,7 +1,6 @@
 # Genera y sube los shorts en la nube cada 3 horas (no hace falta tener el PC encendido).
 # Secretos necesarios (Settings > Secrets and variables > Actions):
-#   YT_CLIENT_SECRET  contenido de client_secret.json
-#   YT_TOKEN          contenido de token.json (se crea con `python -m datocurioso autorizar`)
+#   YT_TOKEN          contenido de token.json (se crea con `python -m datocurioso autorizar`; ya incluye el cliente OAuth)
 name: Publicar shorts
 
 on:
@@ -30,7 +29,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Comprobar credenciales
         if: env.HAY_TOKEN != 'true'
-        run: echo "Faltan los secretos YT_CLIENT_SECRET y YT_TOKEN; no hago nada." 
+        run: echo "Falta el secreto YT_TOKEN; no hago nada." 
 
       - uses: actions/setup-python@v5
         if: env.HAY_TOKEN == 'true'
@@ -63,11 +62,9 @@ jobs:
       - name: Configuración y credenciales
         if: env.HAY_TOKEN == 'true'
         env:
-          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_TOKEN: ${{ secrets.YT_TOKEN }}
         run: |
           mkdir -p ~/.dato-curioso
-          printf '%s' "$YT_CLIENT_SECRET" > ~/.dato-curioso/client_secret.json
           printf '%s' "$YT_TOKEN" > ~/.dato-curioso/token.json
           echo '{"carpeta_salida": "salida", "archivo_registro": "estado/registro.json", "fuente": "Inter Display Black", "procesos_render": 4}' > config.local.json
 
