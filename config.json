@@ -27,7 +27,7 @@
  "subidas_antes_de_auditoria": 1,
  "_auditoria": "Si YouTube bloquea en privado los videos subidos por la API (proyecto sin auditar), pon auditoria_aprobada a false para subir solo 1 y generar el resto.",
  "ejecutar_en": "nube",
- "pausado": true,
+ "pausado": false,
  "_pausado": "true = no se sube nada (p. ej. mientras se cambia el estilo de animación).",
  "estilo": "cine"
 }
