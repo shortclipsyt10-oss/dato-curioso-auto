@@ -1,0 +1,135 @@
+{
+ "id": "024-nutrias-mano",
+ "titulo": "Las nutrias marinas se dan la mano para dormir 🦦🤝",
+ "descripcion": "Duermen flotando boca arriba y se agarran para no separarse. Y guardan su piedra favorita en un bolsillo.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#oceano",
+  "#nutrias",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "nutria marina",
+  "animales",
+  "océano"
+ ],
+ "paleta": "oceano",
+ "miniatura": {
+  "texto": "SE DAN LA MANO",
+  "emojis": [
+   "🦦",
+   "🤝"
+  ]
+ },
+ "nota_veracidad": "Las nutrias marinas descansan flotando en grupos ('balsas'), a menudo enrolladas en algas para no derivar; a veces se agarran de las patas, sobre todo madres y crías o en grupos en cautividad. Su pelaje es el más denso del reino animal (hasta unos 150.000 pelos por cm²) y usan piedras como herramienta, que guardan en un pliegue de piel bajo la pata delantera.",
+ "fuentes": [
+  "Monterey Bay Aquarium: Sea otter",
+  "NOAA Fisheries: Sea otter",
+  "Smithsonian's National Zoo: Sea otters"
+ ],
+ "claves": [
+  "nutrias",
+  "mano",
+  "algas",
+  "piedra",
+  "pelo",
+  "bolsillo"
+ ],
+ "escenas": [
+  {
+   "texto": "Las nutrias marinas a veces se dan la mano mientras duermen.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦦",
+    "🤝"
+   ],
+   "rotulo": "Juntas"
+  },
+  {
+   "texto": "Duermen flotando boca arriba en el mar, y las corrientes podrían separarlas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌊",
+    "😴"
+   ],
+   "rotulo": "Siesta en el agua"
+  },
+  {
+   "texto": "Así que se agarran, o se enrollan en algas como si fueran una manta.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌿",
+    "🛏️"
+   ],
+   "rotulo": "Bien sujetas"
+  },
+  {
+   "texto": "Hay grupos, llamados balsas, de decenas o incluso cientos de nutrias.",
+   "tipo": "numero",
+   "valor": "100",
+   "unidad": "nutrias o más",
+   "emojis": [
+    "🦦"
+   ],
+   "rotulo": "Una balsa"
+  },
+  {
+   "texto": "Y no pasan frío: no tienen grasa como las focas, tienen un pelo increíble.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥶",
+    "🧥"
+   ],
+   "rotulo": "Su abrigo"
+  },
+  {
+   "texto": "Hasta ciento cincuenta mil pelos en cada centímetro cuadrado. El pelaje más denso del mundo animal.",
+   "tipo": "numero",
+   "valor": "150.000",
+   "unidad": "pelos por cm²",
+   "emojis": [
+    "🪮"
+   ],
+   "rotulo": "Pelaje"
+  },
+  {
+   "texto": "Además usan herramientas: rompen almejas golpeándolas contra una piedra sobre su barriga.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪨",
+    "🦪"
+   ],
+   "rotulo": "Herramientas"
+  },
+  {
+   "texto": "Y tienen un pliegue de piel bajo el brazo donde guardan comida y su piedra favorita.",
+   "tipo": "sello",
+   "emojis": [
+    "👝"
+   ],
+   "sello": "¡UN BOLSILLO!"
+  },
+  {
+   "texto": "Son clave para el océano: comen erizos que, si no, se comerían los bosques de algas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦔",
+    "🌊"
+   ],
+   "rotulo": "Guardianas"
+  },
+  {
+   "texto": "¿Cuál es tu animal favorito del mar?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🦦",
+    "🐙"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

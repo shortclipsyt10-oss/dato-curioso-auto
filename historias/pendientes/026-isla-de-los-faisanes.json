@@ -1,0 +1,141 @@
+{
+ "id": "026-isla-de-los-faisanes",
+ "titulo": "La isla que cambia de país cada seis meses 🇪🇸🇫🇷",
+ "descripcion": "Medio año es española y medio año francesa. Lleva así desde el siglo diecisiete.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#geografia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "isla de los faisanes",
+  "españa",
+  "francia",
+  "bidasoa",
+  "geografía"
+ ],
+ "paleta": "rareza",
+ "miniatura": {
+  "texto": "CAMBIA DE PAÍS",
+  "emojis": [
+   "🏝️",
+   "🔄"
+  ]
+ },
+ "nota_veracidad": "La Isla de los Faisanes, en el río Bidasoa entre Irún y Hendaya, es un condominio: España la administra del 1 de febrero al 31 de julio y Francia del 1 de agosto al 31 de enero. Allí se negoció y firmó el Tratado de los Pirineos (1659) y en 1660 se encontraron Luis XIV y María Teresa de Austria. Mide unos 200 metros de largo, está deshabitada y solo se visita en ocasiones puntuales.",
+ "fuentes": [
+  "Tratado de los Pirineos (1659)",
+  "Ayuntamiento de Irún: Isla de los Faisanes",
+  "Encyclopaedia Britannica: Treaty of the Pyrenees"
+ ],
+ "claves": [
+  "isla",
+  "seis",
+  "meses",
+  "españa",
+  "francia",
+  "tratado",
+  "faisanes"
+ ],
+ "escenas": [
+  {
+   "texto": "Existe una isla que cambia de país cada seis meses.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏝️",
+    "🔄"
+   ],
+   "rotulo": "Media y media"
+  },
+  {
+   "texto": "Se llama Isla de los Faisanes y está en el río Bidasoa, justo en la frontera entre España y Francia.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏞️",
+    "🧭"
+   ],
+   "rotulo": "Dónde está"
+  },
+  {
+   "texto": "De febrero a julio es española. De agosto a enero, francesa.",
+   "tipo": "versus",
+   "emojis": [
+    "🇪🇸",
+    "🇫🇷"
+   ],
+   "rotulos": [
+    "Feb - Jul",
+    "Ago - Ene"
+   ],
+   "rotulo": "Turnos"
+  },
+  {
+   "texto": "Es así desde que allí se firmó la paz entre los dos reinos, en mil seiscientos cincuenta y nueve.",
+   "tipo": "fecha",
+   "anio": "1659",
+   "emojis": [
+    "📜"
+   ],
+   "rotulo": "Tratado de los Pirineos"
+  },
+  {
+   "texto": "Eligieron esta isla porque estaba en medio: nadie tenía que pisar el territorio del otro.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤝",
+    "⚖️"
+   ],
+   "rotulo": "Terreno neutral"
+  },
+  {
+   "texto": "Un año después, allí se conocieron Luis catorce de Francia y la infanta María Teresa, que se casaron.",
+   "tipo": "emoji",
+   "emojis": [
+    "👑",
+    "💍"
+   ],
+   "rotulo": "Boda real"
+  },
+  {
+   "texto": "Es diminuta: mide unos doscientos metros de largo.",
+   "tipo": "numero",
+   "valor": "200",
+   "unidad": "metros",
+   "emojis": [
+    "📏"
+   ],
+   "rotulo": "Tamaño"
+  },
+  {
+   "texto": "No vive nadie y casi nunca se puede visitar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚫",
+    "🏠"
+   ],
+   "rotulo": "Deshabitada"
+  },
+  {
+   "texto": "Y los encargados de cuidarla son dos marinos, uno de cada país.",
+   "tipo": "emoji",
+   "emojis": [
+    "⚓",
+    "⚓"
+   ],
+   "rotulo": "Sus guardianes"
+  },
+  {
+   "texto": "¿Conocías algún lugar tan raro?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🏝️",
+    "🤔"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

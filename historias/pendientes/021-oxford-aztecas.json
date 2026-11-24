@@ -1,0 +1,132 @@
+{
+ "id": "021-oxford-aztecas",
+ "titulo": "Oxford es más antigua que el imperio azteca 🎓🤯",
+ "descripcion": "En Oxford ya se daban clases antes de que existiera Tenochtitlan. La historia no va al ritmo que imaginamos.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#aztecas",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "oxford",
+  "aztecas",
+  "tenochtitlan",
+  "historia"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "MÁS ANTIGUA QUE LOS AZTECAS",
+  "emojis": [
+   "🎓",
+   "🏛️"
+  ]
+ },
+ "nota_veracidad": "La Universidad de Oxford dice que allí se enseñaba en alguna forma desde 1096 y que creció rápido desde 1167. Tenochtitlan se fundó, según la fecha tradicional, en 1325. El auge del imperio azteca como tal es del siglo XV. 'Más de doscientos años' compara 1096 con 1325.",
+ "fuentes": [
+  "University of Oxford: Introduction and history",
+  "Encyclopaedia Britannica: Tenochtitlán"
+ ],
+ "claves": [
+  "oxford",
+  "aztecas",
+  "tenochtitlan",
+  "doscientos",
+  "clases",
+  "universidad"
+ ],
+ "escenas": [
+  {
+   "texto": "La Universidad de Oxford es más antigua que el imperio azteca.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎓",
+    "🏛️"
+   ],
+   "rotulo": "¿Cómo?"
+  },
+  {
+   "texto": "En Oxford ya se daban clases hacia el año mil noventa y seis.",
+   "tipo": "fecha",
+   "anio": "1096",
+   "emojis": [
+    "📚"
+   ],
+   "rotulo": "Primeras clases"
+  },
+  {
+   "texto": "Y la ciudad azteca de Tenochtitlan se fundó, según la tradición, en mil trescientos veinticinco.",
+   "tipo": "fecha",
+   "anio": "1325",
+   "emojis": [
+    "🦅"
+   ],
+   "rotulo": "Tenochtitlan"
+  },
+  {
+   "texto": "Es decir: más de doscientos años después.",
+   "tipo": "numero",
+   "valor": "200",
+   "unidad": "años de diferencia",
+   "emojis": [
+    "⏳"
+   ],
+   "rotulo": "Más de"
+  },
+  {
+   "texto": "Cuando nacieron los aztecas, Oxford ya llevaba generaciones de estudiantes.",
+   "tipo": "sello",
+   "emojis": [
+    "🧑‍🎓"
+   ],
+   "sello": "¡YA EXISTÍA!"
+  },
+  {
+   "texto": "Tenochtitlan se construyó sobre un lago, con canales y templos enormes.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛶",
+    "🏯"
+   ],
+   "rotulo": "Ciudad sobre el agua"
+  },
+  {
+   "texto": "Cuando llegaron los españoles, era una de las ciudades más grandes del mundo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌎",
+    "🏙️"
+   ],
+   "rotulo": "Gigante"
+  },
+  {
+   "texto": "Hoy, en ese mismo lugar, está la Ciudad de México.",
+   "tipo": "emoji",
+   "emojis": [
+    "🇲🇽"
+   ],
+   "rotulo": "Lo que es hoy"
+  },
+  {
+   "texto": "Y Oxford sigue dando clases, casi mil años después.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎓",
+    "🕰️"
+   ],
+   "rotulo": "Siguen ahí"
+  },
+  {
+   "texto": "La historia se solapa mucho más de lo que imaginamos.",
+   "tipo": "pregunta",
+   "emojis": [
+    "📜",
+    "⏳"
+   ]
+  },
+  {
+   "texto": "¿Te lo esperabas? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

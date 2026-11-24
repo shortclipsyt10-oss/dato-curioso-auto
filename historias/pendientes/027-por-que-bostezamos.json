@@ -1,0 +1,134 @@
+{
+ "id": "027-por-que-bostezamos",
+ "titulo": "Nadie sabe seguro por qué bostezamos 🥱",
+ "descripcion": "Lo hacemos desde antes de nacer y es contagioso, pero la ciencia aún no tiene una respuesta definitiva.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#cuerpohumano",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "bostezo",
+  "cuerpo humano",
+  "cerebro",
+  "ciencia"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "NADIE LO SABE",
+  "emojis": [
+   "🥱",
+   "❓"
+  ]
+ },
+ "nota_veracidad": "La función del bostezo no está establecida. Provine (1987) vio que respirar oxígeno puro o aire con más CO2 no cambiaba la frecuencia del bostezo, lo que debilita la idea del oxígeno. La hipótesis del enfriamiento del cerebro (Gallup y Gallup, 2007) tiene apoyo pero se discute; por eso se usa una escena 'duda'. Los fetos bostezan desde el primer trimestre (Reissland et al., 2012) y el bostezo contagioso hacia humanos se ha observado en perros (Joly-Mascheroni et al., 2008).",
+ "fuentes": [
+  "Provine, R. (1987), 'Yawning as a stereotyped action pattern', Ethology",
+  "Gallup, A. & Gallup, G. (2007), Evolutionary Psychology",
+  "Reissland, N. et al. (2012), PLoS ONE",
+  "Joly-Mascheroni, R. et al. (2008), Biology Letters"
+ ],
+ "claves": [
+  "bostezo",
+  "contagioso",
+  "oxígeno",
+  "cerebro",
+  "perros",
+  "nacer"
+ ],
+ "escenas": [
+  {
+   "texto": "Bostezas varias veces al día y la ciencia todavía no sabe seguro para qué sirve.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥱",
+    "❓"
+   ],
+   "rotulo": "Misterio diario"
+  },
+  {
+   "texto": "Seguro que te han dicho que es para tomar más oxígeno.",
+   "tipo": "duda",
+   "emojis": [
+    "🫁"
+   ],
+   "sello": "¿MITO?"
+  },
+  {
+   "texto": "Pero en un experimento, la gente respiró aire con más oxígeno y siguió bostezando igual.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪",
+    "🥱"
+   ],
+   "rotulo": "No cambió nada"
+  },
+  {
+   "texto": "Una de las ideas más populares hoy es que sirve para enfriar el cerebro, aunque se sigue discutiendo.",
+   "tipo": "duda",
+   "emojis": [
+    "🧠",
+    "❄️"
+   ],
+   "sello": "SIN CONFIRMAR"
+  },
+  {
+   "texto": "Lo que sí sabemos es que se hace desde antes de nacer: los bebés ya bostezan en el vientre.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤰",
+    "👶"
+   ],
+   "rotulo": "Antes de nacer"
+  },
+  {
+   "texto": "Un bostezo típico dura unos seis segundos.",
+   "tipo": "numero",
+   "valor": "6",
+   "unidad": "segundos",
+   "emojis": [
+    "⏱️"
+   ],
+   "rotulo": "Duración"
+  },
+  {
+   "texto": "Y es contagioso: basta con ver, oír o incluso leer sobre bostezos.",
+   "tipo": "sello",
+   "emojis": [
+    "😮‍💨"
+   ],
+   "sello": "¡CONTAGIO!"
+  },
+  {
+   "texto": "Hasta algunos perros bostezan cuando ven bostezar a sus dueños.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐶",
+    "🥱"
+   ],
+   "rotulo": "También tu perro"
+  },
+  {
+   "texto": "Y no somos los únicos: bostezan gatos, monos, peces y muchas aves.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🐟"
+   ],
+   "rotulo": "Club del bostezo"
+  },
+  {
+   "texto": "Sé sincero: ¿has bostezado viendo este vídeo?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🥱",
+    "👀"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

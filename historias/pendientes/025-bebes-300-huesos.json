@@ -1,0 +1,145 @@
+{
+ "id": "025-bebes-300-huesos",
+ "titulo": "Naciste con casi 100 huesos más que ahora 🦴👶",
+ "descripcion": "Un bebé tiene unos 300 huesos y un adulto 206. ¿Dónde se van los demás? No se pierden: se fusionan.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#cuerpohumano",
+  "#ciencia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "huesos",
+  "bebés",
+  "cuerpo humano",
+  "esqueleto"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "300 HUESOS",
+  "emojis": [
+   "🦴",
+   "👶"
+  ]
+ },
+ "nota_veracidad": "Las cifras para recién nacidos varían según la fuente (de unos 270 a unos 300 huesos y cartílagos que osifican); el adulto típico tiene 206. Las fusiones del cráneo, el sacro y el coxis terminan en distintas edades, hasta pasados los 20 años. El estribo mide unos 3 mm.",
+ "fuentes": [
+  "Cleveland Clinic: Bones",
+  "Encyclopaedia Britannica: human skeleton"
+ ],
+ "claves": [
+  "huesos",
+  "trescientos",
+  "doscientos",
+  "seis",
+  "fusionan",
+  "cráneo",
+  "estribo"
+ ],
+ "escenas": [
+  {
+   "texto": "Cuando naciste tenías unos trescientos huesos.",
+   "tipo": "numero",
+   "valor": "300",
+   "unidad": "huesos",
+   "emojis": [
+    "👶"
+   ],
+   "rotulo": "Recién nacido"
+  },
+  {
+   "texto": "Hoy, de adulto, tienes doscientos seis.",
+   "tipo": "numero",
+   "valor": "206",
+   "unidad": "huesos",
+   "emojis": [
+    "🧍"
+   ],
+   "rotulo": "Adulto"
+  },
+  {
+   "texto": "¿Dónde están los que faltan? No se pierden.",
+   "tipo": "pregunta",
+   "emojis": [
+    "🦴",
+    "🔍"
+   ]
+  },
+  {
+   "texto": "Se van uniendo entre sí a medida que creces.",
+   "tipo": "sello",
+   "emojis": [
+    "🦴"
+   ],
+   "sello": "¡SE FUSIONAN!"
+  },
+  {
+   "texto": "El ejemplo más claro es el cráneo: el de un bebé está hecho de placas separadas.",
+   "tipo": "emoji",
+   "emojis": [
+    "💀",
+    "🧩"
+   ],
+   "rotulo": "Un puzle"
+  },
+  {
+   "texto": "Por eso los bebés tienen zonas blanditas en la cabeza, las fontanelas.",
+   "tipo": "emoji",
+   "emojis": [
+    "👶",
+    "🫳"
+   ],
+   "rotulo": "Las fontanelas"
+  },
+  {
+   "texto": "Esas zonas permiten que la cabeza pase por el parto y que el cerebro crezca rápido.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠",
+    "📈"
+   ],
+   "rotulo": "Para crecer"
+  },
+  {
+   "texto": "Lo mismo pasa en otras partes del cuerpo.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🦴",
+     "Cráneo"
+    ],
+    [
+     "🪑",
+     "Sacro"
+    ],
+    [
+     "🐒",
+     "Coxis"
+    ]
+   ]
+  },
+  {
+   "texto": "Algunas fusiones no terminan hasta pasados los veinte años.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎂",
+    "⏳"
+   ],
+   "rotulo": "Sin prisa"
+  },
+  {
+   "texto": "Y el hueso más pequeño que conservas está en el oído: el estribo, de unos tres milímetros.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "milímetros",
+   "emojis": [
+    "👂"
+   ],
+   "rotulo": "El estribo"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

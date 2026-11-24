@@ -1,0 +1,140 @@
+{
+ "id": "023-atardecer-azul-marte",
+ "titulo": "En Marte los atardeceres son azules 🔴🌅",
+ "descripcion": "El planeta rojo tiene el cielo color caramelo… y puestas de sol azules. Lo fotografió el rover Curiosity.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#espacio",
+  "#marte",
+  "#nasa",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "marte",
+  "atardecer",
+  "curiosity",
+  "nasa",
+  "espacio"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "ATARDECER AZUL",
+  "emojis": [
+   "🔴",
+   "🌅"
+  ]
+ },
+ "nota_veracidad": "Comprobado por la NASA: el rover Curiosity fotografió una puesta de sol azulada en el cráter Gale en abril de 2015 (sol 956). El polvo fino de la atmósfera marciana deja pasar mejor la luz azul en la dirección del Sol. El cielo diurno se ve ocre o color caramelo.",
+ "fuentes": [
+  "NASA/JPL (2015), 'Sunset in Mars' Gale Crater'",
+  "NASA Science: Mars facts"
+ ],
+ "claves": [
+  "marte",
+  "azul",
+  "atardecer",
+  "polvo",
+  "curiosity",
+  "rojo"
+ ],
+ "escenas": [
+  {
+   "texto": "En Marte, el planeta rojo, los atardeceres son azules.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔴",
+    "🌅"
+   ],
+   "rotulo": "Al revés"
+  },
+  {
+   "texto": "Lo fotografió el robot Curiosity de la NASA en dos mil quince.",
+   "tipo": "fecha",
+   "anio": "2015",
+   "emojis": [
+    "🤖"
+   ],
+   "rotulo": "La foto"
+  },
+  {
+   "texto": "Mientras el Sol se ponía, el cielo a su alrededor se volvía de un azul frío.",
+   "tipo": "emoji",
+   "emojis": [
+    "☀️",
+    "🔵"
+   ],
+   "rotulo": "Azul marciano"
+  },
+  {
+   "texto": "En la Tierra pasa lo contrario: el cielo es azul de día y rojizo al atardecer.",
+   "tipo": "versus",
+   "emojis": [
+    "🌍",
+    "🔴"
+   ],
+   "rotulos": [
+    "Tierra",
+    "Marte"
+   ],
+   "rotulo": "Colores opuestos"
+  },
+  {
+   "texto": "La culpa es del polvo: Marte tiene una atmósfera llena de partículas muy finas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌪️",
+    "🟠"
+   ],
+   "rotulo": "El culpable"
+  },
+  {
+   "texto": "Ese polvo deja pasar mejor la luz azul justo en la dirección del Sol.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔦",
+    "🔵"
+   ],
+   "rotulo": "Filtro natural"
+  },
+  {
+   "texto": "Durante el día, en cambio, el cielo marciano se ve de color caramelo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍯",
+    "☁️"
+   ],
+   "rotulo": "Cielo caramelo"
+  },
+  {
+   "texto": "Además, desde allí el Sol se ve más pequeño: Marte está una vez y media más lejos que nosotros.",
+   "tipo": "numero",
+   "valor": "1,5",
+   "unidad": "veces más lejos",
+   "emojis": [
+    "☀️"
+   ],
+   "rotulo": "Distancia al Sol"
+  },
+  {
+   "texto": "Así que un futuro astronauta verá cada día un espectáculo que nadie ha visto en persona.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧑‍🚀",
+    "🌄"
+   ],
+   "rotulo": "Algún día"
+  },
+  {
+   "texto": "¿Te imaginas ver un atardecer azul?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🌅",
+    "🔵"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

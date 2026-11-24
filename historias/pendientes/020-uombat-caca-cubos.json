@@ -1,0 +1,139 @@
+{
+ "id": "020-uombat-caca-cubos",
+ "titulo": "El animal que hace caca en forma de cubo 🟫🐾",
+ "descripcion": "El uómbat es el único animal conocido que hace cacas cúbicas. La ciencia tardó años en descubrir cómo.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#australia",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "uómbat",
+  "wombat",
+  "animales",
+  "australia",
+  "ig nobel"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "CACA EN CUBOS",
+  "emojis": [
+   "🟫",
+   "🐾"
+  ]
+ },
+ "nota_veracidad": "Comprobado: el uómbat común produce heces cúbicas, unas 80-100 por noche, por la distinta rigidez de las paredes del final del intestino (Yang et al., 2021). Que las use para marcar territorio está observado; que la forma sirva para que no rueden es una hipótesis, por eso se dice 'se cree'.",
+ "fuentes": [
+  "Yang, P. et al. (2021), 'Intestines of non-uniform stiffness mold the corners of wombat feces', Soft Matter",
+  "Premio Ig Nobel de Física 2019 (Improbable Research)"
+ ],
+ "claves": [
+  "cubos",
+  "uómbat",
+  "intestino",
+  "territorio",
+  "ochenta",
+  "cien",
+  "premio"
+ ],
+ "escenas": [
+  {
+   "texto": "Hay un animal en Australia que hace caca en forma de cubo. Con esquinas y todo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🟫",
+    "🐾"
+   ],
+   "rotulo": "Caca cúbica"
+  },
+  {
+   "texto": "Se llama uómbat: parece un osito rechoncho y vive en madrigueras.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐻",
+    "🕳️"
+   ],
+   "rotulo": "El uómbat"
+  },
+  {
+   "texto": "Cada noche puede dejar entre ochenta y cien de estos cubitos.",
+   "tipo": "numero",
+   "valor": "100",
+   "unidad": "cubos por noche",
+   "emojis": [
+    "🌙"
+   ],
+   "rotulo": "Una noche normal"
+  },
+  {
+   "texto": "Durante años nadie entendía cómo un intestino redondo podía fabricar esquinas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤔",
+    "🔬"
+   ],
+   "rotulo": "El misterio"
+  },
+  {
+   "texto": "Unos científicos lo investigaron y encontraron la respuesta en las paredes del intestino.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪",
+    "👩‍🔬"
+   ],
+   "rotulo": "La investigación"
+  },
+  {
+   "texto": "Algunas zonas son más rígidas y otras más elásticas, y así van moldeando las caras del cubo.",
+   "tipo": "versus",
+   "emojis": [
+    "🧱",
+    "🎈"
+   ],
+   "rotulos": [
+    "Rígida",
+    "Elástica"
+   ],
+   "rotulo": "El truco"
+  },
+  {
+   "texto": "Por ese descubrimiento ganaron un premio Ig Nobel, los premios a la ciencia más curiosa.",
+   "tipo": "sello",
+   "emojis": [
+    "🏆"
+   ],
+   "sello": "¡PREMIADOS!"
+  },
+  {
+   "texto": "El uómbat deja sus cubos encima de rocas y troncos para marcar su territorio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪨",
+    "🪵"
+   ],
+   "rotulo": "Esto es mío"
+  },
+  {
+   "texto": "Y se cree que, al ser cuadrados, no ruedan y se quedan justo donde él quiere.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎲",
+    "📍"
+   ],
+   "rotulo": "No ruedan"
+  },
+  {
+   "texto": "La naturaleza inventó los cubos mucho antes que nosotros.",
+   "tipo": "pregunta",
+   "emojis": [
+    "🟫",
+    "🧊"
+   ]
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

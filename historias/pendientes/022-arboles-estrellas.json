@@ -1,0 +1,140 @@
+{
+ "id": "022-arboles-estrellas",
+ "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia 🌳✨",
+ "descripcion": "Un estudio contó los árboles del planeta con satélites. El resultado supera a las estrellas de la Vía Láctea.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#ciencia",
+  "#naturaleza",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "árboles",
+  "estrellas",
+  "vía láctea",
+  "ciencia"
+ ],
+ "paleta": "ciencia",
+ "miniatura": {
+  "texto": "MÁS ÁRBOLES QUE ESTRELLAS",
+  "emojis": [
+   "🌳",
+   "✨"
+  ]
+ },
+ "nota_veracidad": "Crowther et al. (2015) estimaron unos 3,04 billones (millones de millones) de árboles, unos 15.000 millones talados al año y un 46 % menos desde el inicio de la civilización. Las estimaciones de estrellas de la Vía Láctea van de 100.000 a 400.000 millones. Ambas cifras son estimaciones.",
+ "fuentes": [
+  "Crowther, T. W. et al. (2015), 'Mapping tree density at a global scale', Nature",
+  "NASA: Milky Way Galaxy"
+ ],
+ "claves": [
+  "árboles",
+  "estrellas",
+  "billones",
+  "satélites",
+  "galaxia",
+  "mitad"
+ ],
+ "escenas": [
+  {
+   "texto": "En la Tierra hay más árboles que estrellas en toda nuestra galaxia.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌳",
+    "✨"
+   ],
+   "rotulo": "En serio"
+  },
+  {
+   "texto": "En dos mil quince, unos científicos combinaron fotos de satélite con mediciones en bosques de todo el mundo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛰️",
+    "📏"
+   ],
+   "rotulo": "El gran recuento"
+  },
+  {
+   "texto": "Su cálculo: unos tres billones de árboles. Tres millones de millones.",
+   "tipo": "numero",
+   "valor": "3 billones",
+   "unidad": "árboles",
+   "emojis": [
+    "🌲"
+   ],
+   "rotulo": "Árboles"
+  },
+  {
+   "texto": "En cambio, la Vía Láctea tendría entre cien mil y cuatrocientos mil millones de estrellas.",
+   "tipo": "numero",
+   "valor": "400.000 millones",
+   "unidad": "estrellas",
+   "emojis": [
+    "🌌"
+   ],
+   "rotulo": "Como mucho"
+  },
+  {
+   "texto": "Incluso con la cifra más alta, los árboles ganan por mucho.",
+   "tipo": "versus",
+   "emojis": [
+    "🌳",
+    "⭐"
+   ],
+   "rotulos": [
+    "Árboles",
+    "Estrellas"
+   ],
+   "rotulo": "Gana..."
+  },
+  {
+   "texto": "Salen a unos cuatrocientos árboles por cada persona del planeta.",
+   "tipo": "numero",
+   "valor": "400",
+   "unidad": "árboles por persona",
+   "emojis": [
+    "🧍"
+   ],
+   "rotulo": "Para ti"
+  },
+  {
+   "texto": "Pero el mismo estudio dio una mala noticia: desde que empezó la civilización hemos perdido casi la mitad.",
+   "tipo": "sello",
+   "emojis": [
+    "🪓"
+   ],
+   "sello": "-46 %"
+  },
+  {
+   "texto": "Y cada año se talan unos quince mil millones de árboles.",
+   "tipo": "numero",
+   "valor": "15.000 millones",
+   "unidad": "al año",
+   "emojis": [
+    "🪵"
+   ],
+   "rotulo": "Talados"
+  },
+  {
+   "texto": "Por eso hay tantos proyectos para plantar y proteger bosques.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌱",
+    "🤲"
+   ],
+   "rotulo": "A plantar"
+  },
+  {
+   "texto": "¿Cuántos árboles crees que hay en tu calle?",
+   "tipo": "pregunta",
+   "emojis": [
+    "🌳",
+    "🏘️"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}
