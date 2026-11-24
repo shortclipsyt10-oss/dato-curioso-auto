@@ -192,8 +192,11 @@ class Render:
 _R = {}
 
 
-def _worker_init(historia, meta, fuente, carpeta_emojis):
+def _worker_init(historia, meta, fuente, carpeta_emojis, rutas=None):
     _R["r"] = Render(historia, meta, fuente, carpeta_emojis)
+    if rutas and any(rutas):
+        from .cine import Cine
+        _R["r"] = Cine(historia, meta, rutas, _R["r"])
 
 
 def _render_part(args):
@@ -238,6 +241,24 @@ def miniatura(historia, ruta, fuente, carpeta_emojis):
     sf.write_to_png(ruta)
 
 
+def miniatura_cine(historia, rutas, ruta, fuente):
+    from .cine import _superficie
+    img = next((x for x in rutas if x), None)
+    if not img: return
+    D.set_fuente(fuente)
+    s, _d = _superficie(img)
+    sf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); c = cairo.Context(sf)
+    c.set_source_surface(s, 0, 0); c.paint()
+    g = cairo.LinearGradient(0, 0, 0, H * 0.5); g.add_color_stop_rgba(0, 0, 0, 0, 0.7); g.add_color_stop_rgba(1, 0, 0, 0, 0)
+    c.set_source(g); c.paint()
+    txt = historia.get("miniatura", {}).get("texto", historia["titulo"]).upper()
+    lines = D.wrap(c, txt, 140, 960); size = 140 * min(1, 3 / max(1, len(lines))); lines = D.wrap(c, txt, size, 960)
+    for k, ln in enumerate(lines):
+        D.fit_text(c, ln, 540, 330 + k * size * 1.1, size, 980, fill="#ffd23f" if k % 2 == 0 else "#ffffff", stroke="#111111", sw=0.14, shadow=True)
+    chip(c, "DATO CURIOSO", 540, 150, "#111111", "#ffd23f", 48)
+    sf.write_to_png(ruta)
+
+
 def guion_md(historia, meta):
     filas = "\n".join(f"| {i + 1} | {m['start']:.1f} s | {m['text']} |" for i, m in enumerate(meta))
     nota = historia.get("nota_veracidad", "")
@@ -258,6 +279,14 @@ def renderizar(historia, cfg, solo_previa=False):
     od = os.path.join(cfg["carpeta_salida"], historia["id"]); os.makedirs(od, exist_ok=True)
     miniatura(historia, os.path.join(od, "miniatura.png"), cfg["fuente"], emo)
     r = Render(historia, meta, cfg["fuente"], emo)
+    rutas = None
+    if cfg.get("estilo") == "cine":
+        from .cine import descargar_imagenes, Cine
+        rutas = descargar_imagenes(historia, os.path.join(work, "imagenes"), semilla(historia) % 100000)
+        print(f"  imágenes IA: {sum(1 for x in rutas if x)}/{len(rutas)}")
+        if any(rutas):
+            r = Cine(historia, meta, rutas, r)
+            miniatura_cine(historia, rutas, os.path.join(od, "miniatura.png"), cfg["fuente"])
     if solo_previa:
         from PIL import Image
         ims = []
@@ -274,7 +303,7 @@ def renderizar(historia, cfg, solo_previa=False):
     N = int(r.TOTAL * FPS); P = cfg["procesos_render"]; q = N // P + 1
     jobs = [(i * q, min((i + 1) * q, N), os.path.join(work, f"part{i}.mp4"), ff) for i in range(P) if i * q < N]
     ctx = mp.get_context("spawn")
-    with ctx.Pool(len(jobs), initializer=_worker_init, initargs=(historia, meta, cfg["fuente"], emo)) as pool:
+    with ctx.Pool(len(jobs), initializer=_worker_init, initargs=(historia, meta, cfg["fuente"], emo, rutas)) as pool:
         parts = pool.map(_render_part, jobs)
     lst = os.path.join(work, "list.txt")
     with open(lst, "w", encoding="utf-8") as f:

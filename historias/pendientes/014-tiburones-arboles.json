@@ -50,7 +50,8 @@
     "Tiburón",
     "Árbol"
    ],
-   "rotulo": "¿Quién llegó antes?"
+   "rotulo": "¿Quién llegó antes?",
+   "imagen": "a friendly great white shark swimming next to a giant oak tree growing underwater, split scene ocean and land, epic"
   },
   {
    "texto": "Los restos más antiguos de tiburones tienen unos cuatrocientos cincuenta millones de años.",
@@ -60,7 +61,8 @@
    "emojis": [
     "🦈"
    ],
-   "rotulo": "Tiburones"
+   "rotulo": "Tiburones",
+   "imagen": "prehistoric ocean 450 million years ago, ancient sharks swimming among strange sea creatures, glowing water"
   },
   {
    "texto": "Los primeros árboles aparecieron unos sesenta millones de años después.",
@@ -70,7 +72,8 @@
    "emojis": [
     "🌳"
    ],
-   "rotulo": "Árboles"
+   "rotulo": "Árboles",
+   "imagen": "first prehistoric trees rising from a barren rocky landscape, early forest, misty dawn"
   },
   {
    "texto": "Es decir: había tiburones nadando cuando en tierra firme apenas había musgos y plantitas.",
@@ -78,7 +81,8 @@
    "emojis": [
     "🌱"
    ],
-   "rotulo": "Tierra casi vacía"
+   "rotulo": "Tierra casi vacía",
+   "imagen": "empty prehistoric land with tiny mosses and small plants, rocky coast, ancient shark fin visible in the sea"
   },
   {
    "texto": "También son mucho más antiguos que los dinosaurios.",
@@ -91,7 +95,8 @@
     "Tiburón",
     "Dinosaurio"
    ],
-   "rotulo": "Ni comparación"
+   "rotulo": "Ni comparación",
+   "imagen": "a shark and a T-rex dinosaur facing each other comically, shark jumping out of the water at the beach"
   },
   {
    "texto": "Han sobrevivido a cinco grandes extinciones masivas.",
@@ -101,7 +106,8 @@
    "emojis": [
     "☄️"
    ],
-   "rotulo": "Supervivientes"
+   "rotulo": "Supervivientes",
+   "imagen": "five dramatic scenes of mass extinction, volcanoes and meteor in the sky over the ocean, shark swimming calmly below"
   },
   {
    "texto": "Incluida la del meteorito que acabó con los dinosaurios.",
@@ -110,7 +116,8 @@
     "☄️",
     "🦈"
    ],
-   "sello": "¡Sobrevivieron!"
+   "sello": "¡Sobrevivieron!",
+   "imagen": "giant meteor falling toward earth while a shark swims safely deep in the ocean, dramatic orange sky"
   },
   {
    "texto": "Su secreto: un diseño tan eficaz que apenas ha necesitado cambiar.",
@@ -118,7 +125,8 @@
    "emojis": [
     "🏆"
    ],
-   "rotulo": "Diseño perfecto"
+   "rotulo": "Diseño perfecto",
+   "imagen": "sleek shark with golden trophy aura, perfect streamlined design, underwater sunbeams"
   },
   {
    "texto": "Hoy, por desgracia, muchas especies de tiburón están en peligro por la pesca.",
@@ -127,14 +135,16 @@
     "🎣",
     "⚠️"
    ],
-   "rotulo": "En peligro"
+   "rotulo": "En peligro",
+   "imagen": "sad shark trapped near fishing nets and boats, conservation, emotional lighting"
   },
   {
    "texto": "Llevan aquí más que casi nadie.",
    "tipo": "pregunta",
    "emojis": [
     "🦈"
-   ]
+   ],
+   "imagen": "curious shark looking at the camera with a question mark shaped bubble, underwater"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",
