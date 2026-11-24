@@ -99,10 +99,12 @@ def cmd_lote(cfg, args):
     try:
         reg = leer_registro(cfg)
         libres = huecos(cfg, reg, dt.datetime.now(dt.timezone.utc))
+        if args.ahora:
+            libres = [None] + libres
         if args.max: libres = libres[:args.max]
         if not libres:
             log(cfg, "Nada que hacer: todos los huecos de las próximas horas ya están programados."); return
-        log(cfg, f"Huecos por rellenar: {', '.join(s.strftime('%d/%m %H:%M') for s in libres)}")
+        log(cfg, f"Huecos por rellenar: {', '.join('ahora' if s is None else s.strftime('%d/%m %H:%M') for s in libres)}")
         for slot in libres:
             # Reutiliza un video ya renderizado que no se pudo subir; si no, la siguiente historia.
             pend_subida = [k for k, v in reg["videos"].items() if not v.get("youtube_id") and v.get("mp4") and os.path.exists(v["mp4"])
@@ -129,15 +131,15 @@ def cmd_lote(cfg, args):
                 cmd_lote._aviso = True
             if not cfg["subir_a_youtube"] or args.sin_subir or bloqueo:
                 # Reserva el hueco para no generar más videos de la cuenta; se subirá cuando se active la subida.
-                v["reservado"] = slot.isoformat(); guardar_registro(cfg, reg)
+                v["reservado"] = (slot or dt.datetime.now(_tz(cfg))).isoformat(); guardar_registro(cfg, reg)
                 log(cfg, f"Listo (sin subir): {v['mp4']}"); continue
             try:
                 yid = youtube.subir(cfg, v["mp4"], meta, publicar_en=slot, miniatura=os.path.join(v["carpeta"], "miniatura.png"))
             except youtube.CuotaAgotada:
                 log(cfg, "Cuota diaria de YouTube agotada. Lo reintento en la próxima ejecución."); break
-            v.update(youtube_id=yid, publicar_en=slot.isoformat(), subido_en=dt.datetime.now().isoformat(timespec="seconds"))
+            v.update(youtube_id=yid, publicar_en=(slot or dt.datetime.now(_tz(cfg))).isoformat(timespec="seconds"), subido_en=dt.datetime.now().isoformat(timespec="seconds"))
             guardar_registro(cfg, reg)
-            log(cfg, f"Subido {hid} -> https://youtube.com/shorts/{yid} (se publica {slot:%d/%m %H:%M})")
+            log(cfg, f"Subido {hid} -> https://youtube.com/shorts/{yid} ({'publicado ya' if slot is None else f'se publica {slot:%d/%m %H:%M}'})")
         quedan = len(historias.siguientes(usadas(reg)))
         if quedan < len(cfg["horas_publicacion"]) * 2:
             log(cfg, f"Aviso: solo quedan {quedan} historias en cola.")
@@ -182,7 +184,7 @@ def main():
     sub.add_parser("comprobar"); sub.add_parser("autorizar"); sub.add_parser("estado")
     for n in ("previa", "render"):
         p = sub.add_parser(n); p.add_argument("id", nargs="?")
-    p = sub.add_parser("lote"); p.add_argument("--sin-subir", action="store_true"); p.add_argument("--max", type=int)
+    p = sub.add_parser("lote"); p.add_argument("--sin-subir", action="store_true"); p.add_argument("--max", type=int); p.add_argument("--ahora", action="store_true")
     args = ap.parse_args()
     cfg = config.cargar()
     try:

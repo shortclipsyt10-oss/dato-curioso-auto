@@ -11,6 +11,10 @@ on:
       max:
         description: "Máximo de videos en esta ejecución (vacío = todos los huecos)"
         required: false
+      ahora:
+        description: "Publicar ya (público al momento) en vez de programarlo"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -50,6 +54,7 @@ jobs:
       - name: Instalar dependencias y fuente
         if: env.HAY_TOKEN == 'true'
         run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2-dev pkg-config >/dev/null
           pip install -r requirements.txt
           if [ ! -f ~/.fonts/InterDisplay-Black.otf ]; then
             mkdir -p ~/.fonts /tmp/inter
@@ -71,7 +76,10 @@ jobs:
       - name: Generar y subir
         if: env.HAY_TOKEN == 'true'
         run: |
-          if [ -n "${{ github.event.inputs.max }}" ]; then python -m datocurioso lote --max "${{ github.event.inputs.max }}"; else python -m datocurioso lote; fi
+          ARGS=""
+          if [ -n "${{ github.event.inputs.max }}" ]; then ARGS="$ARGS --max ${{ github.event.inputs.max }}"; fi
+          if [ "${{ github.event.inputs.ahora }}" = "true" ]; then ARGS="$ARGS --ahora"; fi
+          python -m datocurioso lote $ARGS
 
       - name: Guardar registro
         if: always() && env.HAY_TOKEN == 'true'
