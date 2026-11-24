@@ -1,1 +1,13 @@
-{"videos": {}}
+{
+ "videos": {
+  "007-tardigrados": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/007-tardigrados",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/007-tardigrados/007-tardigrados.mp4",
+   "titulo": "El animal que sobrevive al espacio 🐻🚀",
+   "renderizado_en": "2026-11-24T12:57:18",
+   "youtube_id": "SvZgaM9Ama0",
+   "publicar_en": "2026-11-24T13:57:26+01:00",
+   "subido_en": "2026-11-24T12:57:26"
+  }
+ }
+}
