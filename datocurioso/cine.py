@@ -37,7 +37,7 @@ def descargar_imagenes(historia, carpeta, seed):
         if os.path.exists(ruta) and os.path.getsize(ruta) > 20000:
             rutas.append(ruta); continue
         ok = False
-        for intento in range(4):
+        for intento in range(6):
             try:
                 req = urllib.request.Request(_url(prompt, seed + i + intento * 101), headers={"User-Agent": "dato-curioso/1.0"})
                 with urllib.request.urlopen(req, timeout=180) as r:
@@ -46,9 +46,14 @@ def descargar_imagenes(historia, carpeta, seed):
                     open(ruta, "wb").write(data); ok = True; break
             except Exception as e:
                 print(f"  imagen {i} intento {intento + 1}: {e}")
-            time.sleep(6 + intento * 6)
+            time.sleep(30 + intento * 30)  # el servicio gratuito limita la velocidad
         rutas.append(ruta if ok else None)
-        time.sleep(3)
+        time.sleep(16)
+    # Si alguna falla, usa la imagen más cercana para no romper el estilo.
+    buenas = [k for k, r in enumerate(rutas) if r]
+    for k, sc in enumerate(historia["escenas"]):
+        if rutas[k] is None and buenas and sc.get("tipo") != "final":
+            rutas[k] = rutas[min(buenas, key=lambda b: abs(b - k))]
     return rutas
 
 
@@ -80,6 +85,9 @@ class Cine:
                 s, d = _superficie(r); self.imgs.append(s); self._keep.append(d)
             else:
                 self.imgs.append(None)
+
+    def __getattr__(self, k):
+        return getattr(self.__dict__["clasico"], k)
 
     def _escena(self, t):
         li = 0
