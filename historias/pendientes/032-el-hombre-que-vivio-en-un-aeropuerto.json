@@ -1,0 +1,184 @@
+{
+ "id": "032-el-hombre-que-vivio-en-un-aeropuerto",
+ "titulo": "Vivió 18 años dentro de un aeropuerto ✈️🛋️",
+ "descripcion": "Mehran Karimi Nasseri se quedó sin papeles en el aeropuerto de París en 1988. Y se quedó a vivir allí casi dos décadas.",
+ "hashtags": [
+  "#historia",
+  "#datoscuriosos",
+  "#paris",
+  "#aeropuerto",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "mehran karimi nasseri",
+  "aeropuerto charles de gaulle",
+  "la terminal",
+  "historia real"
+ ],
+ "paleta": "rareza",
+ "miniatura": {
+  "texto": "18 AÑOS EN UN AEROPUERTO",
+  "emojis": [
+   "✈️",
+   "🛋️"
+  ]
+ },
+ "nota_veracidad": "Vivió en la Terminal 1 del aeropuerto Charles de Gaulle de 1988 a 2006. Su historia inspiró en parte la película 'La terminal' (2004). Los motivos de su pérdida de documentos se contaron de varias maneras.",
+ "fuentes": [
+  "BBC News (2022): 'Man who lived in Paris airport for 18 years dies'",
+  "The Guardian (2022): Mehran Karimi Nasseri obituary"
+ ],
+ "claves": [
+  "aeropuerto",
+  "dieciocho",
+  "años",
+  "papeles",
+  "terminal",
+  "banco",
+  "película",
+  "spielberg"
+ ],
+ "escenas": [
+  {
+   "texto": "Un hombre vivió dieciocho años dentro de un aeropuerto.",
+   "tipo": "numero",
+   "valor": "18",
+   "unidad": "años en el aeropuerto",
+   "emojis": [
+    "✈️"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Se llamaba Mehran Karimi Nasseri, y en mil novecientos ochenta y ocho llegó al aeropuerto de París.",
+   "tipo": "fecha",
+   "anio": "1988",
+   "emojis": [
+    "🛬"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Iba a volar a Inglaterra, pero no tenía sus documentos de refugiado.",
+   "tipo": "sello",
+   "emojis": [
+    "🛂"
+   ],
+   "sello": "Sin papeles",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "oficial"
+   ]
+  },
+  {
+   "texto": "No le dejaron subir al avión. Y tampoco podía entrar en Francia.",
+   "tipo": "versus",
+   "emojis": [
+    "✈️",
+    "🇫🇷"
+   ],
+   "rotulos": [
+    "Sin avión",
+    "Sin entrar"
+   ],
+   "rotulo": "Atrapado",
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Así que se quedó en la terminal, sentado en un banco rojo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪑"
+   ],
+   "rotulo": "Su casa",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Se lavaba en los baños, leía, escribía su diario y charlaba con los trabajadores.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🧼",
+     "Se lavaba"
+    ],
+    [
+     "📖",
+     "Leía"
+    ],
+    [
+     "☕",
+     "Charlaba"
+    ]
+   ],
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Los empleados le traían comida y se convirtió en parte del aeropuerto.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥐",
+    "☕"
+   ],
+   "rotulo": "Un vecino más",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "mujer"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Años después, cuando por fin le ofrecieron papeles, se negó a firmarlos.",
+   "tipo": "sello",
+   "emojis": [
+    "📄"
+   ],
+   "sello": "¡No firmo!",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Su historia inspiró la película La terminal, de Steven Spielberg.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎬",
+    "🍿"
+   ],
+   "rotulo": "La terminal",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Solo salió en dos mil seis, cuando enfermó y lo llevaron al hospital.",
+   "tipo": "fecha",
+   "anio": "2006",
+   "emojis": [
+    "🏥"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "medico"
+   ]
+  },
+  {
+   "texto": "¿Aguantarías tú? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

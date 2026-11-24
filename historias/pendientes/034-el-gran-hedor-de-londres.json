@@ -1,0 +1,182 @@
+{
+ "id": "034-el-gran-hedor-de-londres",
+ "titulo": "El verano en que Londres olía tan mal que paró el Parlamento 🤢🏛️",
+ "descripcion": "En 1858 el río Támesis apestaba tanto que los diputados no podían trabajar. De aquel olor nacieron las cloacas modernas.",
+ "hashtags": [
+  "#historia",
+  "#londres",
+  "#datoscuriosos",
+  "#ingenieria",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "gran hedor",
+  "londres 1858",
+  "támesis",
+  "bazalgette"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "LONDRES APESTABA",
+  "emojis": [
+   "🤢",
+   "🏛️"
+  ]
+ },
+ "nota_veracidad": "El 'Gran Hedor' de 1858 está bien documentado. Las cortinas del Parlamento se empaparon en cal clorada. El sistema de alcantarillado de Joseph Bazalgette sigue en uso, ampliado.",
+ "fuentes": [
+  "Encyclopaedia Britannica: Great Stink",
+  "Science Museum (Londres): 'The Great Stink'"
+ ],
+ "claves": [
+  "hedor",
+  "londres",
+  "támesis",
+  "parlamento",
+  "cortinas",
+  "cloacas",
+  "bazalgette",
+  "dieciocho"
+ ],
+ "escenas": [
+  {
+   "texto": "En el verano de mil ochocientos cincuenta y ocho, Londres olía tan mal que casi se paró el Parlamento.",
+   "tipo": "fecha",
+   "anio": "1858",
+   "emojis": [
+    "🤢"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "noble",
+    "noble"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Toda la basura y las aguas de las letrinas de la ciudad iban a parar al río Támesis.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚽",
+    "🌊"
+   ],
+   "rotulo": "Directo al río",
+   "fondo": "mar",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Y aquel verano hizo un calor tremendo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥵",
+    "☀️"
+   ],
+   "rotulo": "Calor",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El río empezó a fermentar y el olor se volvió insoportable. Lo llamaron el Gran Hedor.",
+   "tipo": "sello",
+   "emojis": [
+    "🤢"
+   ],
+   "sello": "Gran Hedor",
+   "fondo": "ciudad",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El Parlamento está justo al lado del río, y los diputados no podían ni respirar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️",
+    "😷"
+   ],
+   "rotulo": "Parlamento",
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "noble",
+    "noble"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Empaparon las cortinas en cal para tapar el olor. No sirvió de mucho.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪟",
+    "🧪"
+   ],
+   "rotulo": "Cortinas",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Así que, por una vez, los políticos se dieron muchísima prisa.",
+   "tipo": "emoji",
+   "emojis": [
+    "⏩"
+   ],
+   "rotulo": "¡Rápido!",
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "noble"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "En unos dieciocho días aprobaron una gran obra de alcantarillado.",
+   "tipo": "numero",
+   "valor": "18",
+   "unidad": "días",
+   "emojis": [
+    "📜"
+   ],
+   "fondo": "palacio"
+  },
+  {
+   "texto": "El ingeniero Joseph Bazalgette construyó cientos de kilómetros de túneles bajo la ciudad.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧱",
+    "🚇"
+   ],
+   "rotulo": "Bazalgette",
+   "fondo": "ciudad",
+   "personajes": [
+    "oficial",
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Y gran parte de aquellas cloacas sigue funcionando hoy en día.",
+   "tipo": "sello",
+   "emojis": [
+    "✅"
+   ],
+   "sello": "¡Aún funcionan!",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Te lo imaginabas? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

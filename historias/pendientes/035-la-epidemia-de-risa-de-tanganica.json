@@ -1,0 +1,182 @@
+{
+ "id": "035-la-epidemia-de-risa-de-tanganica",
+ "titulo": "La epidemia de risa que cerró colegios 😂🏫",
+ "descripcion": "En 1962 unas alumnas empezaron a reírse sin poder parar. La risa se contagió a cientos de personas.",
+ "hashtags": [
+  "#historia",
+  "#datoscuriosos",
+  "#misterios",
+  "#africa",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "epidemia de risa",
+  "tanganica 1962",
+  "histeria colectiva",
+  "misterios"
+ ],
+ "paleta": "rareza",
+ "miniatura": {
+  "texto": "UNA EPIDEMIA DE RISA",
+  "emojis": [
+   "😂",
+   "🏫"
+  ]
+ },
+ "nota_veracidad": "Se documentó en 1963 en una revista médica (Rankin y Philip). Las cifras varían según la fuente; se habla de cientos de afectados. Se considera un caso de enfermedad psicógena colectiva.",
+ "fuentes": [
+  "A. M. Rankin y P. J. Philip (1963), Central African Journal of Medicine",
+  "NPR Radiolab (2008): 'Laughter'"
+ ],
+ "claves": [
+  "risa",
+  "1962",
+  "colegio",
+  "contagió",
+  "cientos",
+  "cerrar",
+  "estrés",
+  "histeria"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil novecientos sesenta y dos hubo una epidemia de risa. Literalmente.",
+   "tipo": "fecha",
+   "anio": "1962",
+   "emojis": [
+    "😂"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "nino",
+    "nino",
+    "nino"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Empezó en un internado de chicas en Tanganica, lo que hoy es Tanzania.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏫"
+   ],
+   "rotulo": "Tanganica",
+   "fondo": "campo",
+   "personajes": [
+    "nino",
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Tres alumnas se echaron a reír y no podían parar.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "alumnas",
+   "emojis": [
+    "😆"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "nino",
+    "nino",
+    "nino"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "La risa pasó a sus compañeras. Algunas estuvieron horas, incluso días, con ataques de risa.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤣",
+    "🤣"
+   ],
+   "rotulo": "Sin parar",
+   "fondo": "campo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "bailar"
+  },
+  {
+   "texto": "Pero no tenía gracia: venía con llanto, desmayos y mucho miedo.",
+   "tipo": "sello",
+   "emojis": [
+    "😢"
+   ],
+   "sello": "No era broma",
+   "fondo": "campo",
+   "personajes": [
+    "nino"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El colegio tuvo que cerrar. Y al volver a casa, las alumnas lo llevaron a sus pueblos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚪",
+    "🏘️"
+   ],
+   "rotulo": "Cerrado",
+   "fondo": "pueblo",
+   "personajes": [
+    "nino",
+    "mujer"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Según los informes, la risa llegó a afectar a cientos de personas.",
+   "tipo": "emoji",
+   "emojis": [
+    "😂",
+    "😂",
+    "😂"
+   ],
+   "rotulo": "Cientos",
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "bailar"
+  },
+  {
+   "texto": "Varios colegios cerraron durante meses.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏫",
+    "🔒"
+   ],
+   "rotulo": "Meses",
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "Los médicos no encontraron ningún virus ni veneno.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔬"
+   ],
+   "rotulo": "Nada",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Hoy se cree que fue una reacción colectiva al estrés, algo que ya pasó con epidemias de baile.",
+   "tipo": "duda",
+   "emojis": [
+    "🧠"
+   ],
+   "sello": "¿Estrés?",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "¿Te ha dado la risa? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

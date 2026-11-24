@@ -1,0 +1,184 @@
+{
+ "id": "029-el-maraton-mas-loco-de-la-historia",
+ "titulo": "El maratón olímpico más disparatado de la historia 🏃‍♂️🚗",
+ "descripcion": "San Luis, 1904: un corredor hizo trampas en coche, el ganador corrió dopado con veneno para ratas y otro se echó una siesta.",
+ "hashtags": [
+  "#historia",
+  "#juegosolimpicos",
+  "#maraton",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "maratón 1904",
+  "juegos olímpicos",
+  "san luis",
+  "historia del deporte"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "EL MARATÓN MÁS LOCO",
+  "emojis": [
+   "🏃‍♂️",
+   "🚗"
+  ]
+ },
+ "nota_veracidad": "Los hechos principales (Lorz en coche, Hicks con estricnina y brandy, Carvajal con manzanas y siesta) están recogidos por los cronistas de la época y por el Comité Olímpico. Algunos detalles varían según la fuente.",
+ "fuentes": [
+  "Smithsonian Magazine (2012): 'The 1904 Olympic Marathon May Have Been the Strangest Ever'",
+  "Olympics.com: St. Louis 1904 marathon"
+ ],
+ "claves": [
+  "maratón",
+  "1904",
+  "coche",
+  "lorz",
+  "hicks",
+  "veneno",
+  "brandy",
+  "carvajal",
+  "manzanas",
+  "siesta",
+  "catorce"
+ ],
+ "escenas": [
+  {
+   "texto": "En los Juegos Olímpicos de mil novecientos cuatro se corrió el maratón más disparatado de la historia.",
+   "tipo": "fecha",
+   "anio": "1904",
+   "emojis": [
+    "🏅"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "atleta",
+    "atleta",
+    "atleta"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Fue en San Luis, Estados Unidos, con un calor asfixiante y caminos de tierra llenos de polvo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥵",
+    "🌵"
+   ],
+   "rotulo": "Calor y polvo",
+   "fondo": "desierto",
+   "personajes": [
+    "atleta"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Solo había agua en un punto de todo el recorrido.",
+   "tipo": "numero",
+   "valor": "1",
+   "unidad": "punto de agua",
+   "emojis": [
+    "💧"
+   ],
+   "fondo": "desierto"
+  },
+  {
+   "texto": "El primero en llegar a la meta fue Fred Lorz… que había hecho casi la mitad del camino en coche.",
+   "tipo": "sello",
+   "emojis": [
+    "🚗"
+   ],
+   "sello": "¡Trampa!",
+   "fondo": "campo",
+   "personajes": [
+    "atleta"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Lo descubrieron y lo descalificaron justo cuando iban a darle la medalla.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚫"
+   ],
+   "rotulo": "Descalificado",
+   "fondo": "campo",
+   "personajes": [
+    "atleta",
+    "oficial"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El ganador de verdad, Thomas Hicks, corrió con ayuda de sus entrenadores: le daban estricnina y brandy.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪",
+    "🥃"
+   ],
+   "rotulo": "Veneno y brandy",
+   "fondo": "desierto",
+   "personajes": [
+    "atleta",
+    "medico"
+   ]
+  },
+  {
+   "texto": "La estricnina es veneno para ratas. Llegó a la meta medio inconsciente, casi en brazos.",
+   "tipo": "sello",
+   "emojis": [
+    "☠️"
+   ],
+   "sello": "¡Peligro!",
+   "fondo": "campo",
+   "personajes": [
+    "atleta",
+    "medico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Y el cubano Andarín Carvajal paró a comer unas manzanas de un huerto. Estaban podridas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍎",
+    "🤢"
+   ],
+   "rotulo": "Manzanas podridas",
+   "fondo": "campo",
+   "personajes": [
+    "atleta"
+   ]
+  },
+  {
+   "texto": "Le dolió tanto la tripa que se echó una siesta… y aun así terminó cuarto.",
+   "tipo": "emoji",
+   "emojis": [
+    "😴"
+   ],
+   "rotulo": "¡Cuarto!",
+   "fondo": "campo",
+   "personajes": [
+    "atleta"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "De treinta y dos corredores, solo catorce llegaron a la meta.",
+   "tipo": "versus",
+   "emojis": [
+    "🏃",
+    "🏁"
+   ],
+   "rotulos": [
+    "32 salen",
+    "14 llegan"
+   ],
+   "rotulo": "Supervivientes",
+   "fondo": "campo"
+  },
+  {
+   "texto": "¿Quién te parece el más loco? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

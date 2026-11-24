@@ -1,0 +1,177 @@
+{
+ "id": "028-el-hombre-que-vendio-la-torre-eiffel",
+ "titulo": "El estafador que vendió la Torre Eiffel… dos veces 🗼💰",
+ "descripcion": "En 1925 un estafador convenció a un empresario de que París iba a desmontar la Torre Eiffel. Y se la vendió.",
+ "hashtags": [
+  "#historia",
+  "#datoscuriosos",
+  "#paris",
+  "#estafas",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "victor lustig",
+  "torre eiffel",
+  "estafa",
+  "historia"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "VENDIÓ LA TORRE EIFFEL",
+  "emojis": [
+   "🗼",
+   "💰"
+  ]
+ },
+ "nota_veracidad": "Victor Lustig existió y la estafa de 1925 está documentada, aunque muchos detalles proceden de su biografía de 1961 y de relatos posteriores. El segundo intento se cuenta en esas mismas fuentes.",
+ "fuentes": [
+  "Smithsonian Magazine: 'The Man Who Sold the Eiffel Tower'",
+  "J. F. Johnson y F. Miller (1961), The Man Who Sold the Eiffel Tower"
+ ],
+ "claves": [
+  "torre",
+  "eiffel",
+  "vendió",
+  "lustig",
+  "chatarra",
+  "poisson",
+  "vergüenza",
+  "otra",
+  "vez",
+  "alcatraz"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil novecientos veinticinco, un hombre vendió la Torre Eiffel. Y no era suya.",
+   "tipo": "fecha",
+   "anio": "1925",
+   "emojis": [
+    "🗼"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Se llamaba Victor Lustig, y era uno de los estafadores más hábiles de su época.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎩"
+   ],
+   "rotulo": "Victor Lustig",
+   "fondo": "ciudad",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Leyó en el periódico que la torre estaba vieja y que mantenerla costaba una fortuna.",
+   "tipo": "emoji",
+   "emojis": [
+    "📰"
+   ],
+   "rotulo": "Cuesta una fortuna",
+   "fondo": "ciudad",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Así que se hizo pasar por un alto funcionario del gobierno francés.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️"
+   ],
+   "rotulo": "Funcionario falso",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Reunió en secreto a varios chatarreros en un hotel de lujo de París.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏨",
+    "🤫"
+   ],
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "hombre",
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Les contó que la torre se iba a desmontar y que buscaba comprador para siete mil toneladas de hierro.",
+   "tipo": "numero",
+   "valor": "7.000",
+   "unidad": "toneladas de hierro",
+   "emojis": [
+    "🔩"
+   ],
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Un empresario, André Poisson, cayó en la trampa y le pagó una gran suma.",
+   "tipo": "emoji",
+   "emojis": [
+    "💰"
+   ],
+   "rotulo": "¡Vendida!",
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "hombre"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Lustig huyó con el dinero. Y Poisson, muerto de vergüenza, ni siquiera lo denunció.",
+   "tipo": "sello",
+   "emojis": [
+    "😳"
+   ],
+   "sello": "Engañado",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Según se cuenta, meses después Lustig volvió a París e intentó venderla otra vez.",
+   "tipo": "duda",
+   "emojis": [
+    "🔁"
+   ],
+   "sello": "¿Otra vez?",
+   "fondo": "ciudad",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Al final lo atraparon por fabricar billetes falsos, y acabó en la prisión de Alcatraz.",
+   "tipo": "emoji",
+   "emojis": [
+    "⛓️",
+    "💵"
+   ],
+   "rotulo": "Alcatraz",
+   "fondo": "noche",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "¿Tú habrías picado? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

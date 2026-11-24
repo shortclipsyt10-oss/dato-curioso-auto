@@ -1,0 +1,182 @@
+{
+ "id": "036-el-oso-de-lord-byron",
+ "titulo": "Le prohibieron tener perro… así que se llevó un oso a la universidad 🐻🎓",
+ "descripcion": "El poeta Lord Byron no podía tener perro en Cambridge. Leyó bien las normas y encontró la solución.",
+ "hashtags": [
+  "#historia",
+  "#datoscuriosos",
+  "#animales",
+  "#cambridge",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "lord byron",
+  "oso",
+  "cambridge",
+  "historia curiosa"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "UN OSO EN LA UNIVERSIDAD",
+  "emojis": [
+   "🐻",
+   "🎓"
+  ]
+ },
+ "nota_veracidad": "Byron menciona su oso en cartas de 1807. Las normas del Trinity College prohibían los perros. Lo de pedir una plaza para el oso aparece en sus cartas como broma.",
+ "fuentes": [
+  "Lord Byron, carta a Elizabeth Pigot (26/10/1807)",
+  "Trinity College Cambridge: 'Byron's bear'"
+ ],
+ "claves": [
+  "byron",
+  "oso",
+  "perro",
+  "cambridge",
+  "normas",
+  "prohibían",
+  "osos",
+  "broma"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil ochocientos siete, un estudiante de Cambridge tuvo una mascota muy especial: un oso.",
+   "tipo": "fecha",
+   "anio": "1807",
+   "emojis": [
+    "🐻"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "noble",
+    "oso"
+   ]
+  },
+  {
+   "texto": "El estudiante era Lord Byron, que con los años sería uno de los poetas más famosos.",
+   "tipo": "emoji",
+   "emojis": [
+    "📜",
+    "✒️"
+   ],
+   "rotulo": "Lord Byron",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Byron adoraba a los perros, pero en su colegio de Cambridge estaban prohibidos.",
+   "tipo": "sello",
+   "emojis": [
+    "🐕"
+   ],
+   "sello": "Prohibido",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Así que leyó las normas con atención. Prohibían perros… pero no decían nada de osos.",
+   "tipo": "emoji",
+   "emojis": [
+    "📖",
+    "🤔"
+   ],
+   "rotulo": "Las normas",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Y se trajo un oso.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐻"
+   ],
+   "rotulo": "¡Un oso!",
+   "fondo": "pueblo",
+   "personajes": [
+    "noble",
+    "oso"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Dicen que lo paseaba con una cadena, como si fuera un perro.",
+   "tipo": "duda",
+   "emojis": [
+    "⛓️"
+   ],
+   "sello": "Dicen…",
+   "fondo": "pueblo",
+   "personajes": [
+    "noble",
+    "oso"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Las autoridades del colegio no sabían qué hacer, porque técnicamente no rompía ninguna norma.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤷"
+   ],
+   "rotulo": "¿Y ahora qué?",
+   "fondo": "palacio",
+   "personajes": [
+    "oficial",
+    "anciano"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Byron, muy bromista, escribió en una carta que el oso debería optar a una plaza de profesor.",
+   "tipo": "emoji",
+   "emojis": [
+    "✉️",
+    "🎓"
+   ],
+   "rotulo": "¿Profesor oso?",
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "oso"
+   ]
+  },
+  {
+   "texto": "En la carta decía que el oso iba a sentarse para su beca. Era su forma de burlarse de la universidad.",
+   "tipo": "sello",
+   "emojis": [
+    "😂"
+   ],
+   "sello": "¡Broma!",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Desde entonces, Byron es famoso también por esta pequeña rebeldía.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐻",
+    "⭐"
+   ],
+   "rotulo": "Leyenda",
+   "fondo": "pueblo",
+   "personajes": [
+    "noble",
+    "oso"
+   ]
+  },
+  {
+   "texto": "¿Qué mascota llevarías tú? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

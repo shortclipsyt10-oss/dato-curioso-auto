@@ -1,0 +1,176 @@
+{
+ "id": "033-la-lluvia-de-carne-de-kentucky",
+ "titulo": "El día que llovió carne en Kentucky 🥩🌧️",
+ "descripcion": "En 1876 cayeron trozos de carne del cielo en una granja de Kentucky. La explicación es todavía más asquerosa.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#historia",
+  "#misterios",
+  "#rarezas",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "lluvia de carne",
+  "kentucky 1876",
+  "misterios",
+  "historia curiosa"
+ ],
+ "paleta": "rareza",
+ "miniatura": {
+  "texto": "LLOVIÓ CARNE",
+  "emojis": [
+   "🥩",
+   "🌧️"
+  ]
+ },
+ "nota_veracidad": "El suceso salió en la prensa de 1876 (New York Times). La explicación más aceptada, la de los buitres que vomitan, es una hipótesis de la época y no se pudo comprobar del todo.",
+ "fuentes": [
+  "The New York Times (10/03/1876): 'Flesh descending in a shower'",
+  "Smithsonian Magazine: 'The Kentucky Meat Shower'"
+ ],
+ "claves": [
+  "carne",
+  "cielo",
+  "kentucky",
+  "1876",
+  "crouch",
+  "probaron",
+  "buitres",
+  "vomitan"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil ochocientos setenta y seis, en Kentucky, llovió carne del cielo.",
+   "tipo": "fecha",
+   "anio": "1876",
+   "emojis": [
+    "🥩"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "La señora Crouch estaba haciendo jabón en su granja, en un día totalmente despejado.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧼",
+    "☀️"
+   ],
+   "rotulo": "Día tranquilo",
+   "fondo": "campo",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "De repente, empezaron a caer trozos de carne roja a su alrededor.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥩",
+    "🥩",
+    "🥩"
+   ],
+   "rotulo": "¡Del cielo!",
+   "fondo": "campo",
+   "personajes": [
+    "mujer"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Algunos eran del tamaño de una mano, y cubrieron una buena parte del terreno.",
+   "tipo": "sello",
+   "emojis": [
+    "✋"
+   ],
+   "sello": "¡Enormes!",
+   "fondo": "campo",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "La noticia corrió y llegaron vecinos curiosos a verlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "👀"
+   ],
+   "rotulo": "Curiosos",
+   "fondo": "campo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Dos hombres decidieron probarla. Uno dijo que sabía a cordero y otro, a venado.",
+   "tipo": "versus",
+   "emojis": [
+    "🐑",
+    "🦌"
+   ],
+   "rotulos": [
+    "Cordero",
+    "Venado"
+   ],
+   "rotulo": "¿A qué sabe?",
+   "fondo": "campo",
+   "personajes": [
+    "hombre",
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Los científicos analizaron las muestras. Parecía carne y tejido de pulmón.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔬"
+   ],
+   "rotulo": "Al microscopio",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "¿Y de dónde salió? La teoría más aceptada es asquerosa: buitres.",
+   "tipo": "duda",
+   "emojis": [
+    "🦅"
+   ],
+   "sello": "¿Buitres?",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Cuando se asustan, los buitres vomitan lo que han comido para volar más ligeros.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦅",
+    "🤢"
+   ],
+   "rotulo": "Más ligeros",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Una bandada sobre la granja… y el resto ya te lo imaginas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦅",
+    "🦅",
+    "🦅"
+   ],
+   "rotulo": "Bandada",
+   "fondo": "campo",
+   "personajes": [
+    "mujer"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "¿La habrías probado? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

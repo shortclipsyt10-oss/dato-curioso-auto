@@ -47,7 +47,8 @@
     "🔄"
    ],
    "rotulo": "Media y media",
-   "imagen": "tiny island in a river with Spanish and French flags switching"
+   "imagen": "tiny island in a river with Spanish and French flags switching",
+   "fondo": "mar"
   },
   {
    "texto": "Se llama Isla de los Faisanes y está en el río Bidasoa, justo en la frontera entre España y Francia.",
@@ -57,7 +58,11 @@
     "🧭"
    ],
    "rotulo": "Dónde está",
-   "imagen": "small river island between Spain and France, green and quiet"
+   "imagen": "small river island between Spain and France, green and quiet",
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ]
   },
   {
    "texto": "De febrero a julio es española. De agosto a enero, francesa.",
@@ -71,7 +76,8 @@
     "Ago - Ene"
    ],
    "rotulo": "Turnos",
-   "imagen": "calendar flipping between Spanish and French flag"
+   "imagen": "calendar flipping between Spanish and French flag",
+   "fondo": "mar"
   },
   {
    "texto": "Es así desde que allí se firmó la paz entre los dos reinos, en mil seiscientos cincuenta y nueve.",
@@ -81,7 +87,12 @@
     "📜"
    ],
    "rotulo": "Tratado de los Pirineos",
-   "imagen": "1659 peace treaty signing on a small island, royal nobles"
+   "imagen": "1659 peace treaty signing on a small island, royal nobles",
+   "fondo": "palacio",
+   "personajes": [
+    "rey",
+    "noble"
+   ]
   },
   {
    "texto": "Eligieron esta isla porque estaba en medio: nadie tenía que pisar el territorio del otro.",
@@ -91,7 +102,12 @@
     "⚖️"
    ],
    "rotulo": "Terreno neutral",
-   "imagen": "nobles from two kingdoms meeting in the middle of a river island"
+   "imagen": "nobles from two kingdoms meeting in the middle of a river island",
+   "fondo": "mar",
+   "personajes": [
+    "noble",
+    "noble"
+   ]
   },
   {
    "texto": "Un año después, allí se conocieron Luis catorce de Francia y la infanta María Teresa, que se casaron.",
@@ -101,7 +117,12 @@
     "💍"
    ],
    "rotulo": "Boda real",
-   "imagen": "Louis XIV meeting princess Maria Theresa, royal wedding, baroque"
+   "imagen": "Louis XIV meeting princess Maria Theresa, royal wedding, baroque",
+   "fondo": "palacio",
+   "personajes": [
+    "rey",
+    "reina"
+   ]
   },
   {
    "texto": "Es diminuta: mide unos doscientos metros de largo.",
@@ -112,7 +133,8 @@
     "📏"
    ],
    "rotulo": "Tamaño",
-   "imagen": "tiny island 200 meters long seen from above"
+   "imagen": "tiny island 200 meters long seen from above",
+   "fondo": "mar"
   },
   {
    "texto": "No vive nadie y casi nunca se puede visitar.",
@@ -122,7 +144,8 @@
     "🏠"
    ],
    "rotulo": "Deshabitada",
-   "imagen": "empty island with a no entry sign"
+   "imagen": "empty island with a no entry sign",
+   "fondo": "mar"
   },
   {
    "texto": "Y los encargados de cuidarla son dos marinos, uno de cada país.",
@@ -132,7 +155,12 @@
     "⚓"
    ],
    "rotulo": "Sus guardianes",
-   "imagen": "two navy sailors from Spain and France guarding a tiny island"
+   "imagen": "two navy sailors from Spain and France guarding a tiny island",
+   "fondo": "mar",
+   "personajes": [
+    "marinero",
+    "marinero"
+   ]
   },
   {
    "texto": "¿Conocías algún lugar tan raro?",

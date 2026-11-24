@@ -1,0 +1,177 @@
+{
+ "id": "031-jack-el-babuino-ferroviario",
+ "titulo": "El babuino que trabajó 9 años en el tren 🐒🚂",
+ "descripcion": "Un guardavías que perdió las piernas entrenó a un babuino para ayudarle. Y Jack acabó manejando las señales del tren.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#historia",
+  "#trenes",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "jack el babuino",
+  "sudáfrica",
+  "trenes",
+  "historia curiosa"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "EL BABUINO FERROVIARIO",
+  "emojis": [
+   "🐒",
+   "🚂"
+  ]
+ },
+ "nota_veracidad": "James Wide y Jack existieron (Uitenhage, Sudáfrica, años 1880). Que nunca cometiera un error lo dicen los relatos de la época y no se puede comprobar del todo.",
+ "fuentes": [
+  "Smithsonian Magazine: 'Jack the Signalman'",
+  "Cape Government Railways, relatos recogidos en la prensa de la época"
+ ],
+ "claves": [
+  "jack",
+  "babuino",
+  "james",
+  "wide",
+  "piernas",
+  "señales",
+  "tren",
+  "nueve",
+  "años",
+  "error"
+ ],
+ "escenas": [
+  {
+   "texto": "En Sudáfrica, en los años mil ochocientos ochenta, un babuino trabajó para el ferrocarril.",
+   "tipo": "fecha",
+   "anio": "1880",
+   "emojis": [
+    "🐒"
+   ],
+   "fondo": "desierto",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Todo empezó con James Wide, un empleado del tren que perdió las dos piernas en un accidente.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚂",
+    "🦿"
+   ],
+   "rotulo": "James Wide",
+   "fondo": "desierto",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Pasó a ser guardavías, pero moverse le costaba muchísimo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚦"
+   ],
+   "rotulo": "Guardavías",
+   "fondo": "desierto",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Un día vio en el mercado a un babuino empujando un carrito, y lo compró. Le llamó Jack.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐒",
+    "🛒"
+   ],
+   "rotulo": "Jack",
+   "fondo": "pueblo",
+   "personajes": [
+    "hombre",
+    "gente"
+   ]
+  },
+  {
+   "texto": "Jack aprendió a empujar su silla de ruedas y a hacer tareas de casa.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏠",
+    "🧹"
+   ],
+   "rotulo": "Ayudante",
+   "fondo": "campo",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Y luego, a mover las palancas que cambiaban las vías y las señales del tren.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕹️",
+    "🚦"
+   ],
+   "rotulo": "¡Palancas!",
+   "fondo": "desierto",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Cuando un tren pitaba, Jack sabía qué palanca tocar.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚂",
+    "📯"
+   ],
+   "rotulo": "Piiii",
+   "fondo": "desierto"
+  },
+  {
+   "texto": "La empresa no se lo creía, así que lo pusieron a prueba… y aprobó.",
+   "tipo": "sello",
+   "emojis": [
+    "✅"
+   ],
+   "sello": "¡Contratado!",
+   "fondo": "desierto",
+   "personajes": [
+    "oficial",
+    "hombre"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Le pagaban con comida y una botella de cerveza a la semana.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍺",
+    "🍞"
+   ],
+   "rotulo": "Su sueldo",
+   "fondo": "desierto",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Trabajó nueve años, y según los relatos nunca se equivocó ni una vez.",
+   "tipo": "duda",
+   "emojis": [
+    "🐒"
+   ],
+   "sello": "¿Ningún error?",
+   "fondo": "desierto",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "¿Qué animal contratarías tú? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

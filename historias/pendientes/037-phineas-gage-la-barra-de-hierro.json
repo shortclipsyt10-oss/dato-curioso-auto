@@ -1,0 +1,177 @@
+{
+ "id": "037-phineas-gage-la-barra-de-hierro",
+ "titulo": "Una barra de hierro le atravesó la cabeza… y sobrevivió 😮",
+ "descripcion": "En 1848 un capataz del ferrocarril sufrió un accidente increíble. Su caso cambió lo que sabemos del cerebro.",
+ "hashtags": [
+  "#historia",
+  "#ciencia",
+  "#cerebro",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "phineas gage",
+  "cerebro",
+  "historia de la medicina",
+  "neurociencia"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "SOBREVIVIÓ A LO IMPOSIBLE",
+  "emojis": [
+   "🧠",
+   "😮"
+  ]
+ },
+ "nota_veracidad": "Caso real descrito por su médico John Harlow (1848 y 1868). Cuánto cambió su personalidad, y durante cuánto tiempo, es algo que los historiadores siguen discutiendo. Su cráneo está en un museo de Harvard.",
+ "fuentes": [
+  "J. M. Harlow (1868), 'Recovery from the passage of an iron bar through the head'",
+  "Warren Anatomical Museum, Universidad de Harvard"
+ ],
+ "claves": [
+  "phineas",
+  "gage",
+  "barra",
+  "hierro",
+  "sobrevivió",
+  "1848",
+  "cerebro",
+  "personalidad",
+  "harvard"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil ochocientos cuarenta y ocho, una barra de hierro atravesó la cabeza de un hombre. Y sobrevivió.",
+   "tipo": "fecha",
+   "anio": "1848",
+   "emojis": [
+    "😮"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Se llamaba Phineas Gage, y dirigía a los obreros que construían una vía de tren en Vermont.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚂",
+    "⛏️"
+   ],
+   "rotulo": "Phineas Gage",
+   "fondo": "campo",
+   "personajes": [
+    "oficial",
+    "hombre",
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Usaban pólvora para romper rocas, y la apretaban con una barra de hierro de más de un metro.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧨",
+    "🪨"
+   ],
+   "rotulo": "Pólvora",
+   "fondo": "campo",
+   "personajes": [
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Una chispa hizo estallar la pólvora, y la barra salió disparada hacia su cara.",
+   "tipo": "sello",
+   "emojis": [
+    "💥"
+   ],
+   "sello": "¡Boom!",
+   "fondo": "campo",
+   "personajes": [
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Entró por debajo del ojo izquierdo y salió por lo alto de la cabeza.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠"
+   ],
+   "rotulo": "Lo atravesó",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Lo increíble: Gage no perdió el conocimiento, y poco después estaba hablando.",
+   "tipo": "sello",
+   "emojis": [
+    "🗣️"
+   ],
+   "sello": "¡Consciente!",
+   "fondo": "campo",
+   "personajes": [
+    "oficial",
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Su médico, John Harlow, lo cuidó durante semanas y consiguió salvarle la vida.",
+   "tipo": "emoji",
+   "emojis": [
+    "🩺"
+   ],
+   "rotulo": "El doctor Harlow",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico",
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Pero según Harlow, su carácter cambió: se volvió impaciente y malhablado.",
+   "tipo": "duda",
+   "emojis": [
+    "😠"
+   ],
+   "sello": "¿Otro Gage?",
+   "fondo": "pueblo",
+   "personajes": [
+    "oficial"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Su caso ayudó a entender que la parte delantera del cerebro influye en la personalidad.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠",
+    "💡"
+   ],
+   "rotulo": "Gran pista",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Vivió doce años más, y hoy su cráneo y la barra están en un museo de Harvard.",
+   "tipo": "numero",
+   "valor": "12",
+   "unidad": "años más",
+   "emojis": [
+    "🏛️"
+   ],
+   "fondo": "palacio"
+  },
+  {
+   "texto": "¿Lo sabías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

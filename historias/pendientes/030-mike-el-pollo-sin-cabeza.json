@@ -1,0 +1,180 @@
+{
+ "id": "030-mike-el-pollo-sin-cabeza",
+ "titulo": "Mike, el pollo que vivió 18 meses sin cabeza 🐔",
+ "descripcion": "En 1945 un granjero de Colorado intentó cocinar a un pollo. Pero Mike siguió vivo… y se hizo famoso.",
+ "hashtags": [
+  "#datoscuriosos",
+  "#animales",
+  "#historia",
+  "#rarezas",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "mike el pollo",
+  "fruita colorado",
+  "historia curiosa",
+  "animales"
+ ],
+ "paleta": "rareza",
+ "miniatura": {
+  "texto": "18 MESES SIN CABEZA",
+  "emojis": [
+   "🐔",
+   "😮"
+  ]
+ },
+ "nota_veracidad": "El caso está bien documentado: el corte dejó intacto el tronco del encéfalo y una oreja, y Mike vivió unos 18 meses (1945-1947). Su pueblo, Fruita, aún celebra un festival en su honor.",
+ "fuentes": [
+  "Smithsonian Magazine: 'The Chicken That Lived for 18 Months Without a Head'",
+  "BBC News (2015): 'The chicken that lived for 18 months without a head'"
+ ],
+ "claves": [
+  "mike",
+  "pollo",
+  "cabeza",
+  "dieciocho",
+  "meses",
+  "olsen",
+  "cuentagotas",
+  "gira",
+  "fruita"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil novecientos cuarenta y cinco, un pollo vivió dieciocho meses sin cabeza. Se llamaba Mike.",
+   "tipo": "numero",
+   "valor": "18",
+   "unidad": "meses sin cabeza",
+   "emojis": [
+    "🐔"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Todo empezó en una granja de Fruita, en Colorado, Estados Unidos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏡"
+   ],
+   "rotulo": "Fruita, Colorado",
+   "fondo": "campo",
+   "personajes": [
+    "granjero",
+    "mujer"
+   ]
+  },
+  {
+   "texto": "El granjero Lloyd Olsen quería pollo para la cena, y le cortó la cabeza con un hacha.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪓",
+    "🍗"
+   ],
+   "rotulo": "La cena",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Pero Mike no se murió. Se levantó y siguió caminando por el corral como si nada.",
+   "tipo": "sello",
+   "emojis": [
+    "🐔"
+   ],
+   "sello": "¡Sigue vivo!",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "El hacha no le había tocado el tronco del cerebro, que controla la respiración y el corazón.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠"
+   ],
+   "rotulo": "El secreto",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Olsen decidió cuidarlo: le daba comida y agua con un cuentagotas, directamente por el cuello.",
+   "tipo": "emoji",
+   "emojis": [
+    "💧",
+    "🌽"
+   ],
+   "rotulo": "Cuentagotas",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Mike se hizo famoso y salió de gira por todo el país.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎪",
+    "🎟️"
+   ],
+   "rotulo": "De gira",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "La gente pagaba veinticinco centavos por verlo.",
+   "tipo": "numero",
+   "valor": "25",
+   "unidad": "centavos la entrada",
+   "emojis": [
+    "🪙"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Por desgracia, en mil novecientos cuarenta y siete se atragantó una noche y no pudieron salvarlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "😢"
+   ],
+   "rotulo": "Adiós, Mike",
+   "fondo": "noche",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Hoy su pueblo celebra cada año un festival en su honor.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎉",
+    "🐔"
+   ],
+   "rotulo": "Festival de Mike",
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "¿Lo conocías? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

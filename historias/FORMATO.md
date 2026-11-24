@@ -15,7 +15,7 @@ Cada historia es un JSON en `historias/pendientes/NNN-slug.json`. Se publican po
  "fuentes": ["Autor (año), publicación"],
  "claves": ["palabras", "que", "salen", "en", "verde"],
  "escenas": [ { "texto": "Frase narrada", "tipo": "emoji", "emojis": ["🐻"], "rotulo": "Texto del cartel",
-               "imagen": "cute tardigrade floating in space next to the earth" } ]
+               "fondo": "campo", "personajes": ["granjero"], "accion": "hablar" } ]
 }
 ```
 
@@ -33,11 +33,19 @@ Cada historia es un JSON en `historias/pendientes/NNN-slug.json`. Se publican po
 | `pregunta` | `emojis` (opcional) | la mascota "?" con emojis girando |
 | `final` | — | mascota + "¡SÍGUENOS!" + confeti (siempre la última) |
 
-## Imagen de cada escena (estilo cine)
+## Escenario y personajes (estilo de los primeros videos)
 
-Cada escena (menos `final`) lleva `imagen`: una descripción **en inglés**, corta y visual, de lo que se ve en ese momento (personajes, lugar, acción). Sin texto ni letras en la imagen. El estilo 3D tipo película se añade solo. Ejemplo: `"a shark and a T-rex facing each other comically at the beach"`.
+Cada escena (menos `pregunta` y `final`) lleva un escenario dibujado y, si encaja, personajes:
+
+- `fondo`: desierto, campo, pueblo, pueblo_noche, ciudad, noche, mar, bajo_agua, egipto, nieve, palacio, laboratorio
+- `personajes` (máx. 4): soldado, oficial, general, rey, reina, noble, cientifico, medico, granjero, marinero, explorador, mujer, hombre, anciano, nino, musico, atleta, gente (grupo), multitud (grupo grande); animales dibujados: emu, oso, conejo, pulpo, abeja. Otros animales u objetos van como `emojis`.
+- `accion` (opcional): andar, correr, bailar, celebrar, hablar, senalar, triste, tumbado
+
+Con `fondo`, los `emojis` se dibujan como objetos sobre la escena.
 
 ## Reglas editoriales
+
+- **Historias, no datos sueltos.** Cada video cuenta UNA historia real con protagonista, lugar y fecha, un problema o situación absurda, un giro y un final (como la Gran Guerra del Emú, la epidemia de baile de 1518 o el oso soldado Wojtek). Nada de "¿sabías que…?" de una línea alargado. Si el tema es un dato (la miel que no caduca), cuéntalo a través de quien lo descubrió y cómo.
 
 - 10-12 escenas, unas 130-160 palabras en total: dura entre 45 y 65 segundos.
 - La primera frase es el gancho: lo más sorprendente, sin rodeos.

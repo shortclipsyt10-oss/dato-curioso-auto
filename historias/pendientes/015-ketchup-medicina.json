@@ -46,7 +46,11 @@
     "💊"
    ],
    "rotulo": "¿Medicina?",
-   "imagen": "old 1800s pharmacy with ketchup bottles labeled as medicine on the shelves"
+   "imagen": "old 1800s pharmacy with ketchup bottles labeled as medicine on the shelves",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
   },
   {
    "texto": "Por cierto, el ketchup original no llevaba tomate: era una salsa asiática de pescado fermentado.",
@@ -56,7 +60,11 @@
     "🫙"
    ],
    "rotulo": "Ketchup original",
-   "imagen": "ancient Asian kitchen with fermented fish sauce in clay jars"
+   "imagen": "ancient Asian kitchen with fermented fish sauce in clay jars",
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ]
   },
   {
    "texto": "Con los siglos, en Occidente se fue haciendo con setas, nueces… y, al final, tomate.",
@@ -75,7 +83,11 @@
      "Tomate"
     ]
    ],
-   "imagen": "medieval European kitchen making sauce from mushrooms, walnuts and tomatoes"
+   "imagen": "medieval European kitchen making sauce from mushrooms, walnuts and tomatoes",
+   "fondo": "palacio",
+   "personajes": [
+    "hombre"
+   ]
   },
   {
    "texto": "Hacia mil ochocientos treinta y cuatro, un médico estadounidense empezó a decir que el tomate curaba de todo.",
@@ -85,7 +97,11 @@
     "👨‍⚕️"
    ],
    "rotulo": "Un médico",
-   "imagen": "1830s American doctor holding a giant tomato proudly, vintage clinic"
+   "imagen": "1830s American doctor holding a giant tomato proudly, vintage clinic",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
   },
   {
    "texto": "Según él, servía para la indigestión, la diarrea y otros males.",
@@ -94,7 +110,12 @@
     "🤢"
    ],
    "rotulo": "Remedio para todo",
-   "imagen": "vintage doctor pointing at a tomato with patients holding their stomachs"
+   "imagen": "vintage doctor pointing at a tomato with patients holding their stomachs",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico",
+    "hombre"
+   ]
   },
   {
    "texto": "Publicó recetas de ketchup como tónico, y pronto se vendieron pastillas de tomate.",
@@ -104,7 +125,11 @@
     "🍅"
    ],
    "rotulo": "Pastillas de tomate",
-   "imagen": "vintage tomato pills in glass bottles, old apothecary advertisement style"
+   "imagen": "vintage tomato pills in glass bottles, old apothecary advertisement style",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
   },
   {
    "texto": "Fueron un éxito enorme… hasta que se descubrió que muchas no tenían ni tomate.",
@@ -113,7 +138,11 @@
     "💊"
    ],
    "sello": "¡Falsas!",
-   "imagen": "crowd buying tomato pills from a street seller, then shocked faces"
+   "imagen": "crowd buying tomato pills from a street seller, then shocked faces",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
   },
   {
    "texto": "Algunas eran simples laxantes con otro nombre.",
@@ -122,7 +151,11 @@
     "🚽"
    ],
    "rotulo": "Solo laxantes",
-   "imagen": "fake pills spilling from a bottle, detective with magnifying glass"
+   "imagen": "fake pills spilling from a bottle, detective with magnifying glass",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
   },
   {
    "texto": "La moda de las pastillas se hundió, pero el ketchup como salsa se quedó para siempre.",
@@ -136,7 +169,11 @@
     "Salsa"
    ],
    "rotulo": "Ganó la salsa",
-   "imagen": "modern ketchup bottle on top of a burger and fries, triumphant"
+   "imagen": "modern ketchup bottle on top of a burger and fries, triumphant",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
   },
   {
    "texto": "¿Te imaginas ir a la farmacia a por ketchup?",

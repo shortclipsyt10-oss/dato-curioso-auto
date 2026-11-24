@@ -66,18 +66,31 @@ def _decor(c, ems, t, sd):
 
 def escena(c, sc, idx, u, d, t, pal, sd):
     c1, c2 = pal[idx % len(pal)]
-    D.radial_bg(c, t, c1, c2)
     tipo = sc.get("tipo", "emoji")
     ems = sc.get("emojis") or ([sc["emoji"]] if sc.get("emoji") else [])
-    if ems: _decor(c, ems, t, sd + idx)
-    D.sparkles(c, t, seed=sd + idx)
+    ilustrada = bool(sc.get("fondo")) and tipo not in ("pregunta", "final")
+    if ilustrada:
+        from . import ilustrado as I
+        gy = I.fondo(c, sc["fondo"], t)
+        I.personajes(c, sc.get("personajes"), gy, t, sc.get("accion"), sd + idx)
+        if tipo == "emoji":
+            # Con escenario, los emojis son objetos que flotan sobre la escena, más pequeños.
+            n = len(ems)
+            pos = {1: [(540, 760, 300)], 2: [(330, 760, 240), (750, 760, 240)], 3: [(540, 640, 200), (300, 860, 190), (780, 860, 190)]}
+            for k, (e, (x, y, sz)) in enumerate(zip(ems[:3], pos.get(min(n, 3), []))):
+                emoji(c, e, x, y + math.sin(t * 2 + k) * 14, sz * _pop(u, k), rot=math.sin(t * 1.6 + k) * 0.08)
+            ems = []
+    else:
+        D.radial_bg(c, t, c1, c2)
+        if ems: _decor(c, ems, t, sd + idx)
+        D.sparkles(c, t, seed=sd + idx)
     p = u / max(d, 0.01)
     if sc.get("rotulo") and tipo not in ("versus",):
         colr = sc.get("color", ["#ff3b30", "#1c7ed6", "#2b8a3e", "#e67700", "#862e9c", "#c2255c"][idx % 6])
         chip(c, sc["rotulo"].upper(), 540, 360, colr, size=66, sc=_pop(u, 0, speed=4))
 
     if tipo == "emoji":
-        _emojis_grupo(c, ems or ["🤔"], u, t)
+        if not ilustrada: _emojis_grupo(c, ems or ["🤔"], u, t)
     elif tipo == "numero":
         if ems: emoji(c, ems[0], 540, 620 + math.sin(t * 2) * 14, 270 * _pop(u), rot=math.sin(t * 1.5) * 0.08)
         v = str(sc.get("valor", ""))
@@ -110,7 +123,7 @@ def escena(c, sc, idx, u, d, t, pal, sd):
         text(c, "VS", 540, 760, 80 * pv, fill="#ffffff", stroke="#111111", sw=0.12)
         if sc.get("rotulo"): chip(c, sc["rotulo"].upper(), 540, 360, "#111111", "#ffd23f", size=60, sc=_pop(u, 0, speed=4))
     elif tipo in ("sello", "duda"):
-        _emojis_grupo(c, ems or ["🤔"], u, t)
+        if not (ilustrada and sc.get("personajes")): _emojis_grupo(c, ems or ["🤔"], u, t)
         txt = sc.get("sello") or ("¿LEYENDA?" if tipo == "duda" else "¡VERDAD!")
         colr = "#e67700" if tipo == "duda" else sc.get("color_sello", "#e03131")
         D.stamp(c, txt.upper(), 540, 1000, (p - 0.3) * 1.6, 120, colr, -0.12)
