@@ -132,6 +132,8 @@ def puede_subir(cfg, reg):
 def cmd_lote(cfg, args):
     if cfg.get("ejecutar_en") == "nube" and not os.environ.get("GITHUB_ACTIONS"):
         print("La publicación se hace en GitHub Actions (config.json: ejecutar_en = nube). Este PC no sube nada."); return
+    if cfg.get("pausado"):
+        log(cfg, "Publicación en pausa (config.json: pausado = true)."); return
     from . import video, youtube
     lock = os.path.join(cfg["carpeta_datos"], "lote.lock")
     if os.path.exists(lock) and (dt.datetime.now().timestamp() - os.path.getmtime(lock)) < 3 * 3600:
