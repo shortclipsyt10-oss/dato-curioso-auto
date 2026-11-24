@@ -31,6 +31,8 @@ def descargar_imagenes(historia, carpeta, seed):
     rutas = []
     for i, sc in enumerate(historia["escenas"]):
         prompt = sc.get("imagen")
+        if not prompt and sc.get("tipo") != "final":
+            prompt = f"{sc['texto']} {sc.get('rotulo') or ''}".strip()  # respaldo si la historia no trae `imagen`
         ruta = os.path.join(carpeta, f"img_{i:02d}.jpg")
         if not prompt:
             rutas.append(None); continue
