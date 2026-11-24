@@ -16,8 +16,9 @@ from . import dibujo as D
 from .dibujo import W, H, back, ease, col, text, emoji
 from .voz import trozos, norm
 
-ESTILO = ("3D animated movie still, Pixar style, cute stylized characters, vibrant saturated colors, "
-          "cinematic lighting, depth of field, highly detailed, vertical composition, no text, no letters, no watermark")
+ESTILO = ("flat 2D vector cartoon illustration, clean simple shapes, bold clean outlines, bright cheerful colors, "
+          "soft gradients, cute friendly characters, minimalist background, children's educational animation style, "
+          "not realistic, no text, no letters, no watermark")
 
 
 def _url(prompt, seed):
@@ -112,10 +113,10 @@ class Cine:
         c.set_source_surface(img, 0, 0); c.get_source().set_filter(cairo.FILTER_GOOD); c.paint(); c.restore()
         # Viñeta y degradado inferior para que se lean los textos.
         g = cairo.RadialGradient(W / 2, H / 2, H * 0.3, W / 2, H / 2, H * 0.75)
-        g.add_color_stop_rgba(0, 0, 0, 0, 0); g.add_color_stop_rgba(1, 0, 0, 0, 0.55)
+        g.add_color_stop_rgba(0, 0, 0, 0, 0); g.add_color_stop_rgba(1, 0, 0, 0, 0.18)
         c.set_source(g); c.paint()
         g = cairo.LinearGradient(0, H * 0.55, 0, H)
-        g.add_color_stop_rgba(0, 0, 0, 0, 0); g.add_color_stop_rgba(1, 0, 0, 0, 0.6)
+        g.add_color_stop_rgba(0, 0, 0, 0, 0); g.add_color_stop_rgba(1, 0, 0, 0, 0.35)
         c.set_source(g); c.rectangle(0, H * 0.55, W, H * 0.45); c.fill()
 
     def _cartel(self, c, sc, u, t):
