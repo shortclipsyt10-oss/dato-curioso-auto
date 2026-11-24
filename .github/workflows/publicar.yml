@@ -80,6 +80,7 @@ jobs:
           if [ -n "${{ github.event.inputs.max }}" ]; then ARGS="$ARGS --max ${{ github.event.inputs.max }}"; fi
           if [ "${{ github.event.inputs.ahora }}" = "true" ]; then ARGS="$ARGS --ahora"; fi
           python -m datocurioso lote $ARGS
+          python -m datocurioso estadisticas || echo "No se pudieron leer las estadísticas"
 
       - name: Guardar registro
         if: always() && env.HAY_TOKEN == 'true'
@@ -88,7 +89,7 @@ jobs:
           cp salida/registro.log estado/ultimo.log 2>/dev/null || true
           git config user.name "dato-curioso-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add estado/
+          git add -A estado/ listos/
           git diff --cached --quiet || (git commit -m "Registro de publicación" && git pull --rebase -q && git push)
 
       - name: Videos generados (descargables 30 días)

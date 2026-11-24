@@ -12,6 +12,7 @@ import datetime as dt
 import json
 import os
 import sys
+import shutil
 import traceback
 
 from . import config, historias, metadatos
@@ -82,6 +83,46 @@ def buscar(cfg, ident):
     return pend[0]
 
 
+def listos_pendientes(reg):
+    """Videos ya terminados en listos/<id>/ (con su historia.json) que aún no se han subido."""
+    base = os.path.join(config.RAIZ, "listos")
+    if not os.path.isdir(base): return []
+    out = []
+    for d in sorted(os.listdir(base)):
+        c = os.path.join(base, d)
+        if os.path.exists(os.path.join(c, f"{d}.mp4")) and d not in reg["videos"]:
+            out.append(c)
+    return out
+
+
+def cmd_estadisticas(cfg, args):
+    """Guarda visitas, likes y comentarios de cada video subido en estado/estadisticas.json."""
+    from . import youtube
+    reg = leer_registro(cfg)
+    ids = {v["youtube_id"]: k for k, v in reg["videos"].items() if v.get("youtube_id")}
+    if not ids: print("Aún no hay videos subidos."); return
+    yt = youtube.cliente(cfg); filas = []
+    lista = list(ids)
+    for i in range(0, len(lista), 50):
+        r = yt.videos().list(part="statistics,snippet,contentDetails", id=",".join(lista[i:i + 50])).execute()
+        for it in r.get("items", []):
+            st = it.get("statistics", {}); k = ids[it["id"]]; v = reg["videos"][k]
+            pub = it["snippet"].get("publishedAt", "")
+            try:
+                horas = max(1.0, (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(pub.replace("Z", "+00:00"))).total_seconds() / 3600)
+            except Exception:
+                horas = 1.0
+            vis = int(st.get("viewCount", 0))
+            filas.append({"id": k, "youtube_id": it["id"], "titulo": it["snippet"]["title"], "paleta": v.get("paleta"),
+                          "publicado": pub, "horas": round(horas, 1), "visitas": vis, "likes": int(st.get("likeCount", 0)),
+                          "comentarios": int(st.get("commentCount", 0)), "visitas_por_hora": round(vis / horas, 2)})
+    filas.sort(key=lambda x: -x["visitas_por_hora"])
+    p = os.path.join(config.RAIZ, "estado", "estadisticas.json"); os.makedirs(os.path.dirname(p), exist_ok=True)
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump({"actualizado": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), "videos": filas}, f, ensure_ascii=False, indent=1)
+    for x in filas[:10]: print(f"{x['visitas']:>7} visitas  {x['visitas_por_hora']:>7}/h  {x['titulo']}")
+
+
 def puede_subir(cfg, reg):
     if not cfg["subir_a_youtube"]: return False
     subidos = sum(1 for x in reg["videos"].values() if x.get("youtube_id"))
@@ -111,6 +152,12 @@ def cmd_lote(cfg, args):
                           and (puede_subir(cfg, reg) and not args.sin_subir or not v.get("reservado"))]
             if pend_subida:
                 hid = pend_subida[0]; h = json.load(open(os.path.join(reg["videos"][hid]["carpeta"], "historia.json"), encoding="utf-8"))
+            elif listos_pendientes(reg):
+                carpeta = listos_pendientes(reg)[0]; h = json.load(open(os.path.join(carpeta, "historia.json"), encoding="utf-8")); hid = h["id"]
+                log(cfg, f"Video ya hecho: {hid}")
+                reg["videos"][hid] = {"carpeta": carpeta, "mp4": os.path.join(carpeta, f"{hid}.mp4"), "titulo": h["titulo"], "listo": True,
+                                      "paleta": h.get("paleta")}
+                guardar_registro(cfg, reg)
             else:
                 cola = historias.siguientes(usadas(reg))
                 if not cola:
@@ -119,7 +166,7 @@ def cmd_lote(cfg, args):
                 log(cfg, f"Renderizando {hid}...")
                 carpeta = video.renderizar(h, cfg)
                 reg["videos"][hid] = {"carpeta": carpeta, "mp4": os.path.join(carpeta, f"{hid}.mp4"), "titulo": h["titulo"],
-                                      "renderizado_en": dt.datetime.now().isoformat(timespec="seconds")}
+                                      "paleta": h.get("paleta"), "renderizado_en": dt.datetime.now().isoformat(timespec="seconds")}
                 guardar_registro(cfg, reg)
             v = reg["videos"][hid]
             meta = metadatos.generar(h)
@@ -138,6 +185,8 @@ def cmd_lote(cfg, args):
             except youtube.CuotaAgotada:
                 log(cfg, "Cuota diaria de YouTube agotada. Lo reintento en la próxima ejecución."); break
             v.update(youtube_id=yid, publicar_en=(slot or dt.datetime.now(_tz(cfg))).isoformat(timespec="seconds"), subido_en=dt.datetime.now().isoformat(timespec="seconds"))
+            if v.get("listo"):
+                shutil.rmtree(v["carpeta"], ignore_errors=True)
             guardar_registro(cfg, reg)
             log(cfg, f"Subido {hid} -> https://youtube.com/shorts/{yid} ({'publicado ya' if slot is None else f'se publica {slot:%d/%m %H:%M}'})")
         quedan = len(historias.siguientes(usadas(reg)))
@@ -181,7 +230,7 @@ def cmd_comprobar(cfg, args):
 def main():
     ap = argparse.ArgumentParser(prog="datocurioso", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
-    sub.add_parser("comprobar"); sub.add_parser("autorizar"); sub.add_parser("estado")
+    sub.add_parser("comprobar"); sub.add_parser("autorizar"); sub.add_parser("estado"); sub.add_parser("estadisticas")
     for n in ("previa", "render"):
         p = sub.add_parser(n); p.add_argument("id", nargs="?")
     p = sub.add_parser("lote"); p.add_argument("--sin-subir", action="store_true"); p.add_argument("--max", type=int); p.add_argument("--ahora", action="store_true")
@@ -197,6 +246,7 @@ def main():
             h = buscar(cfg, args.id)
             print(video.renderizar(h, cfg, solo_previa=args.cmd == "previa"))
         elif args.cmd == "lote": cmd_lote(cfg, args)
+        elif args.cmd == "estadisticas": cmd_estadisticas(cfg, args)
     except SystemExit:
         raise
     except Exception:
