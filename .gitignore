@@ -13,3 +13,4 @@ salida/
 *.wav
 *.onnx
 *.bin
+!listos/*/*.mp4
