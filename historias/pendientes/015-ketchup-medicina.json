@@ -45,7 +45,8 @@
     "🍅",
     "💊"
    ],
-   "rotulo": "¿Medicina?"
+   "rotulo": "¿Medicina?",
+   "imagen": "old 1800s pharmacy with ketchup bottles labeled as medicine on the shelves"
   },
   {
    "texto": "Por cierto, el ketchup original no llevaba tomate: era una salsa asiática de pescado fermentado.",
@@ -54,7 +55,8 @@
     "🐟",
     "🫙"
    ],
-   "rotulo": "Ketchup original"
+   "rotulo": "Ketchup original",
+   "imagen": "ancient Asian kitchen with fermented fish sauce in clay jars"
   },
   {
    "texto": "Con los siglos, en Occidente se fue haciendo con setas, nueces… y, al final, tomate.",
@@ -72,7 +74,8 @@
      "🍅",
      "Tomate"
     ]
-   ]
+   ],
+   "imagen": "medieval European kitchen making sauce from mushrooms, walnuts and tomatoes"
   },
   {
    "texto": "Hacia mil ochocientos treinta y cuatro, un médico estadounidense empezó a decir que el tomate curaba de todo.",
@@ -81,7 +84,8 @@
    "emojis": [
     "👨‍⚕️"
    ],
-   "rotulo": "Un médico"
+   "rotulo": "Un médico",
+   "imagen": "1830s American doctor holding a giant tomato proudly, vintage clinic"
   },
   {
    "texto": "Según él, servía para la indigestión, la diarrea y otros males.",
@@ -89,7 +93,8 @@
    "emojis": [
     "🤢"
    ],
-   "rotulo": "Remedio para todo"
+   "rotulo": "Remedio para todo",
+   "imagen": "vintage doctor pointing at a tomato with patients holding their stomachs"
   },
   {
    "texto": "Publicó recetas de ketchup como tónico, y pronto se vendieron pastillas de tomate.",
@@ -98,7 +103,8 @@
     "💊",
     "🍅"
    ],
-   "rotulo": "Pastillas de tomate"
+   "rotulo": "Pastillas de tomate",
+   "imagen": "vintage tomato pills in glass bottles, old apothecary advertisement style"
   },
   {
    "texto": "Fueron un éxito enorme… hasta que se descubrió que muchas no tenían ni tomate.",
@@ -106,7 +112,8 @@
    "emojis": [
     "💊"
    ],
-   "sello": "¡Falsas!"
+   "sello": "¡Falsas!",
+   "imagen": "crowd buying tomato pills from a street seller, then shocked faces"
   },
   {
    "texto": "Algunas eran simples laxantes con otro nombre.",
@@ -114,7 +121,8 @@
    "emojis": [
     "🚽"
    ],
-   "rotulo": "Solo laxantes"
+   "rotulo": "Solo laxantes",
+   "imagen": "fake pills spilling from a bottle, detective with magnifying glass"
   },
   {
    "texto": "La moda de las pastillas se hundió, pero el ketchup como salsa se quedó para siempre.",
@@ -127,7 +135,8 @@
     "Medicina",
     "Salsa"
    ],
-   "rotulo": "Ganó la salsa"
+   "rotulo": "Ganó la salsa",
+   "imagen": "modern ketchup bottle on top of a burger and fries, triumphant"
   },
   {
    "texto": "¿Te imaginas ir a la farmacia a por ketchup?",
@@ -135,7 +144,8 @@
    "emojis": [
     "🍅",
     "🏥"
-   ]
+   ],
+   "imagen": "pharmacist handing a ketchup bottle across the counter, funny"
   },
   {
    "texto": "Síguenos para más curiosidades.",

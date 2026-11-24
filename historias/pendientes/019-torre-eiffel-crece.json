@@ -47,7 +47,8 @@
     "🗼",
     "☀️"
    ],
-   "rotulo": "¿Crece?"
+   "rotulo": "¿Crece?",
+   "imagen": "Eiffel Tower in Paris on a hot summer day with heat waves and a thermometer"
   },
   {
    "texto": "Está hecha de hierro, y el hierro se dilata con el calor.",
@@ -56,7 +57,8 @@
     "🔥",
     "🔩"
    ],
-   "rotulo": "Dilatación"
+   "rotulo": "Dilatación",
+   "imagen": "iron beams of the Eiffel Tower expanding with heat, glowing orange"
   },
   {
    "texto": "En los días calurosos puede ganar hasta unos quince centímetros de altura.",
@@ -66,7 +68,8 @@
    "emojis": [
     "📏"
    ],
-   "rotulo": "Más alta"
+   "rotulo": "Más alta",
+   "imagen": "Eiffel Tower growing taller with a measuring tape, summer"
   },
   {
    "texto": "Y en invierno, con el frío, vuelve a encoger.",
@@ -79,7 +82,8 @@
     "Verano: crece",
     "Invierno: encoge"
    ],
-   "rotulo": "Respira"
+   "rotulo": "Respira",
+   "imagen": "Eiffel Tower in snowy winter, shrinking slightly, cozy Paris"
   },
   {
    "texto": "Además, el sol calienta más un lado que otro, y la punta se inclina un poquito.",
@@ -87,7 +91,8 @@
    "emojis": [
     "↗️"
    ],
-   "rotulo": "Se inclina"
+   "rotulo": "Se inclina",
+   "imagen": "sun shining on one side of the Eiffel Tower, top tilting slightly"
   },
   {
    "texto": "Se construyó para la Exposición Universal de mil ochocientos ochenta y nueve.",
@@ -96,7 +101,8 @@
    "emojis": [
     "🎡"
    ],
-   "rotulo": "Exposición Universal"
+   "rotulo": "Exposición Universal",
+   "imagen": "1889 World Fair in Paris with Eiffel Tower under construction, vintage"
   },
   {
    "texto": "Y no debía quedarse: tenía permiso para solo veinte años.",
@@ -106,7 +112,8 @@
    "emojis": [
     "⏳"
    ],
-   "rotulo": "Era temporal"
+   "rotulo": "Era temporal",
+   "imagen": "vintage permit document with twenty years written, Eiffel Tower behind"
   },
   {
    "texto": "Muchos artistas de la época la odiaban y la llamaban monstruosa.",
@@ -115,7 +122,8 @@
     "😠",
     "🎨"
    ],
-   "rotulo": "La odiaban"
+   "rotulo": "La odiaban",
+   "imagen": "angry 1880s artists with paint brushes protesting the Eiffel Tower"
   },
   {
    "texto": "Se salvó en parte por ser útil como antena de radio.",
@@ -123,7 +131,8 @@
    "emojis": [
     "📡"
    ],
-   "sello": "¡Salvada!"
+   "sello": "¡Salvada!",
+   "imagen": "Eiffel Tower with radio antenna and radio waves broadcasting"
   },
   {
    "texto": "Hoy es uno de los monumentos más visitados del mundo.",
@@ -132,7 +141,8 @@
     "📸",
     "🌍"
    ],
-   "rotulo": "Todo un éxito"
+   "rotulo": "Todo un éxito",
+   "imagen": "huge crowds of happy tourists at the Eiffel Tower at sunset"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",

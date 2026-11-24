@@ -51,7 +51,8 @@
     "Un ojo",
     "Su cerebro"
    ],
-   "rotulo": "Avestruz"
+   "rotulo": "Avestruz",
+   "imagen": "close-up of an ostrich face with huge eyes, savanna"
   },
   {
    "texto": "Miden unos cinco centímetros: son los ojos más grandes de cualquier animal terrestre.",
@@ -61,7 +62,8 @@
    "emojis": [
     "👁️"
    ],
-   "rotulo": "Ojazos"
+   "rotulo": "Ojazos",
+   "imagen": "ostrich eye compared to a ruler, five centimeters, science"
   },
   {
    "texto": "Gracias a ellos pueden ver a un depredador a kilómetros de distancia.",
@@ -69,7 +71,8 @@
    "emojis": [
     "🔭"
    ],
-   "rotulo": "Vista de lince"
+   "rotulo": "Vista de lince",
+   "imagen": "ostrich spotting a lion far away across the savanna, telescope vision"
   },
   {
    "texto": "Y cuando lo ven, corren. Pueden alcanzar unos setenta kilómetros por hora.",
@@ -79,7 +82,8 @@
    "emojis": [
     "💨"
    ],
-   "rotulo": "Velocistas"
+   "rotulo": "Velocistas",
+   "imagen": "ostrich running super fast across the savanna with dust trails"
   },
   {
    "texto": "Es el ave más rápida en tierra… aunque no puede volar.",
@@ -87,7 +91,8 @@
    "emojis": [
     "🏃"
    ],
-   "rotulo": "No vuela"
+   "rotulo": "No vuela",
+   "imagen": "ostrich running fast while birds fly overhead, ostrich looking up"
   },
   {
    "texto": "También pone el huevo más grande del mundo: pesa como unos veinte huevos de gallina.",
@@ -100,14 +105,16 @@
     "1 de avestruz",
     "20 de gallina"
    ],
-   "rotulo": "Huevazo"
+   "rotulo": "Huevazo",
+   "imagen": "giant ostrich egg next to twenty tiny chicken eggs"
   },
   {
    "texto": "¿Y lo de que esconde la cabeza en la arena cuando tiene miedo?",
    "tipo": "pregunta",
    "emojis": [
     "🏜️"
-   ]
+   ],
+   "imagen": "ostrich with its head buried in the sand, cartoon myth"
   },
   {
    "texto": "Es un mito.",
@@ -115,7 +122,8 @@
    "emojis": [
     "🙅"
    ],
-   "sello": "¡Falso!"
+   "sello": "¡Falso!",
+   "imagen": "big red MYTH stamp mood, ostrich laughing"
   },
   {
    "texto": "Lo que hacen es bajar la cabeza para dar la vuelta a los huevos en el nido, que cavan en el suelo.",
@@ -124,7 +132,8 @@
     "🥚",
     "🕳️"
    ],
-   "rotulo": "Cuidan los huevos"
+   "rotulo": "Cuidan los huevos",
+   "imagen": "ostrich lowering its head to turn eggs in a nest dug in the ground"
   },
   {
    "texto": "O se tumban pegados al suelo para pasar desapercibidos.",
@@ -132,7 +141,8 @@
    "emojis": [
     "🫣"
    ],
-   "rotulo": "Camuflaje"
+   "rotulo": "Camuflaje",
+   "imagen": "ostrich lying flat on the ground hiding in tall grass"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",

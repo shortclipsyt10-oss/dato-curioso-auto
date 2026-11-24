@@ -46,7 +46,8 @@
     "🧱",
     "🚀"
    ],
-   "rotulo": "¿Verdad o mito?"
+   "rotulo": "¿Verdad o mito?",
+   "imagen": "Great Wall of China winding over mountains, astronaut looking down from space"
   },
   {
    "texto": "Pues es un mito.",
@@ -54,7 +55,8 @@
    "emojis": [
     "🙅"
    ],
-   "sello": "¡Mito!"
+   "sello": "¡Mito!",
+   "imagen": "astronaut in the space station looking for the wall, confused"
   },
   {
    "texto": "La muralla es larguísima, pero muy estrecha: en muchos tramos mide unos pocos metros de ancho.",
@@ -67,7 +69,8 @@
     "Muy larga",
     "Muy estrecha"
    ],
-   "rotulo": "El problema"
+   "rotulo": "El problema",
+   "imagen": "narrow stone path of the Great Wall of China, close-up from above"
   },
   {
    "texto": "Y desde la Estación Espacial, que orbita a unos cuatrocientos kilómetros, eso es casi invisible.",
@@ -77,7 +80,8 @@
    "emojis": [
     "🛰️"
    ],
-   "rotulo": "Desde la estación"
+   "rotulo": "Desde la estación",
+   "imagen": "International Space Station orbiting high above earth"
   },
   {
    "texto": "Sería como intentar ver un cabello a varios kilómetros de distancia.",
@@ -85,7 +89,8 @@
    "emojis": [
     "👀"
    ],
-   "rotulo": "Como un cabello"
+   "rotulo": "Como un cabello",
+   "imagen": "a single hair seen from very far away, tiny, comic scale"
   },
   {
    "texto": "Además, está hecha de piedra y tierra del mismo color que el terreno.",
@@ -93,7 +98,8 @@
    "emojis": [
     "🪨"
    ],
-   "rotulo": "Se camufla"
+   "rotulo": "Se camufla",
+   "imagen": "Great Wall blending into the same colored mountains and earth"
   },
   {
    "texto": "El primer astronauta chino, en dos mil tres, contó que no la pudo ver.",
@@ -102,7 +108,8 @@
    "emojis": [
     "👨‍🚀"
    ],
-   "rotulo": "Lo confirmó"
+   "rotulo": "Lo confirmó",
+   "imagen": "Chinese astronaut in a 2003 spacecraft looking out the window"
   },
   {
    "texto": "Con cámaras y teleobjetivos sí se ha fotografiado, pero no a simple vista.",
@@ -110,7 +117,8 @@
    "emojis": [
     "📸"
    ],
-   "rotulo": "Solo con cámara"
+   "rotulo": "Solo con cámara",
+   "imagen": "astronaut with a big telephoto camera lens photographing earth"
   },
   {
    "texto": "Lo que sí se ve muy bien desde el espacio, de noche, son las luces de las ciudades.",
@@ -119,7 +127,8 @@
     "🌃",
     "💡"
    ],
-   "rotulo": "Eso sí se ve"
+   "rotulo": "Eso sí se ve",
+   "imagen": "earth at night from space with glowing city lights"
   },
   {
    "texto": "¿Tú también te lo creías? Síguenos para más curiosidades.",

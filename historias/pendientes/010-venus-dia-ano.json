@@ -46,7 +46,8 @@
     "🪐",
     "⏳"
    ],
-   "rotulo": "Venus"
+   "rotulo": "Venus",
+   "imagen": "planet Venus glowing yellow in space with a giant clock and calendar floating nearby"
   },
   {
    "texto": "Venus tarda unos doscientos veinticinco días en dar la vuelta al Sol: ese es su año.",
@@ -56,7 +57,8 @@
    "emojis": [
     "☀️"
    ],
-   "rotulo": "Su año"
+   "rotulo": "Su año",
+   "imagen": "Venus orbiting the sun, glowing orbit path, space"
   },
   {
    "texto": "Pero en girar una vez sobre sí mismo tarda unos doscientos cuarenta y tres.",
@@ -66,7 +68,8 @@
    "emojis": [
     "🔄"
    ],
-   "rotulo": "Su día"
+   "rotulo": "Su día",
+   "imagen": "Venus slowly spinning on its axis, swirling yellow clouds, space"
   },
   {
    "texto": "Así que completa su año antes de terminar una sola vuelta.",
@@ -74,7 +77,8 @@
    "emojis": [
     "🪐"
    ],
-   "sello": "¡Más largo!"
+   "sello": "¡Más largo!",
+   "imagen": "Venus finishing its orbit around the sun with a tiny progress arrow of its rotation"
   },
   {
    "texto": "Y encima gira al revés que casi todos los planetas.",
@@ -82,7 +86,8 @@
    "emojis": [
     "↩️"
    ],
-   "rotulo": "Gira al revés"
+   "rotulo": "Gira al revés",
+   "imagen": "planets of the solar system spinning, Venus spinning the opposite way"
   },
   {
    "texto": "Allí, el Sol sale por el oeste y se pone por el este.",
@@ -95,7 +100,8 @@
     "Sale: oeste",
     "Se pone: este"
    ],
-   "rotulo": "Al contrario"
+   "rotulo": "Al contrario",
+   "imagen": "sunrise in the west on the rocky surface of Venus, orange hazy sky"
   },
   {
    "texto": "No es un lugar agradable: su superficie está a unos cuatrocientos sesenta grados.",
@@ -105,7 +111,8 @@
    "emojis": [
     "🔥"
    ],
-   "rotulo": "Hace calor"
+   "rotulo": "Hace calor",
+   "imagen": "scorching hot volcanic surface of Venus, lava and thermometer melting"
   },
   {
    "texto": "Es el planeta más caliente, aunque Mercurio esté más cerca del Sol.",
@@ -118,7 +125,8 @@
     "Venus",
     "Mercurio"
    ],
-   "rotulo": "Más caliente"
+   "rotulo": "Más caliente",
+   "imagen": "Venus and Mercury side by side near the sun, Venus glowing red hot"
   },
   {
    "texto": "La culpa es de su atmósfera espesísima, que atrapa el calor como un invernadero.",
@@ -127,7 +135,8 @@
     "☁️",
     "🌡️"
    ],
-   "rotulo": "Efecto invernadero"
+   "rotulo": "Efecto invernadero",
+   "imagen": "thick yellow toxic clouds trapping heat around Venus like a greenhouse"
   },
   {
    "texto": "Allí se derretiría hasta el plomo.",
@@ -135,7 +144,8 @@
    "emojis": [
     "🫠"
    ],
-   "sello": "Plomo fundido"
+   "sello": "Plomo fundido",
+   "imagen": "a lead metal block melting into a puddle on the hot surface of Venus"
   },
   {
    "texto": "¿Sabías que en Venus el día es más largo que el año? Síguenos para más curiosidades.",

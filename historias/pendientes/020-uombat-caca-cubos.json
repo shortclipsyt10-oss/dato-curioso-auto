@@ -45,7 +45,8 @@
     "🟫",
     "🐾"
    ],
-   "rotulo": "Caca cúbica"
+   "rotulo": "Caca cúbica",
+   "imagen": "cute wombat next to small cube shaped poops on a rock, funny"
   },
   {
    "texto": "Se llama uómbat: parece un osito rechoncho y vive en madrigueras.",
@@ -54,7 +55,8 @@
     "🐻",
     "🕳️"
    ],
-   "rotulo": "El uómbat"
+   "rotulo": "El uómbat",
+   "imagen": "chubby wombat peeking out of its burrow in the Australian bush"
   },
   {
    "texto": "Cada noche puede dejar entre ochenta y cien de estos cubitos.",
@@ -64,7 +66,8 @@
    "emojis": [
     "🌙"
    ],
-   "rotulo": "Una noche normal"
+   "rotulo": "Una noche normal",
+   "imagen": "wombat at night surrounded by many little cubes"
   },
   {
    "texto": "Durante años nadie entendía cómo un intestino redondo podía fabricar esquinas.",
@@ -73,7 +76,8 @@
     "🤔",
     "🔬"
    ],
-   "rotulo": "El misterio"
+   "rotulo": "El misterio",
+   "imagen": "puzzled scientists looking at a cube with question marks"
   },
   {
    "texto": "Unos científicos lo investigaron y encontraron la respuesta en las paredes del intestino.",
@@ -82,7 +86,8 @@
     "🧪",
     "👩‍🔬"
    ],
-   "rotulo": "La investigación"
+   "rotulo": "La investigación",
+   "imagen": "scientists studying a wombat intestine model, glowing science lab"
   },
   {
    "texto": "Algunas zonas son más rígidas y otras más elásticas, y así van moldeando las caras del cubo.",
@@ -95,7 +100,8 @@
     "Rígida",
     "Elástica"
    ],
-   "rotulo": "El truco"
+   "rotulo": "El truco",
+   "imagen": "cross-section visualization of intestine walls shaping a cube, science"
   },
   {
    "texto": "Por ese descubrimiento ganaron un premio Ig Nobel, los premios a la ciencia más curiosa.",
@@ -103,7 +109,8 @@
    "emojis": [
     "🏆"
    ],
-   "sello": "¡PREMIADOS!"
+   "sello": "¡PREMIADOS!",
+   "imagen": "scientists receiving a funny golden award trophy, Ig Nobel style"
   },
   {
    "texto": "El uómbat deja sus cubos encima de rocas y troncos para marcar su territorio.",
@@ -112,7 +119,8 @@
     "🪨",
     "🪵"
    ],
-   "rotulo": "Esto es mío"
+   "rotulo": "Esto es mío",
+   "imagen": "wombat placing a cube on top of a log to mark territory"
   },
   {
    "texto": "Y se cree que, al ser cuadrados, no ruedan y se quedan justo donde él quiere.",
@@ -121,7 +129,8 @@
     "🎲",
     "📍"
    ],
-   "rotulo": "No ruedan"
+   "rotulo": "No ruedan",
+   "imagen": "cube sitting perfectly still on a sloped rock while a ball rolls away"
   },
   {
    "texto": "La naturaleza inventó los cubos mucho antes que nosotros.",
@@ -129,7 +138,8 @@
    "emojis": [
     "🟫",
     "🧊"
-   ]
+   ],
+   "imagen": "wombat proudly sitting on a pile of cubes, sunset"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",

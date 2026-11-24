@@ -44,7 +44,8 @@
     "🦦",
     "🤝"
    ],
-   "rotulo": "Juntas"
+   "rotulo": "Juntas",
+   "imagen": "two cute sea otters holding hands while sleeping floating on the sea"
   },
   {
    "texto": "Duermen flotando boca arriba en el mar, y las corrientes podrían separarlas.",
@@ -53,7 +54,8 @@
     "🌊",
     "😴"
    ],
-   "rotulo": "Siesta en el agua"
+   "rotulo": "Siesta en el agua",
+   "imagen": "sea otters floating on their backs on ocean currents"
   },
   {
    "texto": "Así que se agarran, o se enrollan en algas como si fueran una manta.",
@@ -62,7 +64,8 @@
     "🌿",
     "🛏️"
    ],
-   "rotulo": "Bien sujetas"
+   "rotulo": "Bien sujetas",
+   "imagen": "sea otter wrapped in kelp like a blanket, sleeping"
   },
   {
    "texto": "Hay grupos, llamados balsas, de decenas o incluso cientos de nutrias.",
@@ -72,7 +75,8 @@
    "emojis": [
     "🦦"
    ],
-   "rotulo": "Una balsa"
+   "rotulo": "Una balsa",
+   "imagen": "large raft of dozens of sea otters floating together"
   },
   {
    "texto": "Y no pasan frío: no tienen grasa como las focas, tienen un pelo increíble.",
@@ -81,7 +85,8 @@
     "🥶",
     "🧥"
    ],
-   "rotulo": "Su abrigo"
+   "rotulo": "Su abrigo",
+   "imagen": "sea otter with super fluffy fur in cold water, cozy"
   },
   {
    "texto": "Hasta ciento cincuenta mil pelos en cada centímetro cuadrado. El pelaje más denso del mundo animal.",
@@ -91,7 +96,8 @@
    "emojis": [
     "🪮"
    ],
-   "rotulo": "Pelaje"
+   "rotulo": "Pelaje",
+   "imagen": "extreme close-up of dense sea otter fur, macro"
   },
   {
    "texto": "Además usan herramientas: rompen almejas golpeándolas contra una piedra sobre su barriga.",
@@ -100,7 +106,8 @@
     "🪨",
     "🦪"
    ],
-   "rotulo": "Herramientas"
+   "rotulo": "Herramientas",
+   "imagen": "sea otter breaking a clam with a stone on its belly"
   },
   {
    "texto": "Y tienen un pliegue de piel bajo el brazo donde guardan comida y su piedra favorita.",
@@ -108,7 +115,8 @@
    "emojis": [
     "👝"
    ],
-   "sello": "¡UN BOLSILLO!"
+   "sello": "¡UN BOLSILLO!",
+   "imagen": "sea otter hiding its favorite stone in a skin pocket under its arm"
   },
   {
    "texto": "Son clave para el océano: comen erizos que, si no, se comerían los bosques de algas.",
@@ -117,7 +125,8 @@
     "🦔",
     "🌊"
    ],
-   "rotulo": "Guardianas"
+   "rotulo": "Guardianas",
+   "imagen": "sea otter eating a sea urchin next to a kelp forest"
   },
   {
    "texto": "¿Cuál es tu animal favorito del mar?",
@@ -125,7 +134,8 @@
    "emojis": [
     "🦦",
     "🐙"
-   ]
+   ],
+   "imagen": "happy sea otter waving at the camera"
   },
   {
    "texto": "Síguenos para más curiosidades.",

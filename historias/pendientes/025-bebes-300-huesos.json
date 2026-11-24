@@ -45,7 +45,8 @@
    "emojis": [
     "👶"
    ],
-   "rotulo": "Recién nacido"
+   "rotulo": "Recién nacido",
+   "imagen": "cute baby with a glowing x-ray skeleton showing many bones"
   },
   {
    "texto": "Hoy, de adulto, tienes doscientos seis.",
@@ -55,7 +56,8 @@
    "emojis": [
     "🧍"
    ],
-   "rotulo": "Adulto"
+   "rotulo": "Adulto",
+   "imagen": "adult skeleton x-ray glowing, medical"
   },
   {
    "texto": "¿Dónde están los que faltan? No se pierden.",
@@ -63,7 +65,8 @@
    "emojis": [
     "🦴",
     "🔍"
-   ]
+   ],
+   "imagen": "baby looking for missing bones with a magnifying glass, funny"
   },
   {
    "texto": "Se van uniendo entre sí a medida que creces.",
@@ -71,7 +74,8 @@
    "emojis": [
     "🦴"
    ],
-   "sello": "¡SE FUSIONAN!"
+   "sello": "¡SE FUSIONAN!",
+   "imagen": "bones slowly fusing together with glowing light, science visualization"
   },
   {
    "texto": "El ejemplo más claro es el cráneo: el de un bebé está hecho de placas separadas.",
@@ -80,7 +84,8 @@
     "💀",
     "🧩"
    ],
-   "rotulo": "Un puzle"
+   "rotulo": "Un puzle",
+   "imagen": "baby skull made of separate plates, medical illustration"
   },
   {
    "texto": "Por eso los bebés tienen zonas blanditas en la cabeza, las fontanelas.",
@@ -89,7 +94,8 @@
     "👶",
     "🫳"
    ],
-   "rotulo": "Las fontanelas"
+   "rotulo": "Las fontanelas",
+   "imagen": "baby head soft spots highlighted gently, cute"
   },
   {
    "texto": "Esas zonas permiten que la cabeza pase por el parto y que el cerebro crezca rápido.",
@@ -98,7 +104,8 @@
     "🧠",
     "📈"
    ],
-   "rotulo": "Para crecer"
+   "rotulo": "Para crecer",
+   "imagen": "baby growing up quickly, brain glowing as it grows"
   },
   {
    "texto": "Lo mismo pasa en otras partes del cuerpo.",
@@ -116,7 +123,8 @@
      "🐒",
      "Coxis"
     ]
-   ]
+   ],
+   "imagen": "child skeleton growing, bones merging"
   },
   {
    "texto": "Algunas fusiones no terminan hasta pasados los veinte años.",
@@ -125,7 +133,8 @@
     "🎂",
     "⏳"
    ],
-   "rotulo": "Sin prisa"
+   "rotulo": "Sin prisa",
+   "imagen": "young adult at twenty with skeleton finishing growth"
   },
   {
    "texto": "Y el hueso más pequeño que conservas está en el oído: el estribo, de unos tres milímetros.",
@@ -135,7 +144,8 @@
    "emojis": [
     "👂"
    ],
-   "rotulo": "El estribo"
+   "rotulo": "El estribo",
+   "imagen": "tiny stirrup bone inside the human ear, macro"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",

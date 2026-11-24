@@ -46,7 +46,8 @@
     "🦩",
     "🐣"
    ],
-   "rotulo": "Nacen grises"
+   "rotulo": "Nacen grises",
+   "imagen": "fluffy grey baby flamingo chick next to a bright pink adult flamingo in a lagoon"
   },
   {
    "texto": "Su color viene de lo que comen: pequeñas algas y diminutos crustáceos.",
@@ -64,7 +65,8 @@
      "💧",
      "Agua salada"
     ]
-   ]
+   ],
+   "imagen": "flamingo eating tiny red shrimp and algae in shallow salty water, macro view"
   },
   {
    "texto": "Esos alimentos tienen unos pigmentos llamados carotenoides.",
@@ -72,7 +74,8 @@
    "emojis": [
     "🧪"
    ],
-   "rotulo": "Carotenoides"
+   "rotulo": "Carotenoides",
+   "imagen": "glowing orange and pink pigment molecules floating around shrimp and algae, science visualization"
   },
   {
    "texto": "Son los mismos que dan el color naranja a la zanahoria.",
@@ -85,7 +88,8 @@
     "Zanahoria",
     "Flamenco"
    ],
-   "rotulo": "Mismo pigmento"
+   "rotulo": "Mismo pigmento",
+   "imagen": "pile of bright orange carrots next to pink shrimp, colorful kitchen table"
   },
   {
    "texto": "El cuerpo del flamenco los acumula en las plumas, y por eso se vuelven rosas.",
@@ -93,7 +97,8 @@
    "emojis": [
     "🦩"
    ],
-   "sello": "¡Rosa!"
+   "sello": "¡Rosa!",
+   "imagen": "flamingo feathers slowly turning from white to vivid pink, magical transformation"
   },
   {
    "texto": "Si dejan de comerlos, con el tiempo su plumaje se va apagando.",
@@ -101,7 +106,8 @@
    "emojis": [
     "🎨"
    ],
-   "rotulo": "Pierden el color"
+   "rotulo": "Pierden el color",
+   "imagen": "pale faded flamingo looking sad next to a colorful one"
   },
   {
    "texto": "Por eso en los zoológicos les dan una dieta especial para que no pierdan el color.",
@@ -110,7 +116,8 @@
     "🍽️",
     "🦩"
    ],
-   "rotulo": "Dieta especial"
+   "rotulo": "Dieta especial",
+   "imagen": "zookeeper feeding flamingos special pink food pellets at a zoo"
   },
   {
    "texto": "Además, comen con la cabeza boca abajo y filtran el agua con el pico.",
@@ -118,7 +125,8 @@
    "emojis": [
     "🙃"
    ],
-   "rotulo": "Al revés"
+   "rotulo": "Al revés",
+   "imagen": "flamingo feeding with its head upside down filtering water with its beak"
   },
   {
    "texto": "¿Y por qué se apoyan en una sola pata? Los científicos aún no lo tienen del todo claro.",
@@ -126,7 +134,8 @@
    "emojis": [
     "🦩"
    ],
-   "sello": "¿Misterio?"
+   "sello": "¿Misterio?",
+   "imagen": "flamingo standing on one leg with a scientist taking notes, question marks in the air"
   },
   {
    "texto": "Una de las ideas es que así pierden menos calor.",
@@ -134,7 +143,8 @@
    "emojis": [
     "🌡️"
    ],
-   "rotulo": "Una teoría"
+   "rotulo": "Una teoría",
+   "imagen": "flamingo sleeping on one leg at sunset, warm cozy feathers"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",

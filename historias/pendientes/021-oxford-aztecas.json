@@ -43,7 +43,8 @@
     "🎓",
     "🏛️"
    ],
-   "rotulo": "¿Cómo?"
+   "rotulo": "¿Cómo?",
+   "imagen": "ancient Oxford University stone buildings next to Aztec pyramid temple, split scene"
   },
   {
    "texto": "En Oxford ya se daban clases hacia el año mil noventa y seis.",
@@ -52,7 +53,8 @@
    "emojis": [
     "📚"
    ],
-   "rotulo": "Primeras clases"
+   "rotulo": "Primeras clases",
+   "imagen": "medieval students in robes studying in Oxford in 1096"
   },
   {
    "texto": "Y la ciudad azteca de Tenochtitlan se fundó, según la tradición, en mil trescientos veinticinco.",
@@ -61,7 +63,8 @@
    "emojis": [
     "🦅"
    ],
-   "rotulo": "Tenochtitlan"
+   "rotulo": "Tenochtitlan",
+   "imagen": "Aztecs founding Tenochtitlan on a lake with an eagle on a cactus"
   },
   {
    "texto": "Es decir: más de doscientos años después.",
@@ -71,7 +74,8 @@
    "emojis": [
     "⏳"
    ],
-   "rotulo": "Más de"
+   "rotulo": "Más de",
+   "imagen": "timeline arrow with Oxford old castle and later Aztec pyramid"
   },
   {
    "texto": "Cuando nacieron los aztecas, Oxford ya llevaba generaciones de estudiantes.",
@@ -79,7 +83,8 @@
    "emojis": [
     "🧑‍🎓"
    ],
-   "sello": "¡YA EXISTÍA!"
+   "sello": "¡YA EXISTÍA!",
+   "imagen": "old Oxford professors looking at a newborn Aztec city in the distance"
   },
   {
    "texto": "Tenochtitlan se construyó sobre un lago, con canales y templos enormes.",
@@ -88,7 +93,8 @@
     "🛶",
     "🏯"
    ],
-   "rotulo": "Ciudad sobre el agua"
+   "rotulo": "Ciudad sobre el agua",
+   "imagen": "grand Tenochtitlan with canals, canoes and huge temples on a lake"
   },
   {
    "texto": "Cuando llegaron los españoles, era una de las ciudades más grandes del mundo.",
@@ -97,7 +103,8 @@
     "🌎",
     "🏙️"
    ],
-   "rotulo": "Gigante"
+   "rotulo": "Gigante",
+   "imagen": "Spanish conquistadors arriving at the enormous city of Tenochtitlan"
   },
   {
    "texto": "Hoy, en ese mismo lugar, está la Ciudad de México.",
@@ -105,7 +112,8 @@
    "emojis": [
     "🇲🇽"
    ],
-   "rotulo": "Lo que es hoy"
+   "rotulo": "Lo que es hoy",
+   "imagen": "modern Mexico City skyline full of life"
   },
   {
    "texto": "Y Oxford sigue dando clases, casi mil años después.",
@@ -114,7 +122,8 @@
     "🎓",
     "🕰️"
    ],
-   "rotulo": "Siguen ahí"
+   "rotulo": "Siguen ahí",
+   "imagen": "modern students in Oxford with old stone buildings"
   },
   {
    "texto": "La historia se solapa mucho más de lo que imaginamos.",
@@ -122,7 +131,8 @@
    "emojis": [
     "📜",
     "⏳"
-   ]
+   ],
+   "imagen": "two clocks overlapping, history timelines intertwined"
   },
   {
    "texto": "¿Te lo esperabas? Síguenos para más curiosidades.",

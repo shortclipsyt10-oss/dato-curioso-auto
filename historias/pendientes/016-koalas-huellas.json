@@ -50,7 +50,8 @@
     "Koala",
     "Humano"
    ],
-   "rotulo": "Huellas gemelas"
+   "rotulo": "Huellas gemelas",
+   "imagen": "cute koala holding up its hand next to a human hand, fingerprints glowing"
   },
   {
    "texto": "Son tan parecidas que, incluso al microscopio, cuesta distinguirlas.",
@@ -58,7 +59,8 @@
    "emojis": [
     "🔬"
    ],
-   "rotulo": "Al microscopio"
+   "rotulo": "Al microscopio",
+   "imagen": "koala fingerprint and human fingerprint under a microscope, science lab"
   },
   {
    "texto": "Lo curioso es que no somos parientes cercanos: ni los chimpancés se parecen tanto.",
@@ -66,7 +68,8 @@
    "emojis": [
     "🐒"
    ],
-   "rotulo": "No somos familia"
+   "rotulo": "No somos familia",
+   "imagen": "koala and chimpanzee side by side comparing hands, funny"
   },
   {
    "texto": "Se cree que las desarrollaron por separado, para agarrarse bien a las ramas y a las hojas.",
@@ -74,7 +77,8 @@
    "emojis": [
     "🌿"
    ],
-   "rotulo": "Para agarrarse"
+   "rotulo": "Para agarrarse",
+   "imagen": "koala gripping a eucalyptus branch tightly, close-up of its paw"
   },
   {
    "texto": "Algunos expertos dicen, medio en broma, que podrían confundir a la policía en un crimen.",
@@ -82,7 +86,8 @@
    "emojis": [
     "🕵️"
    ],
-   "sello": "¿Sospechoso?"
+   "sello": "¿Sospechoso?",
+   "imagen": "detective with magnifying glass looking at koala fingerprints at a crime scene, funny"
   },
   {
    "texto": "Pero un koala tiene poco tiempo para delinquir: duerme hasta unas veinte horas al día.",
@@ -92,7 +97,8 @@
    "emojis": [
     "😴"
    ],
-   "rotulo": "Dormilones"
+   "rotulo": "Dormilones",
+   "imagen": "koala sleeping deeply in a eucalyptus tree, zzz"
   },
   {
    "texto": "Es porque solo comen hojas de eucalipto, que les dan muy poca energía.",
@@ -101,7 +107,8 @@
     "🌿",
     "🔋"
    ],
-   "rotulo": "Eucalipto"
+   "rotulo": "Eucalipto",
+   "imagen": "koala slowly munching eucalyptus leaves, sleepy"
   },
   {
    "texto": "Además, esas hojas son tóxicas para la mayoría de los animales.",
@@ -109,7 +116,8 @@
    "emojis": [
     "☠️"
    ],
-   "sello": "Tóxicas"
+   "sello": "Tóxicas",
+   "imagen": "eucalyptus leaves with warning poison glow, other animals backing away"
   },
   {
    "texto": "Los koalas tienen bacterias especiales en el intestino que les permiten digerirlas.",
@@ -117,7 +125,8 @@
    "emojis": [
     "🦠"
    ],
-   "rotulo": "Superdigestión"
+   "rotulo": "Superdigestión",
+   "imagen": "cute glowing bacteria inside a koala belly digesting leaves, science visualization"
   },
   {
    "texto": "¿Sabías que los koalas tienen huellas como las tuyas? Síguenos para más curiosidades.",

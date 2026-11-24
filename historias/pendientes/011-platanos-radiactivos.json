@@ -45,7 +45,8 @@
     "🍌",
     "☢️"
    ],
-   "rotulo": "¿Radiactivos?"
+   "rotulo": "¿Radiactivos?",
+   "imagen": "a cute banana glowing green with radioactive symbol in a fruit bowl"
   },
   {
    "texto": "Es por el potasio. Los plátanos tienen mucho, y una parte diminuta del potasio natural es radiactiva.",
@@ -53,7 +54,8 @@
    "emojis": [
     "🧪"
    ],
-   "rotulo": "Potasio"
+   "rotulo": "Potasio",
+   "imagen": "banana with glowing potassium atoms floating around it, science lab"
   },
   {
    "texto": "Se llama potasio cuarenta, y está en casi todo lo que comemos.",
@@ -71,7 +73,8 @@
      "🥬",
      "Verduras"
     ]
-   ]
+   ],
+   "imagen": "potassium-40 atom glowing, supermarket food all around faintly glowing"
   },
   {
    "texto": "Tanto que los científicos inventaron, medio en broma, una unidad: la dosis equivalente a un plátano.",
@@ -79,7 +82,8 @@
    "emojis": [
     "🍌"
    ],
-   "sello": "1 plátano"
+   "sello": "1 plátano",
+   "imagen": "scientist in a lab coat holding a banana as a measuring unit, funny"
   },
   {
    "texto": "Tranquilo: para que fuera peligroso tendrías que comerte millones de golpe.",
@@ -89,7 +93,8 @@
    "emojis": [
     "😵"
    ],
-   "rotulo": "Imposible"
+   "rotulo": "Imposible",
+   "imagen": "mountain of millions of bananas towering over a tiny person"
   },
   {
    "texto": "Y además, tu cuerpo expulsa el potasio que le sobra, así que no se acumula.",
@@ -97,7 +102,8 @@
    "emojis": [
     "💪"
    ],
-   "rotulo": "Tu cuerpo lo regula"
+   "rotulo": "Tu cuerpo lo regula",
+   "imagen": "cute human body cartoon releasing extra potassium sparkles, healthy"
   },
   {
    "texto": "De hecho, tú también eres un poco radiactivo, por el mismo motivo.",
@@ -110,7 +116,8 @@
     "Plátano",
     "Tú"
    ],
-   "rotulo": "Los dos"
+   "rotulo": "Los dos",
+   "imagen": "a person glowing very faintly green while smiling, cozy home"
   },
   {
    "texto": "Dormir al lado de alguien también te da una pizca de radiación. Totalmente inofensiva.",
@@ -118,7 +125,8 @@
    "emojis": [
     "🛌"
    ],
-   "rotulo": "Inofensivo"
+   "rotulo": "Inofensivo",
+   "imagen": "couple sleeping in bed with a tiny harmless glow between them, cozy night"
   },
   {
    "texto": "Así que puedes seguir comiendo plátanos sin ningún miedo.",
@@ -127,7 +135,8 @@
     "😋",
     "🍌"
    ],
-   "sello": "¡A comer!"
+   "sello": "¡A comer!",
+   "imagen": "happy kid eating a banana in the sunshine"
   },
   {
    "texto": "¿Lo sabías? Síguenos para más curiosidades.",

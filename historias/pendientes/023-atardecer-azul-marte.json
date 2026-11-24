@@ -45,7 +45,8 @@
     "🔴",
     "🌅"
    ],
-   "rotulo": "Al revés"
+   "rotulo": "Al revés",
+   "imagen": "blue sunset on Mars red desert landscape, rover in the foreground"
   },
   {
    "texto": "Lo fotografió el robot Curiosity de la NASA en dos mil quince.",
@@ -54,7 +55,8 @@
    "emojis": [
     "🤖"
    ],
-   "rotulo": "La foto"
+   "rotulo": "La foto",
+   "imagen": "NASA Curiosity rover taking a photo on Mars"
   },
   {
    "texto": "Mientras el Sol se ponía, el cielo a su alrededor se volvía de un azul frío.",
@@ -63,7 +65,8 @@
     "☀️",
     "🔵"
    ],
-   "rotulo": "Azul marciano"
+   "rotulo": "Azul marciano",
+   "imagen": "sun setting on Mars with a cold blue glow around it"
   },
   {
    "texto": "En la Tierra pasa lo contrario: el cielo es azul de día y rojizo al atardecer.",
@@ -76,7 +79,8 @@
     "Tierra",
     "Marte"
    ],
-   "rotulo": "Colores opuestos"
+   "rotulo": "Colores opuestos",
+   "imagen": "earth blue day sky next to orange earth sunset"
   },
   {
    "texto": "La culpa es del polvo: Marte tiene una atmósfera llena de partículas muy finas.",
@@ -85,7 +89,8 @@
     "🌪️",
     "🟠"
    ],
-   "rotulo": "El culpable"
+   "rotulo": "El culpable",
+   "imagen": "fine red dust particles floating in the Martian atmosphere, science"
   },
   {
    "texto": "Ese polvo deja pasar mejor la luz azul justo en la dirección del Sol.",
@@ -94,7 +99,8 @@
     "🔦",
     "🔵"
    ],
-   "rotulo": "Filtro natural"
+   "rotulo": "Filtro natural",
+   "imagen": "blue light rays passing through Mars dust toward the sun"
   },
   {
    "texto": "Durante el día, en cambio, el cielo marciano se ve de color caramelo.",
@@ -103,7 +109,8 @@
     "🍯",
     "☁️"
    ],
-   "rotulo": "Cielo caramelo"
+   "rotulo": "Cielo caramelo",
+   "imagen": "Mars daytime sky caramel butterscotch color over red dunes"
   },
   {
    "texto": "Además, desde allí el Sol se ve más pequeño: Marte está una vez y media más lejos que nosotros.",
@@ -113,7 +120,8 @@
    "emojis": [
     "☀️"
    ],
-   "rotulo": "Distancia al Sol"
+   "rotulo": "Distancia al Sol",
+   "imagen": "small distant sun seen from Mars surface"
   },
   {
    "texto": "Así que un futuro astronauta verá cada día un espectáculo que nadie ha visto en persona.",
@@ -122,7 +130,8 @@
     "🧑‍🚀",
     "🌄"
    ],
-   "rotulo": "Algún día"
+   "rotulo": "Algún día",
+   "imagen": "astronaut on Mars watching a blue sunset"
   },
   {
    "texto": "¿Te imaginas ver un atardecer azul?",
@@ -130,7 +139,8 @@
    "emojis": [
     "🌅",
     "🔵"
-   ]
+   ],
+   "imagen": "person dreaming of a blue sunset on Mars"
   },
   {
    "texto": "Síguenos para más curiosidades.",

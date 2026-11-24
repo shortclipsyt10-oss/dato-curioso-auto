@@ -46,7 +46,8 @@
     "🏝️",
     "🔄"
    ],
-   "rotulo": "Media y media"
+   "rotulo": "Media y media",
+   "imagen": "tiny island in a river with Spanish and French flags switching"
   },
   {
    "texto": "Se llama Isla de los Faisanes y está en el río Bidasoa, justo en la frontera entre España y Francia.",
@@ -55,7 +56,8 @@
     "🏞️",
     "🧭"
    ],
-   "rotulo": "Dónde está"
+   "rotulo": "Dónde está",
+   "imagen": "small river island between Spain and France, green and quiet"
   },
   {
    "texto": "De febrero a julio es española. De agosto a enero, francesa.",
@@ -68,7 +70,8 @@
     "Feb - Jul",
     "Ago - Ene"
    ],
-   "rotulo": "Turnos"
+   "rotulo": "Turnos",
+   "imagen": "calendar flipping between Spanish and French flag"
   },
   {
    "texto": "Es así desde que allí se firmó la paz entre los dos reinos, en mil seiscientos cincuenta y nueve.",
@@ -77,7 +80,8 @@
    "emojis": [
     "📜"
    ],
-   "rotulo": "Tratado de los Pirineos"
+   "rotulo": "Tratado de los Pirineos",
+   "imagen": "1659 peace treaty signing on a small island, royal nobles"
   },
   {
    "texto": "Eligieron esta isla porque estaba en medio: nadie tenía que pisar el territorio del otro.",
@@ -86,7 +90,8 @@
     "🤝",
     "⚖️"
    ],
-   "rotulo": "Terreno neutral"
+   "rotulo": "Terreno neutral",
+   "imagen": "nobles from two kingdoms meeting in the middle of a river island"
   },
   {
    "texto": "Un año después, allí se conocieron Luis catorce de Francia y la infanta María Teresa, que se casaron.",
@@ -95,7 +100,8 @@
     "👑",
     "💍"
    ],
-   "rotulo": "Boda real"
+   "rotulo": "Boda real",
+   "imagen": "Louis XIV meeting princess Maria Theresa, royal wedding, baroque"
   },
   {
    "texto": "Es diminuta: mide unos doscientos metros de largo.",
@@ -105,7 +111,8 @@
    "emojis": [
     "📏"
    ],
-   "rotulo": "Tamaño"
+   "rotulo": "Tamaño",
+   "imagen": "tiny island 200 meters long seen from above"
   },
   {
    "texto": "No vive nadie y casi nunca se puede visitar.",
@@ -114,7 +121,8 @@
     "🚫",
     "🏠"
    ],
-   "rotulo": "Deshabitada"
+   "rotulo": "Deshabitada",
+   "imagen": "empty island with a no entry sign"
   },
   {
    "texto": "Y los encargados de cuidarla son dos marinos, uno de cada país.",
@@ -123,7 +131,8 @@
     "⚓",
     "⚓"
    ],
-   "rotulo": "Sus guardianes"
+   "rotulo": "Sus guardianes",
+   "imagen": "two navy sailors from Spain and France guarding a tiny island"
   },
   {
    "texto": "¿Conocías algún lugar tan raro?",
@@ -131,7 +140,8 @@
    "emojis": [
     "🏝️",
     "🤔"
-   ]
+   ],
+   "imagen": "curious traveler looking at a strange island"
   },
   {
    "texto": "Síguenos para más curiosidades.",

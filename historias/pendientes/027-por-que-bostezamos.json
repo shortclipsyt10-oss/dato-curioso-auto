@@ -45,7 +45,8 @@
     "🥱",
     "❓"
    ],
-   "rotulo": "Misterio diario"
+   "rotulo": "Misterio diario",
+   "imagen": "person yawning big with a question mark above, cute"
   },
   {
    "texto": "Seguro que te han dicho que es para tomar más oxígeno.",
@@ -53,7 +54,8 @@
    "emojis": [
     "🫁"
    ],
-   "sello": "¿MITO?"
+   "sello": "¿MITO?",
+   "imagen": "person yawning next to an oxygen tank"
   },
   {
    "texto": "Pero en un experimento, la gente respiró aire con más oxígeno y siguió bostezando igual.",
@@ -62,7 +64,8 @@
     "🧪",
     "🥱"
    ],
-   "rotulo": "No cambió nada"
+   "rotulo": "No cambió nada",
+   "imagen": "scientists watching people yawn in an experiment room"
   },
   {
    "texto": "Una de las ideas más populares hoy es que sirve para enfriar el cerebro, aunque se sigue discutiendo.",
@@ -71,7 +74,8 @@
     "🧠",
     "❄️"
    ],
-   "sello": "SIN CONFIRMAR"
+   "sello": "SIN CONFIRMAR",
+   "imagen": "glowing brain cooling with blue air, science visualization"
   },
   {
    "texto": "Lo que sí sabemos es que se hace desde antes de nacer: los bebés ya bostezan en el vientre.",
@@ -80,7 +84,8 @@
     "🤰",
     "👶"
    ],
-   "rotulo": "Antes de nacer"
+   "rotulo": "Antes de nacer",
+   "imagen": "baby yawning inside the womb, soft light"
   },
   {
    "texto": "Un bostezo típico dura unos seis segundos.",
@@ -90,7 +95,8 @@
    "emojis": [
     "⏱️"
    ],
-   "rotulo": "Duración"
+   "rotulo": "Duración",
+   "imagen": "stopwatch showing six seconds next to a yawning person"
   },
   {
    "texto": "Y es contagioso: basta con ver, oír o incluso leer sobre bostezos.",
@@ -98,7 +104,8 @@
    "emojis": [
     "😮‍💨"
    ],
-   "sello": "¡CONTAGIO!"
+   "sello": "¡CONTAGIO!",
+   "imagen": "crowd of people catching yawns from each other"
   },
   {
    "texto": "Hasta algunos perros bostezan cuando ven bostezar a sus dueños.",
@@ -107,7 +114,8 @@
     "🐶",
     "🥱"
    ],
-   "rotulo": "También tu perro"
+   "rotulo": "También tu perro",
+   "imagen": "dog yawning next to its yawning owner"
   },
   {
    "texto": "Y no somos los únicos: bostezan gatos, monos, peces y muchas aves.",
@@ -116,7 +124,8 @@
     "🐱",
     "🐟"
    ],
-   "rotulo": "Club del bostezo"
+   "rotulo": "Club del bostezo",
+   "imagen": "cat, monkey, fish and bird all yawning"
   },
   {
    "texto": "Sé sincero: ¿has bostezado viendo este vídeo?",
@@ -124,7 +133,8 @@
    "emojis": [
     "🥱",
     "👀"
-   ]
+   ],
+   "imagen": "person yawning while watching a phone"
   },
   {
    "texto": "Síguenos para más curiosidades.",

@@ -43,7 +43,8 @@
     "🌳",
     "✨"
    ],
-   "rotulo": "En serio"
+   "rotulo": "En serio",
+   "imagen": "giant forest under the Milky Way galaxy at night, trees and stars"
   },
   {
    "texto": "En dos mil quince, unos científicos combinaron fotos de satélite con mediciones en bosques de todo el mundo.",
@@ -52,7 +53,8 @@
     "🛰️",
     "📏"
    ],
-   "rotulo": "El gran recuento"
+   "rotulo": "El gran recuento",
+   "imagen": "satellite orbiting earth scanning forests, scientists measuring trees"
   },
   {
    "texto": "Su cálculo: unos tres billones de árboles. Tres millones de millones.",
@@ -62,7 +64,8 @@
    "emojis": [
     "🌲"
    ],
-   "rotulo": "Árboles"
+   "rotulo": "Árboles",
+   "imagen": "endless forest stretching to the horizon, trillions of trees"
   },
   {
    "texto": "En cambio, la Vía Láctea tendría entre cien mil y cuatrocientos mil millones de estrellas.",
@@ -72,7 +75,8 @@
    "emojis": [
     "🌌"
    ],
-   "rotulo": "Como mucho"
+   "rotulo": "Como mucho",
+   "imagen": "the Milky Way galaxy glowing with billions of stars"
   },
   {
    "texto": "Incluso con la cifra más alta, los árboles ganan por mucho.",
@@ -85,7 +89,8 @@
     "Árboles",
     "Estrellas"
    ],
-   "rotulo": "Gana..."
+   "rotulo": "Gana...",
+   "imagen": "huge stack of trees outweighing a pile of stars on a scale, funny"
   },
   {
    "texto": "Salen a unos cuatrocientos árboles por cada persona del planeta.",
@@ -95,7 +100,8 @@
    "emojis": [
     "🧍"
    ],
-   "rotulo": "Para ti"
+   "rotulo": "Para ti",
+   "imagen": "a person standing in front of 400 trees smiling"
   },
   {
    "texto": "Pero el mismo estudio dio una mala noticia: desde que empezó la civilización hemos perdido casi la mitad.",
@@ -103,7 +109,8 @@
    "emojis": [
     "🪓"
    ],
-   "sello": "-46 %"
+   "sello": "-46 %",
+   "imagen": "sad scene of a cut down forest, stumps, emotional lighting"
   },
   {
    "texto": "Y cada año se talan unos quince mil millones de árboles.",
@@ -113,7 +120,8 @@
    "emojis": [
     "🪵"
    ],
-   "rotulo": "Talados"
+   "rotulo": "Talados",
+   "imagen": "logging trucks carrying many trees"
   },
   {
    "texto": "Por eso hay tantos proyectos para plantar y proteger bosques.",
@@ -122,7 +130,8 @@
     "🌱",
     "🤲"
    ],
-   "rotulo": "A plantar"
+   "rotulo": "A plantar",
+   "imagen": "volunteers planting tree saplings, hopeful sunny day"
   },
   {
    "texto": "¿Cuántos árboles crees que hay en tu calle?",
@@ -130,7 +139,8 @@
    "emojis": [
     "🌳",
     "🏘️"
-   ]
+   ],
+   "imagen": "a street lined with trees, kid counting them"
   },
   {
    "texto": "Síguenos para más curiosidades.",

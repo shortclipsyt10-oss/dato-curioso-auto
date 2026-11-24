@@ -19,36 +19,6 @@
    "publicar_en": "2026-11-24T15:00:00+01:00",
    "subido_en": "2026-11-24T13:06:46"
   },
-  "009-flamencos-rosas": {
-   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/009-flamencos-rosas",
-   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/009-flamencos-rosas/009-flamencos-rosas.mp4",
-   "titulo": "Los flamencos no nacen rosas 🦩",
-   "paleta": "animales",
-   "renderizado_en": "2026-11-24T13:08:22",
-   "youtube_id": "xxsGvAWE3FE",
-   "publicar_en": "2026-11-24T18:00:00+01:00",
-   "subido_en": "2026-11-24T13:08:31"
-  },
-  "010-venus-dia-ano": {
-   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/010-venus-dia-ano",
-   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/010-venus-dia-ano/010-venus-dia-ano.mp4",
-   "titulo": "En Venus un día dura más que un año 🪐",
-   "paleta": "espacio",
-   "renderizado_en": "2026-11-24T13:10:17",
-   "youtube_id": "qrhy_BeWRro",
-   "publicar_en": "2026-11-24T21:00:00+01:00",
-   "subido_en": "2026-11-24T13:10:26"
-  },
-  "011-platanos-radiactivos": {
-   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/011-platanos-radiactivos",
-   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/011-platanos-radiactivos/011-platanos-radiactivos.mp4",
-   "titulo": "Los plátanos son (un poco) radiactivos 🍌☢️",
-   "paleta": "comida",
-   "renderizado_en": "2026-11-24T13:12:03",
-   "youtube_id": "cyVWz_5sE3U",
-   "publicar_en": "2026-11-25T00:00:00+01:00",
-   "subido_en": "2026-11-24T13:12:10"
-  },
   "012-guerra-de-los-pasteles": {
    "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/012-guerra-de-los-pasteles",
    "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/012-guerra-de-los-pasteles/012-guerra-de-los-pasteles.mp4",
@@ -76,5 +46,10 @@
    "listo": true,
    "paleta": "historia"
   }
+ },
+ "retirados": {
+  "009-flamencos-rosas": "xxsGvAWE3FE (privado)",
+  "010-venus-dia-ano": "qrhy_BeWRro (borrado)",
+  "011-platanos-radiactivos": "cyVWz_5sE3U (borrado)"
  }
 }

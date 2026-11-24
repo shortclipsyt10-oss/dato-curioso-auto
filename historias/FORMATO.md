@@ -14,7 +14,8 @@ Cada historia es un JSON en `historias/pendientes/NNN-slug.json`. Se publican po
  "nota_veracidad": "Qué está comprobado y qué no.",
  "fuentes": ["Autor (año), publicación"],
  "claves": ["palabras", "que", "salen", "en", "verde"],
- "escenas": [ { "texto": "Frase narrada", "tipo": "emoji", "emojis": ["🐻"], "rotulo": "Texto del cartel" } ]
+ "escenas": [ { "texto": "Frase narrada", "tipo": "emoji", "emojis": ["🐻"], "rotulo": "Texto del cartel",
+               "imagen": "cute tardigrade floating in space next to the earth" } ]
 }
 ```
 
@@ -31,6 +32,10 @@ Cada historia es un JSON en `historias/pendientes/NNN-slug.json`. Se publican po
 | `lista` | `items`: [["🥶","Frío"], ...] (máx. 3) | filas que aparecen una a una |
 | `pregunta` | `emojis` (opcional) | la mascota "?" con emojis girando |
 | `final` | — | mascota + "¡SÍGUENOS!" + confeti (siempre la última) |
+
+## Imagen de cada escena (estilo cine)
+
+Cada escena (menos `final`) lleva `imagen`: una descripción **en inglés**, corta y visual, de lo que se ve en ese momento (personajes, lugar, acción). Sin texto ni letras en la imagen. El estilo 3D tipo película se añade solo. Ejemplo: `"a shark and a T-rex facing each other comically at the beach"`.
 
 ## Reglas editoriales
 
