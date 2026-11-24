@@ -44,7 +44,30 @@
    "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/001-guerra-del-emu/001-guerra-del-emu.mp4",
    "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦",
    "listo": true,
-   "paleta": "historia"
+   "paleta": "historia",
+   "youtube_id": "3F_0uyAGaKk",
+   "publicar_en": "2026-11-24T21:00:00+01:00",
+   "subido_en": "2026-11-24T16:41:01"
+  },
+  "002-wojtek-oso-soldado": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/002-wojtek-oso-soldado",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/002-wojtek-oso-soldado/002-wojtek-oso-soldado.mp4",
+   "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻",
+   "listo": true,
+   "paleta": "historia",
+   "youtube_id": "G7uwY8-UDr0",
+   "publicar_en": "2026-11-25T00:00:00+01:00",
+   "subido_en": "2026-11-24T16:41:04"
+  },
+  "003-napoleon-conejos": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/003-napoleon-conejos",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/003-napoleon-conejos/003-napoleon-conejos.mp4",
+   "titulo": "Napoleón fue derrotado… por conejos 🐰",
+   "listo": true,
+   "paleta": "historia",
+   "youtube_id": "p63eOrRDY08",
+   "publicar_en": "2026-11-25T15:00:00+01:00",
+   "subido_en": "2026-11-24T16:41:09"
   }
  },
  "retirados": {

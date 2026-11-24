@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T14:12+00:00",
+ "actualizado": "2026-11-24T16:41+00:00",
  "videos": [
   {
    "id": "007-tardigrados",
@@ -7,11 +7,11 @@
    "titulo": "El animal que sobrevive al espacio 🐻🚀 #shorts",
    "paleta": null,
    "publicado": "2026-11-24T12:57:55Z",
-   "horas": 1.2,
-   "visitas": 124,
-   "likes": 4,
+   "horas": 3.7,
+   "visitas": 525,
+   "likes": 18,
    "comentarios": 0,
-   "visitas_por_hora": 100.07
+   "visitas_por_hora": 141.1
   },
   {
    "id": "008-cleopatra-iphone",
@@ -19,47 +19,11 @@
    "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T14:00:28Z",
-   "horas": 1.0,
-   "visitas": 0,
-   "likes": 0,
+   "horas": 2.7,
+   "visitas": 16,
+   "likes": 1,
    "comentarios": 0,
-   "visitas_por_hora": 0.0
-  },
-  {
-   "id": "009-flamencos-rosas",
-   "youtube_id": "xxsGvAWE3FE",
-   "titulo": "Los flamencos no nacen rosas 🦩 #shorts",
-   "paleta": "animales",
-   "publicado": "2026-11-24T13:08:23Z",
-   "horas": 1.1,
-   "visitas": 0,
-   "likes": 0,
-   "comentarios": 0,
-   "visitas_por_hora": 0.0
-  },
-  {
-   "id": "010-venus-dia-ano",
-   "youtube_id": "qrhy_BeWRro",
-   "titulo": "En Venus un día dura más que un año 🪐 #shorts",
-   "paleta": "espacio",
-   "publicado": "2026-11-24T13:10:17Z",
-   "horas": 1.0,
-   "visitas": 0,
-   "likes": 0,
-   "comentarios": 0,
-   "visitas_por_hora": 0.0
-  },
-  {
-   "id": "011-platanos-radiactivos",
-   "youtube_id": "cyVWz_5sE3U",
-   "titulo": "Los plátanos son (un poco) radiactivos 🍌☢️ #shorts",
-   "paleta": "comida",
-   "publicado": "2026-11-24T13:12:03Z",
-   "horas": 1.0,
-   "visitas": 0,
-   "likes": 0,
-   "comentarios": 0,
-   "visitas_por_hora": 0.0
+   "visitas_por_hora": 5.97
   },
   {
    "id": "012-guerra-de-los-pasteles",
@@ -67,7 +31,7 @@
    "titulo": "La guerra que empezó por unos pasteles 🥐⚔️ #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T13:14:10Z",
-   "horas": 1.0,
+   "horas": 3.4,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -79,6 +43,42 @@
    "titulo": "El hombre que sobrevivió a dos bombas atómicas #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T13:16:05Z",
+   "horas": 3.4,
+   "visitas": 0,
+   "likes": 0,
+   "comentarios": 0,
+   "visitas_por_hora": 0.0
+  },
+  {
+   "id": "001-guerra-del-emu",
+   "youtube_id": "3F_0uyAGaKk",
+   "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦 #shorts",
+   "paleta": "historia",
+   "publicado": "2026-11-24T16:40:58Z",
+   "horas": 1.0,
+   "visitas": 0,
+   "likes": 0,
+   "comentarios": 0,
+   "visitas_por_hora": 0.0
+  },
+  {
+   "id": "002-wojtek-oso-soldado",
+   "youtube_id": "G7uwY8-UDr0",
+   "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻 #shorts",
+   "paleta": "historia",
+   "publicado": "2026-11-24T16:41:01Z",
+   "horas": 1.0,
+   "visitas": 0,
+   "likes": 0,
+   "comentarios": 0,
+   "visitas_por_hora": 0.0
+  },
+  {
+   "id": "003-napoleon-conejos",
+   "youtube_id": "p63eOrRDY08",
+   "titulo": "Napoleón fue derrotado… por conejos 🐰 #shorts",
+   "paleta": "historia",
+   "publicado": "2026-11-24T16:41:05Z",
    "horas": 1.0,
    "visitas": 0,
    "likes": 0,
