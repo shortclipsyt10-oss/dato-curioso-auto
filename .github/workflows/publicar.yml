@@ -31,6 +31,8 @@ jobs:
       HAY_TOKEN: ${{ secrets.YT_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # siempre el registro más reciente, aunque la ejecución haya esperado en cola
       - name: Comprobar credenciales
         if: env.HAY_TOKEN != 'true'
         run: echo "Falta el secreto YT_TOKEN; no hago nada." 
