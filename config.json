@@ -3,22 +3,10 @@
  "carpeta_salida": "~/Desktop/curiosidades",
  "zona_horaria": "Europe/Madrid",
  "horas_publicacion": [
-  "09:00",
-  "12:00",
-  "15:00",
-  "18:00",
-  "21:00",
-  "00:00"
+  "19:00"
  ],
  "_horas_cuando_amplien_cuota": [
-  "00:00",
-  "03:00",
-  "06:00",
-  "09:00",
-  "12:00",
-  "15:00",
-  "18:00",
-  "21:00"
+  "19:00"
  ],
  "subir_a_youtube": true,
  "voz": "em_alex",
@@ -29,5 +17,6 @@
  "ejecutar_en": "nube",
  "pausado": false,
  "_pausado": "true = no se sube nada (p. ej. mientras se cambia el estilo de animación).",
- "estilo": "clasico"
+ "estilo": "clasico",
+ "_horas": "Un solo short al día a las 19:00 (Madrid) = 12:00 México, 13:00 Colombia, 15:00 Argentina: tarde en España y mediodía en Latinoamérica."
 }
