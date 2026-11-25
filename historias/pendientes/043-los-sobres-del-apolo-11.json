@@ -1,0 +1,177 @@
+{
+ "id": "043-los-sobres-del-apolo-11",
+ "titulo": "Los astronautas del Apolo 11 no podían pagar un seguro de vida 🚀✉️",
+ "descripcion": "Antes de ir a la Luna, Armstrong, Aldrin y Collins buscaron otra forma de proteger a sus familias: firmar autógrafos.",
+ "hashtags": [
+  "#espacio",
+  "#apolo11",
+  "#historia",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "apolo 11",
+  "neil armstrong",
+  "sobres de seguro",
+  "nasa",
+  "luna"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "SU SEGURO: AUTÓGRAFOS",
+  "emojis": [
+   "🚀",
+   "✍️"
+  ]
+ },
+ "nota_veracidad": "Los 'insurance covers' del Apolo 11 están documentados: los astronautas firmaron sobres que un amigo hizo matasellar en fechas clave (despegue el 16 de julio y alunizaje el 20 de julio de 1969) y se entregaron a sus familias por si no volvían. Se dice que el seguro de vida era inasequible para ellos; se cuenta así. Hoy se subastan por miles de dólares.",
+ "fuentes": [
+  "Smithsonian National Air and Space Museum: Apollo 11 insurance covers",
+  "collectSPACE: 'Apollo astronaut insurance covers'"
+ ],
+ "claves": [
+  "apolo",
+  "astronautas",
+  "seguro",
+  "luna",
+  "autógrafos",
+  "sobres",
+  "familias"
+ ],
+ "escenas": [
+  {
+   "texto": "Antes de ir a la Luna, los astronautas del Apolo once tenían un problema: no podían pagar un seguro de vida.",
+   "tipo": "fecha",
+   "anio": "1969",
+   "emojis": [
+    "🚀"
+   ],
+   "fondo": "noche",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "Neil Armstrong, Buzz Aldrin y Michael Collins iban a hacer algo que nadie había hecho jamás.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚀",
+    "🌕"
+   ],
+   "rotulo": "Apolo 11",
+   "fondo": "noche",
+   "personajes": [
+    "explorador",
+    "explorador",
+    "explorador"
+   ]
+  },
+  {
+   "texto": "El riesgo era tan grande que un seguro les habría costado una fortuna.",
+   "tipo": "emoji",
+   "emojis": [
+    "💸"
+   ],
+   "rotulo": "Demasiado caro",
+   "fondo": "ciudad",
+   "personajes": [
+    "explorador"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Y si algo salía mal, sus familias podían quedarse sin nada.",
+   "tipo": "emoji",
+   "emojis": [
+    "👨‍👩‍👧"
+   ],
+   "rotulo": "Sus familias",
+   "fondo": "pueblo",
+   "personajes": [
+    "mujer",
+    "nino"
+   ]
+  },
+  {
+   "texto": "Así que tuvieron una idea muy ingeniosa: firmar autógrafos.",
+   "tipo": "sello",
+   "emojis": [
+    "✍️"
+   ],
+   "sello": "¡Idea!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "Firmaron cientos de sobres con sellos, y un amigo los llevó a correos para que los sellaran en días clave.",
+   "tipo": "emoji",
+   "emojis": [
+    "✉️",
+    "📮"
+   ],
+   "rotulo": "Sobres firmados",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Por ejemplo, el día del despegue, o el día en que pisaron la Luna.",
+   "tipo": "emoji",
+   "emojis": [
+    "📅",
+    "🌕"
+   ],
+   "rotulo": "16 y 20 de julio",
+   "fondo": "noche"
+  },
+  {
+   "texto": "El plan era claro: si no volvían, sus familias podrían vender esos sobres a coleccionistas.",
+   "tipo": "emoji",
+   "emojis": [
+    "💰",
+    "✉️"
+   ],
+   "rotulo": "El plan",
+   "fondo": "pueblo",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Por suerte, los tres volvieron a la Tierra sanos y salvos.",
+   "tipo": "sello",
+   "emojis": [
+    "🌍"
+   ],
+   "sello": "¡Volvieron!",
+   "fondo": "mar",
+   "personajes": [
+    "explorador",
+    "explorador",
+    "explorador"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Y hoy, esos sobres se subastan por miles de dólares.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏷️",
+    "✉️"
+   ],
+   "rotulo": "Tesoro",
+   "fondo": "palacio",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "id": "040-la-guerra-del-cerdo",
+ "titulo": "Estados Unidos y Reino Unido casi van a la guerra… por un cerdo 🐷",
+ "descripcion": "En 1859, un cerdo comiéndose unas patatas puso frente a frente a cientos de soldados. La única víctima: el cerdo.",
+ "hashtags": [
+  "#historia",
+  "#datoscuriosos",
+  "#guerra",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "guerra del cerdo",
+  "isla de san juan",
+  "1859",
+  "historia de estados unidos"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "GUERRA POR UN CERDO",
+  "emojis": [
+   "🐷",
+   "⚔️"
+  ]
+ },
+ "nota_veracidad": "Hecho documentado (Pig War, isla de San Juan, 1859). El granjero Lyman Cutlar mató un cerdo de Charles Griffin, empleado de la Compañía de la Bahía de Hudson. El contraalmirante Robert Baynes se negó a atacar. Ocupación conjunta hasta el arbitraje del káiser Guillermo I en 1872. Cifras de soldados y barcos variaron durante la crisis; se dan de forma general.",
+ "fuentes": [
+  "National Park Service, San Juan Island National Historical Park: 'The Pig War'",
+  "Arbitraje de Guillermo I de Alemania (1872)"
+ ],
+ "claves": [
+  "cerdo",
+  "guerra",
+  "isla",
+  "patatas",
+  "soldados",
+  "barcos",
+  "almirante",
+  "víctima"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil ochocientos cincuenta y nueve, Estados Unidos y el Imperio británico casi entran en guerra… por un cerdo.",
+   "tipo": "fecha",
+   "anio": "1859",
+   "emojis": [
+    "🐷"
+   ],
+   "fondo": "campo"
+  },
+  {
+   "texto": "Todo pasó en la isla de San Juan, entre Canadá y Estados Unidos. Los dos países decían que era suya.",
+   "tipo": "versus",
+   "emojis": [
+    "🇺🇸",
+    "🇬🇧"
+   ],
+   "rotulos": [
+    "¡Es mía!",
+    "¡No, mía!"
+   ],
+   "rotulo": "Isla de San Juan",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Allí vivía un granjero estadounidense, Lyman Cutlar, que tenía un huerto de patatas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥔"
+   ],
+   "rotulo": "Lyman Cutlar",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Un día encontró a un cerdo comiéndose sus patatas. Se enfadó tanto que le disparó.",
+   "tipo": "sello",
+   "emojis": [
+    "🐷",
+    "🥔"
+   ],
+   "sello": "¡Pum!",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "El cerdo era de un vecino que trabajaba para una compañía británica. Y la cosa se puso fea.",
+   "tipo": "emoji",
+   "emojis": [
+    "😡"
+   ],
+   "rotulo": "El dueño",
+   "fondo": "campo",
+   "personajes": [
+    "granjero",
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Llegaron soldados estadounidenses. Los británicos enviaron barcos de guerra. Todo por un cerdo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚢"
+   ],
+   "rotulo": "¡Barcos de guerra!",
+   "fondo": "mar",
+   "personajes": [
+    "soldado",
+    "soldado",
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Pero un almirante británico se negó a empezar una guerra por un cerdo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🙅"
+   ],
+   "rotulo": "¡Ni hablar!",
+   "fondo": "mar",
+   "personajes": [
+    "general"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Así que los dos países compartieron la isla durante doce años, con un campamento de cada uno.",
+   "tipo": "numero",
+   "valor": "12",
+   "unidad": "años compartiendo",
+   "emojis": [
+    "🏕️"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Al final, el káiser de Alemania hizo de árbitro, y la isla quedó para Estados Unidos.",
+   "tipo": "emoji",
+   "emojis": [
+    "⚖️"
+   ],
+   "rotulo": "El árbitro",
+   "fondo": "palacio",
+   "personajes": [
+    "rey"
+   ]
+  },
+  {
+   "texto": "¿Y las víctimas de la guerra? Solo hubo una: el cerdo.",
+   "tipo": "sello",
+   "emojis": [
+    "🐷"
+   ],
+   "sello": "Única víctima",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "id": "041-cher-ami-la-paloma-heroe",
+ "titulo": "La paloma herida que salvó a 194 soldados 🕊️",
+ "descripcion": "1918: un batallón atrapado y bombardeado por su propia artillería. Su última esperanza era una paloma mensajera.",
+ "hashtags": [
+  "#historia",
+  "#animales",
+  "#primeraguerramundial",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "cher ami",
+  "paloma mensajera",
+  "batallón perdido",
+  "primera guerra mundial",
+  "smithsonian"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "SALVÓ A 194",
+  "emojis": [
+   "🕊️",
+   "🪖"
+  ]
+ },
+ "nota_veracidad": "Hecho documentado: el 'Batallón Perdido' del mayor Charles Whittlesey en el bosque de Argonne (octubre de 1918). Cher Ami llegó herida (pecho, ojo y una pata) y su cuerpo disecado está en el Museo Nacional de Historia Estadounidense del Smithsonian. La distancia (unos 40 km) y el tiempo (unos 25 minutos) son los que dan las fuentes habituales; lo de la pata de madera tallada por los médicos se cuenta como relato ('dicen').",
+ "fuentes": [
+  "Smithsonian National Museum of American History: Cher Ami",
+  "US Army Center of Military History: The Lost Battalion (1918)"
+ ],
+ "claves": [
+  "paloma",
+  "cher",
+  "ami",
+  "soldados",
+  "mensaje",
+  "herida",
+  "194",
+  "museo"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil novecientos dieciocho, una paloma herida salvó la vida de casi doscientos soldados.",
+   "tipo": "fecha",
+   "anio": "1918",
+   "emojis": [
+    "🕊️"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Primera Guerra Mundial, en Francia. Un batallón estadounidense quedó atrapado en un bosque, rodeado de enemigos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌲",
+    "🪖"
+   ],
+   "rotulo": "Atrapados",
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado",
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Y lo peor: su propia artillería empezó a disparar contra ellos por error.",
+   "tipo": "sello",
+   "emojis": [
+    "💥"
+   ],
+   "sello": "¡Fuego amigo!",
+   "fondo": "campo",
+   "personajes": [
+    "soldado"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "No tenían radio. Solo les quedaban palomas mensajeras. Soltaron dos, y las derribaron.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️",
+    "❌"
+   ],
+   "rotulo": "Sin radio",
+   "fondo": "campo",
+   "personajes": [
+    "oficial"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Quedaba la última. Se llamaba Cher Ami, que en francés significa querido amigo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️"
+   ],
+   "rotulo": "Cher Ami",
+   "fondo": "campo",
+   "personajes": [
+    "oficial"
+   ]
+  },
+  {
+   "texto": "Le ataron un mensaje en la pata: nuestra artillería nos está bombardeando, por favor, paren.",
+   "tipo": "emoji",
+   "emojis": [
+    "📜"
+   ],
+   "rotulo": "El mensaje",
+   "fondo": "campo",
+   "personajes": [
+    "oficial"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Los alemanes le dispararon. La hirieron en el pecho y en un ojo, y casi pierde una pata.",
+   "tipo": "sello",
+   "emojis": [
+    "🕊️"
+   ],
+   "sello": "¡Herida!",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Aun así, siguió volando: unos cuarenta kilómetros en unos veinticinco minutos.",
+   "tipo": "numero",
+   "valor": "40",
+   "unidad": "km volando herida",
+   "emojis": [
+    "🕊️"
+   ],
+   "fondo": "campo"
+  },
+  {
+   "texto": "El mensaje llegó, los cañones pararon, y se salvaron ciento noventa y cuatro soldados.",
+   "tipo": "numero",
+   "valor": "194",
+   "unidad": "soldados salvados",
+   "emojis": [
+    "🪖"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Dicen que los médicos le tallaron una patita de madera. Hoy, Cher Ami está en un museo de Washington.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️",
+    "🕊️"
+   ],
+   "rotulo": "Heroína",
+   "fondo": "palacio"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

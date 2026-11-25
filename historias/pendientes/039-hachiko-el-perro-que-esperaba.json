@@ -1,0 +1,168 @@
+{
+ "id": "039-hachiko-el-perro-que-esperaba",
+ "titulo": "El perro que esperó a su dueño casi 10 años en la estación 🐕🚉",
+ "descripcion": "Cada tarde, Hachiko esperaba al profesor Ueno en la estación de Shibuya. Un día, el profesor no volvió.",
+ "hashtags": [
+  "#historia",
+  "#perros",
+  "#japon",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "hachiko",
+  "shibuya",
+  "perro fiel",
+  "japón",
+  "akita"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "ESPERÓ 10 AÑOS",
+  "emojis": [
+   "🐕",
+   "🚉"
+  ]
+ },
+ "nota_veracidad": "Historia documentada: el profesor Hidesaburo Ueno murió en mayo de 1925; Hachiko siguió acudiendo a la estación de Shibuya hasta su muerte en marzo de 1935. El diario Asahi Shimbun publicó su historia en 1932 y la estatua de bronce se inauguró en 1934, con Hachiko vivo. Es una historia emotiva; se cuenta con respeto.",
+ "fuentes": [
+  "Universidad de Tokio, Facultad de Agricultura: historia de Hachiko y el profesor Ueno",
+  "Asahi Shimbun (1932)"
+ ],
+ "claves": [
+  "hachiko",
+  "perro",
+  "estación",
+  "shibuya",
+  "profesor",
+  "nueve",
+  "años",
+  "estatua"
+ ],
+ "escenas": [
+  {
+   "texto": "Durante casi diez años, un perro esperó cada tarde a su dueño en una estación de tren.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕"
+   ],
+   "rotulo": "Esperando",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Se llamaba Hachiko, un perro akita que vivía en Tokio con un profesor, Hidesaburo Ueno.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕"
+   ],
+   "rotulo": "Hachiko",
+   "fondo": "pueblo",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Cada mañana lo acompañaba a la estación de Shibuya, y cada tarde volvía a buscarlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "🚉"
+   ],
+   "rotulo": "Shibuya",
+   "fondo": "ciudad",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Pero en mil novecientos veinticinco, el profesor murió de repente en el trabajo.",
+   "tipo": "fecha",
+   "anio": "1925",
+   "emojis": [
+    "💔"
+   ],
+   "fondo": "ciudad",
+   "accion": "triste"
+  },
+  {
+   "texto": "Hachiko no lo sabía. Esa tarde lo esperó en la estación… y al día siguiente también.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "⏳"
+   ],
+   "rotulo": "Al día siguiente",
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Siguió volviendo cada día, durante más de nueve años.",
+   "tipo": "numero",
+   "valor": "9",
+   "unidad": "años esperando",
+   "emojis": [
+    "🐕"
+   ],
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Los trabajadores de la estación le daban de comer, y los viajeros empezaron a reconocerlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍙",
+    "🐕"
+   ],
+   "rotulo": "Todos lo conocían",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "En mil novecientos treinta y dos, un periódico contó su historia, y todo Japón se emocionó.",
+   "tipo": "emoji",
+   "emojis": [
+    "📰",
+    "❤️"
+   ],
+   "rotulo": "Famoso",
+   "fondo": "ciudad",
+   "personajes": [
+    "multitud"
+   ]
+  },
+  {
+   "texto": "Le hicieron una estatua en la estación… ¡cuando él todavía estaba vivo!",
+   "tipo": "sello",
+   "emojis": [
+    "🐕"
+   ],
+   "sello": "¡Estatua!",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Hachiko murió en mil novecientos treinta y cinco. Su estatua sigue en Shibuya, y es el punto de encuentro más famoso de Tokio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "📍"
+   ],
+   "rotulo": "Hasta hoy",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

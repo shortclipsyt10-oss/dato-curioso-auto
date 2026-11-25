@@ -1,0 +1,163 @@
+{
+ "id": "044-la-mentira-de-las-zanahorias",
+ "titulo": "La mentira de las zanahorias que escondía un arma secreta 🥕✈️",
+ "descripcion": "En la Segunda Guerra Mundial, un piloto británico derribaba aviones de noche. La prensa dijo que era por comer zanahorias. La verdad era otra.",
+ "hashtags": [
+  "#historia",
+  "#comida",
+  "#segundaguerramundial",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "zanahorias",
+  "radar",
+  "john cunningham",
+  "ojos de gato",
+  "segunda guerra mundial"
+ ],
+ "paleta": "comida",
+ "miniatura": {
+  "texto": "¿VER DE NOCHE?",
+  "emojis": [
+   "🥕",
+   "👀"
+  ]
+ },
+ "nota_veracidad": "El piloto John 'Cat's Eyes' Cunningham y el radar aerotransportado son reales, y el Ministerio de Alimentación británico promovió las zanahorias (campaña 'Doctor Carrot'). Que la historia de las zanahorias se difundiera a propósito para ocultar el radar a los alemanes se cuenta a menudo, pero los historiadores no tienen pruebas firmes de que fuera una operación de engaño ni de que los alemanes se la creyeran; por eso va como 'se dice' con escena duda. La vitamina A ayuda a la visión, pero comer más no da visión nocturna.",
+ "fuentes": [
+  "Smithsonian Magazine (2013): 'A WWII Propaganda Campaign Popularized the Myth That Carrots Help You See in the Dark'",
+  "Imperial War Museums: Doctor Carrot y la campaña del Ministerio de Alimentación"
+ ],
+ "claves": [
+  "zanahorias",
+  "radar",
+  "piloto",
+  "noche",
+  "secreto",
+  "ojos",
+  "gato",
+  "mito"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Te dijeron que las zanahorias te ayudan a ver en la oscuridad? Esa idea se hizo famosa en plena guerra.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥕",
+    "👀"
+   ],
+   "rotulo": "¿Ver de noche?",
+   "fondo": "pueblo_noche"
+  },
+  {
+   "texto": "En mil novecientos cuarenta, los aviones alemanes bombardeaban Londres de noche.",
+   "tipo": "fecha",
+   "anio": "1940",
+   "emojis": [
+    "✈️"
+   ],
+   "fondo": "noche"
+  },
+  {
+   "texto": "Y un piloto británico, John Cunningham, empezó a derribarlos en plena oscuridad.",
+   "tipo": "emoji",
+   "emojis": [
+    "✈️",
+    "🎯"
+   ],
+   "rotulo": "John Cunningham",
+   "fondo": "noche",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Su verdadero secreto era un radar nuevo, escondido en su avión.",
+   "tipo": "sello",
+   "emojis": [
+    "📡"
+   ],
+   "sello": "¡Secreto!",
+   "fondo": "noche",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Pero en los periódicos se contó otra cosa: que comía muchísimas zanahorias.",
+   "tipo": "emoji",
+   "emojis": [
+    "📰",
+    "🥕"
+   ],
+   "rotulo": "La versión oficial",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Lo apodaron Ojos de Gato.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "👀"
+   ],
+   "rotulo": "Ojos de gato",
+   "fondo": "noche",
+   "personajes": [
+    "soldado"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "El gobierno también animaba a la gente a comer zanahorias para moverse mejor durante los apagones.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥕",
+    "🔦"
+   ],
+   "rotulo": "Doctor Zanahoria",
+   "fondo": "pueblo_noche",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Se dice que todo fue un engaño para esconder el radar a los alemanes. Pero no está claro que se lo creyeran.",
+   "tipo": "duda",
+   "emojis": [
+    "🕵️"
+   ],
+   "sello": "¿ENGAÑO?",
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "La verdad: la zanahoria tiene vitamina A, que es buena para los ojos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥕",
+    "👁️"
+   ],
+   "rotulo": "Vitamina A",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Pero por mucho que comas, no vas a ver en la oscuridad.",
+   "tipo": "sello",
+   "emojis": [
+    "🥕"
+   ],
+   "sello": "Mito",
+   "fondo": "pueblo_noche"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

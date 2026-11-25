@@ -1,0 +1,178 @@
+{
+ "id": "045-el-medico-que-se-bebio-bacterias",
+ "titulo": "¿Te beberías bacterias para demostrar que tienes razón? Él lo hizo 🦠",
+ "descripcion": "En 1984 nadie creía al médico Barry Marshall. Así que se bebió las bacterias que, según él, causaban las úlceras. Acabó ganando el Nobel.",
+ "hashtags": [
+  "#ciencia",
+  "#medicina",
+  "#cuerpohumano",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "barry marshall",
+  "robin warren",
+  "helicobacter pylori",
+  "úlceras",
+  "premio nobel"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "SE BEBIÓ BACTERIAS",
+  "emojis": [
+   "🦠",
+   "🧪"
+  ]
+ },
+ "nota_veracidad": "Hecho documentado: en 1984 Barry Marshall ingirió un cultivo de Helicobacter pylori y desarrolló una gastritis (no una úlcera), que se trató. Marshall y Robin Warren recibieron el Nobel de Fisiología o Medicina en 2005 por descubrir el papel de la bacteria en la gastritis y la úlcera péptica.",
+ "fuentes": [
+  "NobelPrize.org: Premio Nobel de Fisiología o Medicina 2005",
+  "Marshall BJ et al. (1985), Medical Journal of Australia"
+ ],
+ "claves": [
+  "bacterias",
+  "marshall",
+  "úlceras",
+  "estómago",
+  "razón",
+  "nobel",
+  "bebió"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil novecientos ochenta y cuatro, un médico se bebió un caldo lleno de bacterias. A propósito.",
+   "tipo": "fecha",
+   "anio": "1984",
+   "emojis": [
+    "🦠"
+   ],
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "Se llamaba Barry Marshall, y trabajaba en Australia con otro médico, Robin Warren.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔬"
+   ],
+   "rotulo": "Marshall y Warren",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico",
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Por entonces, casi todos creían que las úlceras de estómago venían del estrés y de la comida picante.",
+   "tipo": "emoji",
+   "emojis": [
+    "😰",
+    "🌶️"
+   ],
+   "rotulo": "Lo que se creía",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Pero ellos habían visto una bacteria en el estómago de muchos enfermos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦠",
+    "🔬"
+   ],
+   "rotulo": "Una bacteria",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Casi nadie les hizo caso. Decían que ninguna bacteria podía vivir en el ácido del estómago.",
+   "tipo": "sello",
+   "emojis": [
+    "🙄"
+   ],
+   "sello": "¡Imposible!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico",
+    "medico"
+   ]
+  },
+  {
+   "texto": "Así que Marshall hizo algo extremo: se bebió un cultivo de esas bacterias.",
+   "tipo": "sello",
+   "emojis": [
+    "🧪"
+   ],
+   "sello": "¡Glup!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ]
+  },
+  {
+   "texto": "A los pocos días empezó a vomitar, y su estómago se inflamó.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤢"
+   ],
+   "rotulo": "Funcionó",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "tumbado"
+  },
+  {
+   "texto": "Tenía razón. La bacteria, llamada Helicobacter pylori, causaba el problema.",
+   "tipo": "emoji",
+   "emojis": [
+    "🦠",
+    "✅"
+   ],
+   "rotulo": "Helicobacter pylori",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Se curó con antibióticos, y hoy millones de personas se curan de la misma forma.",
+   "tipo": "emoji",
+   "emojis": [
+    "💊"
+   ],
+   "rotulo": "La cura",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "En dos mil cinco, Marshall y Warren ganaron el premio Nobel de Medicina.",
+   "tipo": "fecha",
+   "anio": "2005",
+   "emojis": [
+    "🏆"
+   ],
+   "fondo": "palacio",
+   "personajes": [
+    "medico",
+    "cientifico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

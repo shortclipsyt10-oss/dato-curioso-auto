@@ -1,0 +1,170 @@
+{
+ "id": "042-la-guerra-del-cubo",
+ "titulo": "La batalla que acabó con un cubo robado… que siguen guardando 🪣⚔️",
+ "descripcion": "En 1325, Módena y Bolonia se enfrentaron en una gran batalla. El trofeo del ganador fue un cubo de madera, y casi 700 años después sigue allí.",
+ "hashtags": [
+  "#historia",
+  "#italia",
+  "#edadmedia",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "guerra del cubo",
+  "batalla de zappolino",
+  "módena",
+  "bolonia",
+  "secchia rapita"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "UN CUBO ROBADO",
+  "emojis": [
+   "🪣",
+   "⚔️"
+  ]
+ },
+ "nota_veracidad": "La batalla de Zappolino (noviembre de 1325) entre Módena y Bolonia es real y la ganó Módena. El cubo se tomó como trofeo de un pozo de Bolonia tras la batalla y se conserva en Módena (el original en el Palazzo Comunale; una réplica en la torre Ghirlandina). La idea popular de que la guerra EMPEZÓ por el robo del cubo es una leyenda: las causas fueron la rivalidad entre güelfos y gibelinos. Las cifras de los ejércitos vienen de crónicas y pueden estar exageradas. Alessandro Tassoni escribió 'La secchia rapita' (1622).",
+ "fuentes": [
+  "Encyclopaedia Britannica: Alessandro Tassoni, 'La secchia rapita'",
+  "Comune di Modena: la Secchia Rapita en el Palazzo Comunale"
+ ],
+ "claves": [
+  "cubo",
+  "módena",
+  "bolonia",
+  "batalla",
+  "trofeo",
+  "leyenda",
+  "poema"
+ ],
+ "escenas": [
+  {
+   "texto": "Hace casi setecientos años, dos ciudades italianas lucharon una gran batalla. Y hoy se recuerda por un cubo de madera.",
+   "tipo": "fecha",
+   "anio": "1325",
+   "emojis": [
+    "🪣"
+   ],
+   "fondo": "campo"
+  },
+  {
+   "texto": "Módena y Bolonia eran vecinas, y llevaban años peleadas por el poder.",
+   "tipo": "versus",
+   "emojis": [
+    "🏰",
+    "🏰"
+   ],
+   "rotulos": [
+    "Módena",
+    "Bolonia"
+   ],
+   "rotulo": "Rivales",
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "Según la leyenda, todo empezó cuando unos soldados de Módena robaron un cubo de un pozo de Bolonia.",
+   "tipo": "duda",
+   "emojis": [
+    "🪣"
+   ],
+   "sello": "¿LEYENDA?",
+   "fondo": "pueblo",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Lo que sí cuentan las crónicas es que Bolonia reunió un ejército enorme, de unos treinta mil hombres.",
+   "tipo": "numero",
+   "valor": "30.000",
+   "unidad": "soldados de Bolonia",
+   "emojis": [
+    "🛡️"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "multitud"
+   ]
+  },
+  {
+   "texto": "Módena tenía muchos menos: unos siete mil.",
+   "tipo": "numero",
+   "valor": "7.000",
+   "unidad": "soldados de Módena",
+   "emojis": [
+    "⚔️"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Se enfrentaron en la batalla de Zappolino. Y contra todo pronóstico, ganó Módena.",
+   "tipo": "sello",
+   "emojis": [
+    "🏆"
+   ],
+   "sello": "¡Ganó Módena!",
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado",
+    "general"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Persiguieron a los boloñeses hasta las puertas de su ciudad, y se llevaron un trofeo muy especial…",
+   "tipo": "emoji",
+   "emojis": [
+    "🏃",
+    "🏰"
+   ],
+   "rotulo": "Hasta Bolonia",
+   "fondo": "pueblo",
+   "personajes": [
+    "soldado"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "…el cubo de madera de un pozo.",
+   "tipo": "sello",
+   "emojis": [
+    "🪣"
+   ],
+   "sello": "¡El trofeo!",
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "Siglos después, un poeta escribió un poema burlón sobre él, llamado El cubo robado.",
+   "tipo": "emoji",
+   "emojis": [
+    "📜",
+    "✒️"
+   ],
+   "rotulo": "La secchia rapita",
+   "fondo": "palacio",
+   "personajes": [
+    "noble"
+   ]
+  },
+  {
+   "texto": "Y el cubo sigue hoy en Módena. Bolonia nunca lo recuperó.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪣",
+    "🏛️"
+   ],
+   "rotulo": "Hasta hoy",
+   "fondo": "palacio"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

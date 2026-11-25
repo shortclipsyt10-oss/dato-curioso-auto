@@ -1,0 +1,159 @@
+{
+ "id": "038-sam-el-gato-insumergible",
+ "titulo": "El gato que sobrevivió a tres naufragios… o eso dicen 🐱🚢",
+ "descripcion": "En 1941 un gato habría sobrevivido al hundimiento de tres barcos de guerra en seis meses. ¿Verdad o leyenda de marineros?",
+ "hashtags": [
+  "#historia",
+  "#gatos",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "sam el insumergible",
+  "oscar el gato",
+  "bismarck",
+  "segunda guerra mundial",
+  "gatos"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "3 NAUFRAGIOS",
+  "emojis": [
+   "🐱",
+   "🚢"
+  ]
+ },
+ "nota_veracidad": "Los hundimientos del Bismarck (mayo de 1941), del HMS Cossack (octubre de 1941) y del HMS Ark Royal (noviembre de 1941) son reales. La historia del gato Oscar/Sam la contaban marineros y prensa, pero varios historiadores la consideran dudosa o mezcla de varios gatos; por eso se narra como 'dicen' y lleva escena duda. Su retrato al pastel (Georgina Shaw-Baker) está en el National Maritime Museum de Greenwich.",
+ "fuentes": [
+  "Royal Museums Greenwich: retrato 'Oscar, the Bismarck's Cat'",
+  "Hundimientos documentados del Bismarck, HMS Cossack y HMS Ark Royal (1941)"
+ ],
+ "claves": [
+  "gato",
+  "tres",
+  "barcos",
+  "bismarck",
+  "sam",
+  "insumergible",
+  "leyenda",
+  "museo"
+ ],
+ "escenas": [
+  {
+   "texto": "Dicen que un gato sobrevivió al hundimiento de tres barcos de guerra en solo seis meses.",
+   "tipo": "fecha",
+   "anio": "1941",
+   "emojis": [
+    "🐱"
+   ],
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ]
+  },
+  {
+   "texto": "Según la historia, vivía en el Bismarck, el enorme acorazado alemán.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🚢"
+   ],
+   "rotulo": "El Bismarck",
+   "fondo": "mar"
+  },
+  {
+   "texto": "En mayo de mil novecientos cuarenta y uno, el Bismarck fue hundido en el océano Atlántico.",
+   "tipo": "sello",
+   "emojis": [
+    "💥"
+   ],
+   "sello": "¡Hundido!",
+   "fondo": "mar"
+  },
+  {
+   "texto": "Horas después, unos marineros británicos vieron a un gato flotando sobre una tabla, y lo rescataron.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🪵"
+   ],
+   "rotulo": "Rescatado",
+   "fondo": "mar",
+   "personajes": [
+    "marinero",
+    "marinero"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Se lo llevaron a su barco, el Cossack. Pero meses después, el Cossack también se hundió.",
+   "tipo": "sello",
+   "emojis": [
+    "🌊"
+   ],
+   "sello": "¡Otra vez!",
+   "fondo": "mar"
+  },
+  {
+   "texto": "El gato volvió a salvarse, y los marineros lo apodaron Sam, el insumergible.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱"
+   ],
+   "rotulo": "Sam el insumergible",
+   "fondo": "mar",
+   "personajes": [
+    "marinero",
+    "marinero"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Entonces lo subieron al portaaviones Ark Royal… que fue torpedeado ese mismo año.",
+   "tipo": "sello",
+   "emojis": [
+    "🚢",
+    "💥"
+   ],
+   "sello": "¡Y van tres!",
+   "fondo": "mar"
+  },
+  {
+   "texto": "Sam sobrevivió una vez más. Y esta vez lo mandaron a vivir tranquilo en tierra firme.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏠",
+    "🐱"
+   ],
+   "rotulo": "Jubilado",
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "Eso sí: muchos historiadores dudan de la historia, y creen que pudo ser más de un gato.",
+   "tipo": "duda",
+   "emojis": [
+    "🐱",
+    "🤔"
+   ],
+   "sello": "¿LEYENDA?",
+   "fondo": "pueblo",
+   "personajes": [
+    "anciano"
+   ]
+  },
+  {
+   "texto": "Lo que sí existe es su retrato, que se guarda en un museo marítimo de Inglaterra.",
+   "tipo": "emoji",
+   "emojis": [
+    "🖼️",
+    "🐱"
+   ],
+   "rotulo": "Su retrato",
+   "fondo": "palacio"
+  },
+  {
+   "texto": "¿Tú te lo crees? Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}
