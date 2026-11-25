@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T22:32+00:00",
+ "actualizado": "2026-11-25T01:56+00:00",
  "videos": [
   {
    "id": "001-guerra-del-emu",
@@ -7,11 +7,11 @@
    "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T20:00:00Z",
-   "horas": 2.5,
-   "visitas": 520,
-   "likes": 11,
-   "comentarios": 0,
-   "visitas_por_hora": 204.93
+   "horas": 5.9,
+   "visitas": 1072,
+   "likes": 21,
+   "comentarios": 1,
+   "visitas_por_hora": 180.31
   },
   {
    "id": "007-tardigrados",
@@ -19,11 +19,11 @@
    "titulo": "El animal que sobrevive al espacio 🐻🚀 #shorts",
    "paleta": null,
    "publicado": "2026-11-24T12:57:55Z",
-   "horas": 9.6,
-   "visitas": 815,
-   "likes": 26,
+   "horas": 13.0,
+   "visitas": 952,
+   "likes": 29,
    "comentarios": 0,
-   "visitas_por_hora": 85.14
+   "visitas_por_hora": 73.34
   },
   {
    "id": "008-cleopatra-iphone",
@@ -31,11 +31,11 @@
    "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T14:00:28Z",
-   "horas": 8.5,
-   "visitas": 60,
-   "likes": 1,
+   "horas": 11.9,
+   "visitas": 160,
+   "likes": 3,
    "comentarios": 0,
-   "visitas_por_hora": 7.03
+   "visitas_por_hora": 13.4
   },
   {
    "id": "012-guerra-de-los-pasteles",
@@ -43,7 +43,7 @@
    "titulo": "La guerra que empezó por unos pasteles 🥐⚔️ #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T13:14:10Z",
-   "horas": 9.3,
+   "horas": 12.7,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -55,7 +55,7 @@
    "titulo": "El hombre que sobrevivió a dos bombas atómicas #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T13:16:05Z",
-   "horas": 9.3,
+   "horas": 12.7,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -66,8 +66,8 @@
    "youtube_id": "G7uwY8-UDr0",
    "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻 #shorts",
    "paleta": "historia",
-   "publicado": "2026-11-24T16:41:01Z",
-   "horas": 5.9,
+   "publicado": "2026-11-24T23:00:02Z",
+   "horas": 2.9,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -79,7 +79,7 @@
    "titulo": "Napoleón fue derrotado… por conejos 🐰 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T16:41:05Z",
-   "horas": 5.9,
+   "horas": 9.3,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -91,7 +91,7 @@
    "titulo": "La epidemia de baile de 1518 💃 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T19:36:35Z",
-   "horas": 2.9,
+   "horas": 6.3,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -103,6 +103,18 @@
    "titulo": "El pulpo tiene 3 corazones y sangre azul 🐙 #shorts",
    "paleta": "oceano",
    "publicado": "2026-11-24T22:32:10Z",
+   "horas": 3.4,
+   "visitas": 0,
+   "likes": 0,
+   "comentarios": 0,
+   "visitas_por_hora": 0.0
+  },
+  {
+   "id": "006-miel-que-nunca-caduca",
+   "youtube_id": "PteHeI01WN4",
+   "titulo": "La miel que nunca caduca 🍯 #shorts",
+   "paleta": "comida",
+   "publicado": "2026-11-25T01:56:40Z",
    "horas": 1.0,
    "visitas": 0,
    "likes": 0,
