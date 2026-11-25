@@ -1,114 +1,124 @@
 {
-  "videos": {
-    "007-tardigrados": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/007-tardigrados",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/007-tardigrados/007-tardigrados.mp4",
-      "titulo": "El animal que sobrevive al espacio 🐻🚀",
-      "renderizado_en": "2026-11-24T12:57:18",
-      "youtube_id": "SvZgaM9Ama0",
-      "publicar_en": "2026-11-24T13:57:26+01:00",
-      "subido_en": "2026-11-24T12:57:26"
-    },
-    "008-cleopatra-iphone": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/008-cleopatra-iphone",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/008-cleopatra-iphone/008-cleopatra-iphone.mp4",
-      "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯",
-      "paleta": "historia",
-      "renderizado_en": "2026-11-24T13:06:37",
-      "youtube_id": "BuqNQeSCC2k",
-      "publicar_en": "2026-11-24T15:00:00+01:00",
-      "subido_en": "2026-11-24T13:06:46"
-    },
-    "012-guerra-de-los-pasteles": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/012-guerra-de-los-pasteles",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/012-guerra-de-los-pasteles/012-guerra-de-los-pasteles.mp4",
-      "titulo": "La guerra que empezó por unos pasteles 🥐⚔️",
-      "paleta": "historia",
-      "renderizado_en": "2026-11-24T13:14:09",
-      "youtube_id": "LjbB01ekk1c",
-      "publicar_en": "2026-11-25T09:00:00+01:00",
-      "subido_en": "2026-11-24T13:14:16"
-    },
-    "013-tsutomu-yamaguchi": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/013-tsutomu-yamaguchi",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/013-tsutomu-yamaguchi/013-tsutomu-yamaguchi.mp4",
-      "titulo": "El hombre que sobrevivió a dos bombas atómicas",
-      "paleta": "historia",
-      "renderizado_en": "2026-11-24T13:16:04",
-      "youtube_id": "2QsfhmBdJOI",
-      "publicar_en": "2026-11-25T12:00:00+01:00",
-      "subido_en": "2026-11-24T13:16:12"
-    },
-    "001-guerra-del-emu": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/001-guerra-del-emu",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/001-guerra-del-emu/001-guerra-del-emu.mp4",
-      "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦",
-      "listo": true,
-      "paleta": "historia",
-      "youtube_id": "3F_0uyAGaKk",
-      "publicar_en": "2026-11-24T21:00:00+01:00",
-      "subido_en": "2026-11-24T16:41:01"
-    },
-    "002-wojtek-oso-soldado": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/002-wojtek-oso-soldado",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/002-wojtek-oso-soldado/002-wojtek-oso-soldado.mp4",
-      "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻",
-      "listo": true,
-      "paleta": "historia",
-      "youtube_id": "G7uwY8-UDr0",
-      "publicar_en": "2026-11-25T00:00:00+01:00",
-      "subido_en": "2026-11-24T16:41:04"
-    },
-    "003-napoleon-conejos": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/003-napoleon-conejos",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/003-napoleon-conejos/003-napoleon-conejos.mp4",
-      "titulo": "Napoleón fue derrotado… por conejos 🐰",
-      "listo": true,
-      "paleta": "historia",
-      "youtube_id": "p63eOrRDY08",
-      "publicar_en": "2026-11-25T15:00:00+01:00",
-      "subido_en": "2026-11-24T16:41:09"
-    },
-    "004-epidemia-de-baile-1518": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/004-epidemia-de-baile-1518",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/004-epidemia-de-baile-1518/004-epidemia-de-baile-1518.mp4",
-      "titulo": "La epidemia de baile de 1518 💃",
-      "listo": true,
-      "paleta": "historia",
-      "youtube_id": "jfWrpdwNk1k",
-      "publicar_en": "2026-11-25T18:00:00+01:00",
-      "subido_en": "2026-11-24T19:36:39"
-    },
-    "005-pulpo-tres-corazones": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/005-pulpo-tres-corazones",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/005-pulpo-tres-corazones/005-pulpo-tres-corazones.mp4",
-      "titulo": "El pulpo tiene 3 corazones y sangre azul 🐙",
-      "listo": true,
-      "paleta": "oceano",
-      "youtube_id": "pHhon0nqWJM",
-      "publicar_en": "2026-11-25T21:00:00+01:00",
-      "subido_en": "2026-11-24T22:32:14"
-    },
-    "006-miel-que-nunca-caduca": {
-      "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/006-miel-que-nunca-caduca",
-      "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/006-miel-que-nunca-caduca/006-miel-que-nunca-caduca.mp4",
-      "titulo": "La miel que nunca caduca 🍯",
-      "listo": true,
-      "paleta": "comida",
-      "youtube_id": "PteHeI01WN4",
-      "publicar_en": "2026-11-26T00:00:00+01:00",
-      "subido_en": "2026-11-25T01:56:42"
-    },
-    "015-ketchup-medicina": {
-      "titulo": "El ketchup se vendía como medicina 🍅💊",
-      "youtube_id": "Qf7fM8FkJ4c",
-      "publicar_en": "2026-11-26T09:00:00+01:00",
-      "subido_en": "2026-11-25T10:36:40"
-    }
+ "videos": {
+  "007-tardigrados": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/007-tardigrados",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/007-tardigrados/007-tardigrados.mp4",
+   "titulo": "El animal que sobrevive al espacio 🐻🚀",
+   "renderizado_en": "2026-11-24T12:57:18",
+   "youtube_id": "SvZgaM9Ama0",
+   "publicar_en": "2026-11-24T13:57:26+01:00",
+   "subido_en": "2026-11-24T12:57:26"
   },
-  "retirados": {
-    "009-flamencos-rosas": "xxsGvAWE3FE (privado)",
-    "010-venus-dia-ano": "qrhy_BeWRro (borrado)",
-    "011-platanos-radiactivos": "cyVWz_5sE3U (borrado)"
+  "008-cleopatra-iphone": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/008-cleopatra-iphone",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/008-cleopatra-iphone/008-cleopatra-iphone.mp4",
+   "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯",
+   "paleta": "historia",
+   "renderizado_en": "2026-11-24T13:06:37",
+   "youtube_id": "BuqNQeSCC2k",
+   "publicar_en": "2026-11-24T15:00:00+01:00",
+   "subido_en": "2026-11-24T13:06:46"
+  },
+  "012-guerra-de-los-pasteles": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/012-guerra-de-los-pasteles",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/012-guerra-de-los-pasteles/012-guerra-de-los-pasteles.mp4",
+   "titulo": "La guerra que empezó por unos pasteles 🥐⚔️",
+   "paleta": "historia",
+   "renderizado_en": "2026-11-24T13:14:09",
+   "youtube_id": "LjbB01ekk1c",
+   "publicar_en": "2026-11-25T09:00:00+01:00",
+   "subido_en": "2026-11-24T13:14:16"
+  },
+  "013-tsutomu-yamaguchi": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/013-tsutomu-yamaguchi",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/013-tsutomu-yamaguchi/013-tsutomu-yamaguchi.mp4",
+   "titulo": "El hombre que sobrevivió a dos bombas atómicas",
+   "paleta": "historia",
+   "renderizado_en": "2026-11-24T13:16:04",
+   "youtube_id": "2QsfhmBdJOI",
+   "publicar_en": "2026-11-25T12:00:00+01:00",
+   "subido_en": "2026-11-24T13:16:12"
+  },
+  "001-guerra-del-emu": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/001-guerra-del-emu",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/001-guerra-del-emu/001-guerra-del-emu.mp4",
+   "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦",
+   "listo": true,
+   "paleta": "historia",
+   "youtube_id": "3F_0uyAGaKk",
+   "publicar_en": "2026-11-24T21:00:00+01:00",
+   "subido_en": "2026-11-24T16:41:01"
+  },
+  "002-wojtek-oso-soldado": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/002-wojtek-oso-soldado",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/002-wojtek-oso-soldado/002-wojtek-oso-soldado.mp4",
+   "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻",
+   "listo": true,
+   "paleta": "historia",
+   "youtube_id": "G7uwY8-UDr0",
+   "publicar_en": "2026-11-25T00:00:00+01:00",
+   "subido_en": "2026-11-24T16:41:04"
+  },
+  "003-napoleon-conejos": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/003-napoleon-conejos",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/003-napoleon-conejos/003-napoleon-conejos.mp4",
+   "titulo": "Napoleón fue derrotado… por conejos 🐰",
+   "listo": true,
+   "paleta": "historia",
+   "youtube_id": "p63eOrRDY08",
+   "publicar_en": "2026-11-25T15:00:00+01:00",
+   "subido_en": "2026-11-24T16:41:09"
+  },
+  "004-epidemia-de-baile-1518": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/004-epidemia-de-baile-1518",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/004-epidemia-de-baile-1518/004-epidemia-de-baile-1518.mp4",
+   "titulo": "La epidemia de baile de 1518 💃",
+   "listo": true,
+   "paleta": "historia",
+   "youtube_id": "jfWrpdwNk1k",
+   "publicar_en": "2026-11-25T18:00:00+01:00",
+   "subido_en": "2026-11-24T19:36:39"
+  },
+  "005-pulpo-tres-corazones": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/005-pulpo-tres-corazones",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/005-pulpo-tres-corazones/005-pulpo-tres-corazones.mp4",
+   "titulo": "El pulpo tiene 3 corazones y sangre azul 🐙",
+   "listo": true,
+   "paleta": "oceano",
+   "youtube_id": "pHhon0nqWJM",
+   "publicar_en": "2026-11-25T21:00:00+01:00",
+   "subido_en": "2026-11-24T22:32:14"
+  },
+  "006-miel-que-nunca-caduca": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/006-miel-que-nunca-caduca",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/listos/006-miel-que-nunca-caduca/006-miel-que-nunca-caduca.mp4",
+   "titulo": "La miel que nunca caduca 🍯",
+   "listo": true,
+   "paleta": "comida",
+   "youtube_id": "PteHeI01WN4",
+   "publicar_en": "2026-11-26T00:00:00+01:00",
+   "subido_en": "2026-11-25T01:56:42"
+  },
+  "015-ketchup-medicina": {
+   "titulo": "El ketchup se vendía como medicina 🍅💊",
+   "youtube_id": "Qf7fM8FkJ4c",
+   "publicar_en": "2026-11-26T09:00:00+01:00",
+   "subido_en": "2026-11-25T10:36:40"
+  },
+  "026-isla-de-los-faisanes": {
+   "carpeta": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/026-isla-de-los-faisanes",
+   "mp4": "/home/runner/work/dato-curioso-auto/dato-curioso-auto/salida/026-isla-de-los-faisanes/026-isla-de-los-faisanes.mp4",
+   "titulo": "La isla que cambia de país cada seis meses 🇪🇸🇫🇷",
+   "paleta": "rareza",
+   "renderizado_en": "2026-11-25T13:54:56",
+   "youtube_id": "QYhShQr50I0",
+   "publicar_en": "2026-11-26T12:00:00+01:00",
+   "subido_en": "2026-11-25T13:54:58"
   }
+ },
+ "retirados": {
+  "009-flamencos-rosas": "xxsGvAWE3FE (privado)",
+  "010-venus-dia-ano": "qrhy_BeWRro (borrado)",
+  "011-platanos-radiactivos": "cyVWz_5sE3U (borrado)"
+ }
 }
