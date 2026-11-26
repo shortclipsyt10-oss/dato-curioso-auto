@@ -1,0 +1,184 @@
+{
+ "id": "052-el-hipo-de-68-anos",
+ "titulo": "¿Cuánto puede durar un hipo? A él le duró 68 años 😵",
+ "descripcion": "Iowa, 1922: un granjero levanta un cerdo y empieza a tener hipo. No paró hasta 1990. Es el récord mundial.",
+ "hashtags": [
+  "#cuerpohumano",
+  "#records",
+  "#ciencia",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "charles osborne",
+  "hipo",
+  "récord guinness",
+  "cuerpo humano"
+ ],
+ "paleta": "cuerpo",
+ "miniatura": {
+  "texto": "68 AÑOS CON HIPO",
+  "emojis": [
+   "😵",
+   "⏳"
+  ]
+ },
+ "nota_veracidad": "Récord Guinness: Charles Osborne (Anthon, Iowa) tuvo hipo desde 1922 hasta febrero de 1990. Lo atribuía a un esfuerzo al levantar un cerdo; los médicos pensaron que pudo dañar un pequeño vaso del cerebro, pero la causa no está confirmada. La cifra de unos 430 millones de hipos es una estimación. Se casó dos veces y tuvo ocho hijos. Murió en 1991.",
+ "fuentes": [
+  "Guinness World Records: 'Longest attack of hiccups' (Charles Osborne)",
+  "Los Angeles Times / AP (1990): 'Man's 68-year hiccups stop'"
+ ],
+ "claves": [
+  "hipo",
+  "años",
+  "cerdo",
+  "récord",
+  "médicos",
+  "millones",
+  "paró",
+  "charles"
+ ],
+ "escenas": [
+  {
+   "texto": "¿Cuánto puede durar un hipo? A Charles Osborne le duró sesenta y ocho años.",
+   "tipo": "pregunta",
+   "emojis": [
+    "😵",
+    "⏳"
+   ]
+  },
+  {
+   "texto": "Estados Unidos, mil novecientos veintidós. Charles era un granjero de Iowa.",
+   "tipo": "fecha",
+   "anio": "1922",
+   "emojis": [
+    "🌽"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Un día intentó levantar un cerdo enorme. Sintió un tirón… y empezó a tener hipo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐖",
+    "💥"
+   ],
+   "rotulo": "El tirón",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Pensó que se le pasaría en un rato. No se le pasó.",
+   "tipo": "sello",
+   "emojis": [
+    "😵"
+   ],
+   "sello": "¡Hip!",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Probó de todo: remedios caseros, sustos, médicos. Nada funcionaba.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🥛",
+     "Agua"
+    ],
+    [
+     "😱",
+     "Sustos"
+    ],
+    [
+     "🩺",
+     "Médicos"
+    ]
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "medico",
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Los médicos creyeron que el tirón pudo dañar una zona del cerebro que controla el hipo. Nunca se supo seguro.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧠",
+    "❓"
+   ],
+   "rotulo": "Misterio",
+   "fondo": "laboratorio",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Aun así, hizo una vida normal: se casó dos veces y tuvo ocho hijos.",
+   "tipo": "numero",
+   "valor": "8",
+   "unidad": "hijos",
+   "emojis": [
+    "👨‍👩‍👧‍👦"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "granjero",
+    "mujer",
+    "nino"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Al principio, tenía hasta cuarenta hipos por minuto. Con los años, bajó a unos veinte.",
+   "tipo": "numero",
+   "valor": "40",
+   "unidad": "hipos por minuto",
+   "emojis": [
+    "⏱️"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "En total, se calcula que tuvo unos cuatrocientos treinta millones de hipos.",
+   "tipo": "numero",
+   "valor": "430.000.000",
+   "unidad": "hipos",
+   "emojis": [
+    "😵"
+   ],
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "En mil novecientos noventa, de repente, el hipo paró. Solos. Después de sesenta y ocho años.",
+   "tipo": "sello",
+   "emojis": [
+    "😌"
+   ],
+   "sello": "¡Paró!",
+   "fondo": "pueblo",
+   "personajes": [
+    "anciano"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,21 +1,26 @@
-# Aprendizajes (actualizado 2026-11-25)
+# Aprendizajes (actualizado 2026-11-26)
 
 ## Datos disponibles
-- Última medición: 25/11 01:56 UTC. 10 videos subidos; **ninguno llega a 24 h** (el más antiguo, 13 h). Las conclusiones son provisionales.
-- Destacan dos:
-  - 001 Guerra del Emú (historia con animales, título "Australia le declaró la guerra a los emús… y perdió"): 1.072 visitas en 6 h → **180 visitas/h**, 21 likes.
-  - 007 Tardígrados (animal "superpoder", "El animal que sobrevive al espacio"): 952 visitas en 13 h → **73 visitas/h**, 29 likes (mejor ratio de likes).
-- 008 Cleopatra (comparación de fechas, no es historia narrada): 160 visitas → 13/h.
-- 002, 003, 004, 012, 013 tienen **0 visitas** tras 3-13 h, igual que 005 y 006 (recién subidos). Un 0 exacto tras 9-13 h es raro: puede ser retraso de YouTube o un problema de visibilidad; no lo tomo como señal del tema.
+- Medición del 26/11 10:34 UTC. 14 videos subidos; 12 con más de 12 h y 10 con más de 15 h.
+- Ranking (visitas/hora, solo con 20 h o más):
+  1. 003 Napoleón derrotado… por conejos: **58/h** (1.198 visitas, 55 likes, el mejor ratio de likes, 4,6 %).
+  2. 001 Guerra del Emú: 32/h (1.238 visitas).
+  3. 007 Tardígrados: 29/h (1.339 visitas).
+  4. 013 Yamaguchi, dos bombas atómicas: 22/h (519).
+  5. 012 Guerra de los pasteles: 12/h (316).
+  6. 008 Cleopatra e iPhone: 8/h (366), el peor de los que sí se distribuyen.
+- **Anomalía:** 002 Wojtek, 004 Baile 1518, 005 Pulpo, 006 Miel, 026 Isla de los Faisanes, 028 Torre Eiffel y 029 Maratón tienen de 0 a 2 visitas tras 12-36 h. No es el tema (Wojtek es casi igual que Napoleón, que va el primero): parece un problema de distribución o de visibilidad de esos videos, y conviene revisarlo en YouTube Studio. No los cuento como señal.
 
-## Qué funciona (provisional)
-- **Animales protagonistas** + **giro absurdo en el título** (humanos vs. animales, "… y perdió").
-- Título con estructura de historia (sujeto + acción + giro tras "…"), no un dato frío.
+## Qué funciona
+- **Personaje o país famoso humillado o vencido por un animal**, con el giro tras "…" (Napoleón/conejos, Australia/emús). Es el patrón claramente ganador.
+- **Animal con hazaña o superpoder** (tardígrados).
+- **Supervivencia increíble de una persona** (Yamaguchi) funciona aceptable.
 
 ## Qué no
-- Comparaciones/datos sueltos sin protagonista (Cleopatra) rinden mucho menos.
+- Dato o comparación sin protagonista ni acción (Cleopatra).
+- Guerra absurda sin animales (pasteles) rinde a medias.
 
-## Qué hago distinto hoy (038-045)
-- 5 en la línea ganadora: animales e historias con giro (gato Sam de los tres naufragios, Hachiko, la guerra del cerdo de 1859, la paloma Cher Ami, la guerra del cubo de Módena). Títulos con "…" y remate.
-- 3 pruebas: paleta **espacio** (seguro de vida del Apolo 11), **comida** con mito desmontado (zanahorias y el radar) y título en **pregunta** (médico que se bebió bacterias, paleta cuerpo).
-- Próxima vez: comparar a 24-48 h por paleta y estilo de título, y revisar si los videos con 0 visitas siguen así.
+## Qué hago distinto hoy (046-053)
+- 5 en la línea ganadora, con animal protagonista que vence o deja en ridículo a humanos, y título "X… y giro": Pickles, el perro que encontró la Copa del Mundo robada; Stubby, el perro callejero condecorado; Simon, el gato con medalla de guerra; los dos cerdos fugitivos de Tamworth; Violet Jessop, la superviviente del Titanic y sus dos gemelos (supervivencia, como Yamaguchi).
+- 3 pruebas: **espacio** con humor (sándwich de contrabando en Gemini 3), **cuerpo** con título en **pregunta + cifra** (hipo de 68 años) y **comida** con final absurdo (inventor enterrado en un bote de Pringles).
+- Próxima vez: comprobar si las paletas espacio/cuerpo/comida (043-045, 051-053) se acercan a las de animales y si los videos a 0 visitas siguen así.

@@ -1,0 +1,188 @@
+{
+ "id": "051-el-sandwich-espacial",
+ "titulo": "Un astronauta coló un sándwich en el espacio… y acabó en el Congreso 🥪🚀",
+ "descripcion": "1965, misión Gemini 3: en mitad del vuelo, John Young sacó un sándwich de carne escondido en el traje. Las migas flotaron y la broma llegó a los políticos.",
+ "hashtags": [
+  "#espacio",
+  "#nasa",
+  "#astronautas",
+  "#historia",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "gemini 3",
+  "john young",
+  "gus grissom",
+  "sándwich espacial",
+  "nasa"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "SÁNDWICH DE CONTRABANDO",
+  "emojis": [
+   "🥪",
+   "🚀"
+  ]
+ },
+ "nota_veracidad": "Documentado: el 23 de marzo de 1965, en la misión Gemini 3, John Young sacó un sándwich de corned beef (carne en conserva) que el astronauta Wally Schirra había comprado en un restaurante de Cocoa Beach. Se lo ofreció a Gus Grissom, que dio un bocado; las migas empezaron a flotar y lo guardaron. El episodio se discutió en una comisión de la Cámara de Representantes y la NASA reprendió a Young. Las migas en la nave eran un riesgo real para los equipos.",
+ "fuentes": [
+  "NASA History Office: Gemini 3 mission (1965)",
+  "Smithsonian National Air and Space Museum: 'The Corned Beef Sandwich'"
+ ],
+ "claves": [
+  "sándwich",
+  "espacio",
+  "astronauta",
+  "migas",
+  "nasa",
+  "escondido",
+  "congreso",
+  "gemini"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil novecientos sesenta y cinco, un astronauta metió un sándwich de contrabando en el espacio.",
+   "tipo": "fecha",
+   "anio": "1965",
+   "emojis": [
+    "🥪",
+    "🚀"
+   ],
+   "fondo": "noche",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "La misión se llamaba Gemini tres. Dos astronautas, Gus Grissom y John Young, en una nave diminuta.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚀",
+    "👨‍🚀"
+   ],
+   "rotulo": "Gemini 3",
+   "fondo": "noche",
+   "personajes": [
+    "explorador",
+    "explorador"
+   ]
+  },
+  {
+   "texto": "La comida espacial de entonces era horrible: cubitos secos y purés en tubos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧊",
+    "🧴"
+   ],
+   "rotulo": "Menú espacial",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Antes del despegue, otro astronauta compró un sándwich de carne en un restaurante. Y Young lo escondió en su traje.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥪",
+    "🤫"
+   ],
+   "rotulo": "Escondido",
+   "fondo": "ciudad",
+   "personajes": [
+    "explorador"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "En pleno vuelo, Young lo sacó y se lo ofreció a su compañero.",
+   "tipo": "sello",
+   "emojis": [
+    "🥪"
+   ],
+   "sello": "¡Sorpresa!",
+   "fondo": "noche",
+   "personajes": [
+    "explorador",
+    "explorador"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Grissom le dio un mordisco… y las migas empezaron a flotar por toda la nave.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥪",
+    "✨"
+   ],
+   "rotulo": "Migas flotantes",
+   "fondo": "noche",
+   "personajes": [
+    "explorador"
+   ]
+  },
+  {
+   "texto": "Eso era peligroso: una miga podía meterse en los aparatos. Lo guardaron rápido.",
+   "tipo": "versus",
+   "emojis": [
+    "🥪",
+    "🖥️"
+   ],
+   "rotulos": [
+    "Migas",
+    "Aparatos"
+   ],
+   "rotulo": "Riesgo",
+   "fondo": "noche"
+  },
+  {
+   "texto": "Al volver, la historia llegó al Congreso de Estados Unidos. Los políticos pidieron explicaciones.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️",
+    "😠"
+   ],
+   "rotulo": "Escándalo",
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "noble"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "La NASA regañó a Young y prometió que no volvería a pasar.",
+   "tipo": "emoji",
+   "emojis": [
+    "📜",
+    "🚫"
+   ],
+   "rotulo": "Regañado",
+   "fondo": "laboratorio",
+   "personajes": [
+    "oficial",
+    "explorador"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Pero no le afectó: Young voló seis veces al espacio y llegó a caminar por la Luna.",
+   "tipo": "numero",
+   "valor": "6",
+   "unidad": "viajes al espacio",
+   "emojis": [
+    "🌕"
+   ],
+   "fondo": "noche",
+   "personajes": [
+    "explorador"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

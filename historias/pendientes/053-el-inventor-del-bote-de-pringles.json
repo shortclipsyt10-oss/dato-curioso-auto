@@ -1,0 +1,188 @@
+{
+ "id": "053-el-inventor-del-bote-de-pringles",
+ "titulo": "El inventor del bote de Pringles fue enterrado… dentro de uno 🥫",
+ "descripcion": "Fredric Baur diseñó el famoso tubo de patatas en los años sesenta. Antes de morir pidió algo muy raro, y su familia cumplió.",
+ "hashtags": [
+  "#comida",
+  "#inventos",
+  "#pringles",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "fredric baur",
+  "pringles",
+  "inventor",
+  "bote de pringles",
+  "procter & gamble"
+ ],
+ "paleta": "comida",
+ "miniatura": {
+  "texto": "ENTERRADO EN SU INVENTO",
+  "emojis": [
+   "🥫",
+   "🥔"
+  ]
+ },
+ "nota_veracidad": "Documentado: Fredric J. Baur, químico de Procter & Gamble, diseñó el envase tubular de Pringles (patente solicitada en 1966 y concedida en 1970). Murió en mayo de 2008 a los 89 años y, como había pedido, parte de sus cenizas se enterró en un bote de Pringles en un cementerio de Springfield Township (Cincinnati). Su hijo contó que, de camino al funeral, dudaron qué sabor elegir y escogieron el original.",
+ "fuentes": [
+  "TIME (2008): 'Pringles Can Designer Buried in Pringles Can'",
+  "Associated Press (junio de 2008)"
+ ],
+ "claves": [
+  "pringles",
+  "bote",
+  "inventor",
+  "patatas",
+  "cenizas",
+  "sabor",
+  "tubo",
+  "enterrado"
+ ],
+ "escenas": [
+  {
+   "texto": "El hombre que inventó el bote de Pringles fue enterrado… dentro de un bote de Pringles.",
+   "tipo": "sello",
+   "emojis": [
+    "🥫"
+   ],
+   "sello": "¡En serio!",
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Se llamaba Fredric Baur y era químico en una gran empresa de Estados Unidos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧪",
+    "👨‍🔬"
+   ],
+   "rotulo": "Fredric Baur",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "En los años sesenta, las patatas fritas tenían un problema: en la bolsa se rompían y llegaban aplastadas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥔",
+    "💔"
+   ],
+   "rotulo": "El problema",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Su idea: patatas todas iguales, curvadas, apiladas una encima de otra… dentro de un tubo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥔",
+    "🥫"
+   ],
+   "rotulo": "La idea",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Patentó el diseño en mil novecientos setenta. Ese bote acabó en supermercados de todo el mundo.",
+   "tipo": "fecha",
+   "anio": "1970",
+   "emojis": [
+    "🥫"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Fredric estaba tan orgulloso que le hizo una petición a su familia.",
+   "tipo": "emoji",
+   "emojis": [
+    "👴",
+    "💬"
+   ],
+   "rotulo": "Una petición",
+   "fondo": "pueblo",
+   "personajes": [
+    "anciano",
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Cuando muriera, quería que guardaran sus cenizas en un bote de Pringles.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥫",
+    "🕊️"
+   ],
+   "rotulo": "Su último deseo",
+   "fondo": "pueblo",
+   "personajes": [
+    "anciano"
+   ]
+  },
+  {
+   "texto": "En dos mil ocho murió, a los ochenta y nueve años. Y sus hijos cumplieron su deseo.",
+   "tipo": "fecha",
+   "anio": "2008",
+   "emojis": [
+    "🥫"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "hombre",
+    "mujer"
+   ]
+  },
+  {
+   "texto": "De camino al funeral, pararon en una tienda. Su hijo contó que dudaron qué sabor elegir.",
+   "tipo": "lista",
+   "items": [
+    [
+     "🧀",
+     "¿Queso?"
+    ],
+    [
+     "🧅",
+     "¿Cebolla?"
+    ],
+    [
+     "🥔",
+     "¿Original?"
+    ]
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Al final eligieron el original. Parte de sus cenizas descansa dentro de su propio invento.",
+   "tipo": "sello",
+   "emojis": [
+    "🥫",
+    "🥔"
+   ],
+   "sello": "Original",
+   "fondo": "pueblo",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

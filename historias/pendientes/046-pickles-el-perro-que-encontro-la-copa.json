@@ -1,0 +1,182 @@
+{
+ "id": "046-pickles-el-perro-que-encontro-la-copa",
+ "titulo": "Robaron la Copa del Mundo… y la encontró un perro 🐕🏆",
+ "descripcion": "Londres, 1966: alguien roba el trofeo del Mundial a cuatro meses del torneo. Toda la policía lo busca. Lo encuentra un perro llamado Pickles.",
+ "hashtags": [
+  "#historia",
+  "#futbol",
+  "#mundial",
+  "#perros",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "pickles",
+  "copa jules rimet",
+  "mundial 1966",
+  "perro",
+  "robo"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "LA ENCONTRÓ UN PERRO",
+  "emojis": [
+   "🐕",
+   "🏆"
+  ]
+ },
+ "nota_veracidad": "Hecho documentado: la Copa Jules Rimet fue robada el 20 de marzo de 1966 de una exposición en el Central Hall de Westminster y el perro Pickles la encontró el 27 de marzo en Beulah Hill (sur de Londres) mientras paseaba con David Corbett. Corbett recibió una recompensa de unas 5.000-6.000 libras. Pickles fue invitado a la celebración del título; lo de lamer los platos es anécdota contada después ('según cuentan').",
+ "fuentes": [
+  "BBC News (2016): 'Pickles the dog and the stolen World Cup'",
+  "The Guardian (2006): 'The dog that found the World Cup'"
+ ],
+ "claves": [
+  "copa",
+  "mundo",
+  "robada",
+  "pickles",
+  "perro",
+  "policía",
+  "inglaterra",
+  "periódico"
+ ],
+ "escenas": [
+  {
+   "texto": "La Copa del Mundo de fútbol desapareció, y no la encontró la policía. La encontró un perro.",
+   "tipo": "sello",
+   "emojis": [
+    "🏆"
+   ],
+   "sello": "¡Robada!",
+   "fondo": "ciudad"
+  },
+  {
+   "texto": "Londres, mil novecientos sesenta y seis. Faltaban cuatro meses para el Mundial de Inglaterra.",
+   "tipo": "fecha",
+   "anio": "1966",
+   "emojis": [
+    "⚽"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "El trofeo estaba en una exposición. Un domingo, alguien abrió la vitrina y se lo llevó.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏆",
+    "🕵️"
+   ],
+   "rotulo": "Vitrina vacía",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Inglaterra hizo el ridículo ante el mundo. Cientos de policías buscaron por toda la ciudad.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚓",
+    "🔎"
+   ],
+   "rotulo": "Busca y captura",
+   "fondo": "ciudad",
+   "personajes": [
+    "oficial",
+    "oficial"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Una semana después, un hombre llamado David salió a pasear con su perro, Pickles.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕"
+   ],
+   "rotulo": "Pickles",
+   "fondo": "pueblo",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Pickles se puso a olfatear un paquete envuelto en periódico, junto a un seto.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "📰"
+   ],
+   "rotulo": "¿Qué es eso?",
+   "fondo": "pueblo",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "David rompió el papel… y vio la Copa del Mundo.",
+   "tipo": "sello",
+   "emojis": [
+    "🏆"
+   ],
+   "sello": "¡Encontrada!",
+   "fondo": "pueblo",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Al principio, la policía hasta sospechó de David. Pero era inocente: solo paseaba al perro.",
+   "tipo": "emoji",
+   "emojis": [
+    "👮",
+    "🤔"
+   ],
+   "rotulo": "Sospechoso",
+   "fondo": "ciudad",
+   "personajes": [
+    "oficial",
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Recibió una recompensa enorme, y Pickles se hizo famoso en toda Inglaterra.",
+   "tipo": "numero",
+   "valor": "6.000",
+   "unidad": "libras de recompensa",
+   "emojis": [
+    "💰"
+   ],
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "En julio, Inglaterra ganó el Mundial. Y Pickles fue invitado a la fiesta. Según cuentan, lamió los platos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "🍽️"
+   ],
+   "rotulo": "Invitado de honor",
+   "fondo": "palacio",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

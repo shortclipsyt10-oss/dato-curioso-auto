@@ -1,0 +1,183 @@
+{
+ "id": "047-stubby-el-perro-sargento",
+ "titulo": "Era un perro callejero… y acabó condecorado en la guerra 🐕🎖️",
+ "descripcion": "Un perro sin dueño se coló en un campamento militar en 1917. Terminó en las trincheras de Francia, avisando de ataques con gas y conociendo a tres presidentes.",
+ "hashtags": [
+  "#historia",
+  "#perros",
+  "#primeraguerramundial",
+  "#animales",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "sargento stubby",
+  "perro soldado",
+  "primera guerra mundial",
+  "smithsonian"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "PERRO SARGENTO",
+  "emojis": [
+   "🐕",
+   "🎖️"
+  ]
+ },
+ "nota_veracidad": "Documentado: Stubby apareció en el campus de Yale (New Haven) en 1917, lo adoptó el cabo James Robert Conroy y viajó de polizón a Francia con el regimiento 102 de infantería. Participó en 17 combates, fue herido, avisaba de ataques con gas y conoció a los presidentes Wilson, Harding y Coolidge. Su cuerpo está en el Museo Nacional de Historia Estadounidense (Smithsonian). El rango de 'sargento' fue honorífico, no oficial, y la captura de un espía alemán procede de relatos de la época: por eso va como 'dicen que' con escena de duda.",
+ "fuentes": [
+  "Smithsonian National Museum of American History: 'Stubby the Military Mascot'",
+  "Smithsonian Magazine (2014): 'The Dog Who Became a Sergeant'"
+ ],
+ "claves": [
+  "stubby",
+  "perro",
+  "callejero",
+  "gas",
+  "trincheras",
+  "sargento",
+  "presidentes",
+  "espía"
+ ],
+ "escenas": [
+  {
+   "texto": "Un perro callejero acabó en la guerra… y volvió como héroe con medallas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "🎖️"
+   ],
+   "rotulo": "De la calle a la guerra",
+   "fondo": "campo",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Estados Unidos, mil novecientos diecisiete. Un perrito sin dueño se coló en un campamento de soldados.",
+   "tipo": "fecha",
+   "anio": "1917",
+   "emojis": [
+    "🐕"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Un soldado llamado Robert lo adoptó y lo llamó Stubby. Hasta le enseñó a saludar con la pata.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "🫡"
+   ],
+   "rotulo": "Stubby",
+   "fondo": "campo",
+   "personajes": [
+    "soldado"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Cuando el regimiento partió hacia Francia, Robert lo escondió en el barco.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚢",
+    "🐕"
+   ],
+   "rotulo": "De polizón",
+   "fondo": "mar",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "En las trincheras, Stubby olía el gas venenoso antes que nadie y despertaba a los soldados.",
+   "tipo": "emoji",
+   "emojis": [
+    "☁️",
+    "🐕"
+   ],
+   "rotulo": "Alarma de gas",
+   "fondo": "campo",
+   "personajes": [
+    "soldado",
+    "soldado"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "También buscaba a los heridos entre el barro y ladraba hasta que alguien llegaba.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐕",
+    "🩹"
+   ],
+   "rotulo": "Rescatador",
+   "fondo": "campo",
+   "personajes": [
+    "medico",
+    "soldado"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Dicen que una vez atrapó a un espía enemigo mordiéndole los pantalones.",
+   "tipo": "duda",
+   "emojis": [
+    "🐕",
+    "👖"
+   ],
+   "sello": "¿LEYENDA?",
+   "fondo": "campo",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Combatió en diecisiete batallas y fue herido por una granada. Se recuperó y volvió al frente.",
+   "tipo": "numero",
+   "valor": "17",
+   "unidad": "batallas",
+   "emojis": [
+    "🐕"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "soldado"
+   ]
+  },
+  {
+   "texto": "Al volver, lo llamaron sargento Stubby. Conoció a tres presidentes de Estados Unidos.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "presidentes",
+   "emojis": [
+    "🎖️"
+   ],
+   "fondo": "palacio",
+   "personajes": [
+    "general",
+    "soldado"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Hoy, Stubby está en un museo de Washington, con su abrigo lleno de medallas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️",
+    "🐕"
+   ],
+   "rotulo": "Héroe de cuatro patas",
+   "fondo": "palacio"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

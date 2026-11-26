@@ -1,0 +1,182 @@
+{
+ "id": "050-violet-jessop-la-insumergible",
+ "titulo": "Sobrevivió al Titanic… y a sus dos barcos gemelos 🚢",
+ "descripcion": "Una azafata nacida en Argentina estuvo en los tres barcos gemelos de la naviera White Star. Los tres sufrieron accidentes. Ella sobrevivió a todos.",
+ "hashtags": [
+  "#historia",
+  "#titanic",
+  "#barcos",
+  "#argentina",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "violet jessop",
+  "titanic",
+  "olympic",
+  "britannic",
+  "miss insumergible"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "SOBREVIVIÓ A LOS TRES",
+  "emojis": [
+   "🚢",
+   "🛟"
+  ]
+ },
+ "nota_veracidad": "Documentado: Violet Jessop (Bahía Blanca, Argentina, 1887 – 1971) trabajó como camarera en el RMS Olympic cuando chocó con el crucero HMS Hawke (1911), sobrevivió al hundimiento del Titanic en el bote 16 (1912) y, como enfermera, al del HMS Britannic tras chocar con una mina en el Egeo (1916). Lo del bebé que le entregaron en el bote y el golpe en la cabeza al saltar del bote en el Britannic proceden de sus memorias, por eso se cuentan como 'según contó ella'. El Titanic fue una tragedia con unas 1.500 víctimas; se menciona con respeto.",
+ "fuentes": [
+  "Violet Jessop, 'Titanic Survivor' (memorias, ed. John Maxtone-Graham, 1997)",
+  "Encyclopedia Titanica: Miss Violet Constance Jessop"
+ ],
+ "claves": [
+  "violet",
+  "titanic",
+  "olympic",
+  "britannic",
+  "sobrevivió",
+  "barcos",
+  "insumergible",
+  "argentina"
+ ],
+ "escenas": [
+  {
+   "texto": "Violet Jessop sobrevivió al Titanic. Y también a los accidentes de sus dos barcos gemelos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚢",
+    "🚢",
+    "🚢"
+   ],
+   "rotulo": "Tres barcos",
+   "fondo": "mar",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Había nacido en Argentina, en Bahía Blanca. De joven empezó a trabajar como camarera en grandes barcos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🇦🇷",
+    "🚢"
+   ],
+   "rotulo": "Violet",
+   "fondo": "mar",
+   "personajes": [
+    "mujer"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "En mil novecientos once trabajaba en el Olympic, el barco gemelo del Titanic. Chocó contra un buque de guerra.",
+   "tipo": "fecha",
+   "anio": "1911",
+   "emojis": [
+    "💥"
+   ],
+   "fondo": "mar",
+   "personajes": [
+    "mujer",
+    "marinero"
+   ]
+  },
+  {
+   "texto": "El Olympic resistió y Violet salió ilesa. Primer accidente.",
+   "tipo": "sello",
+   "emojis": [
+    "🚢"
+   ],
+   "sello": "Uno",
+   "fondo": "mar",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Al año siguiente se subió al barco más famoso del mundo: el Titanic.",
+   "tipo": "fecha",
+   "anio": "1912",
+   "emojis": [
+    "🚢",
+    "🧊"
+   ],
+   "fondo": "noche",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Esa noche murieron unas mil quinientas personas. Violet logró subir a un bote salvavidas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛟",
+    "🌊"
+   ],
+   "rotulo": "Bote 16",
+   "fondo": "noche",
+   "personajes": [
+    "mujer"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Según contó ella, en el bote le pusieron un bebé en brazos para que lo cuidara. Segundo accidente.",
+   "tipo": "sello",
+   "emojis": [
+    "👶"
+   ],
+   "sello": "Dos",
+   "fondo": "noche",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Durante la Primera Guerra Mundial, fue enfermera en el tercer gemelo, el Britannic. Chocó con una mina.",
+   "tipo": "fecha",
+   "anio": "1916",
+   "emojis": [
+    "💣",
+    "🚢"
+   ],
+   "fondo": "mar",
+   "personajes": [
+    "mujer",
+    "medico"
+   ]
+  },
+  {
+   "texto": "Violet saltó al agua, se golpeó la cabeza… y aun así sobrevivió. Tercer accidente.",
+   "tipo": "sello",
+   "emojis": [
+    "🌊",
+    "🤕"
+   ],
+   "sello": "Tres",
+   "fondo": "mar",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "La llamaron la señorita insumergible. Siguió navegando muchos años y vivió hasta los ochenta y tres.",
+   "tipo": "emoji",
+   "emojis": [
+    "🛟",
+    "👵"
+   ],
+   "rotulo": "La insumergible",
+   "fondo": "pueblo",
+   "personajes": [
+    "anciano"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

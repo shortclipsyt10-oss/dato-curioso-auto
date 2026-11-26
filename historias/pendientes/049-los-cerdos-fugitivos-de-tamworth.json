@@ -1,0 +1,175 @@
+{
+ "id": "049-los-cerdos-fugitivos-de-tamworth",
+ "titulo": "Dos cerdos escaparon del matadero… y todo el país quiso salvarlos 🐷🐷",
+ "descripcion": "Inglaterra, 1998: dos cerdos huyen del matadero, cruzan un río a nado y se esconden una semana. La prensa enloqueció.",
+ "hashtags": [
+  "#historia",
+  "#cerdos",
+  "#animales",
+  "#inglaterra",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tamworth two",
+  "cerdos fugitivos",
+  "malmesbury",
+  "butch y sundance"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "¡SE ESCAPARON!",
+  "emojis": [
+   "🐷",
+   "🏃"
+  ]
+ },
+ "nota_veracidad": "Documentado: en enero de 1998 dos cerdos de raza Tamworth escaparon de un matadero en Malmesbury (Wiltshire, Inglaterra), cruzaron el río Avon y pasaron alrededor de una semana escondidos en jardines y matorrales. La prensa los bautizó Butch y Sundance; un periódico los compró y vivieron en un centro de razas raras de Kent hasta morir de viejos (2010 y 2011). La BBC hizo un telefilme en 2004.",
+ "fuentes": [
+  "BBC News (1998): 'Tamworth Two' cobertura de la fuga",
+  "BBC News (2011): 'Tamworth Two pig Sundance dies'"
+ ],
+ "claves": [
+  "cerdos",
+  "escaparon",
+  "matadero",
+  "río",
+  "periodistas",
+  "semana",
+  "famosos",
+  "salvados"
+ ],
+ "escenas": [
+  {
+   "texto": "Dos cerdos escaparon del matadero, y se convirtieron en los fugitivos más famosos de Inglaterra.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐷",
+    "🐷"
+   ],
+   "rotulo": "Fugitivos",
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "Mil novecientos noventa y ocho, en un pueblo inglés llamado Malmesbury. Un camión descargaba cerdos en el matadero.",
+   "tipo": "fecha",
+   "anio": "1998",
+   "emojis": [
+    "🚚",
+    "🐷"
+   ],
+   "fondo": "pueblo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "De repente, dos de ellos se colaron por un hueco de la valla y echaron a correr.",
+   "tipo": "sello",
+   "emojis": [
+    "🐷",
+    "🐷"
+   ],
+   "sello": "¡Se escapan!",
+   "fondo": "pueblo",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Llegaron a un río helado… y lo cruzaron nadando.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐷",
+    "🌊"
+   ],
+   "rotulo": "A nado",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Después desaparecieron entre jardines y matorrales. Nadie conseguía atraparlos.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌳",
+    "🐷"
+   ],
+   "rotulo": "Escondidos",
+   "fondo": "campo",
+   "personajes": [
+    "granjero",
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "La noticia corrió como la pólvora. Llegaron periodistas de todo el mundo, hasta en helicóptero.",
+   "tipo": "emoji",
+   "emojis": [
+    "📸",
+    "🚁"
+   ],
+   "rotulo": "Locura mediática",
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ]
+  },
+  {
+   "texto": "La prensa los bautizó como dos famosos forajidos del cine: Butch y Sundance.",
+   "tipo": "versus",
+   "emojis": [
+    "🐷",
+    "🐷"
+   ],
+   "rotulos": [
+    "Butch",
+    "Sundance"
+   ],
+   "rotulo": "Los forajidos",
+   "fondo": "campo"
+  },
+  {
+   "texto": "Pasaron alrededor de una semana libres, hasta que por fin los atraparon.",
+   "tipo": "numero",
+   "valor": "7",
+   "unidad": "días en fuga",
+   "emojis": [
+    "🐷"
+   ],
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Pero para entonces, todo el país estaba de su parte. Nadie quería que volvieran al matadero.",
+   "tipo": "emoji",
+   "emojis": [
+    "❤️",
+    "🐷"
+   ],
+   "rotulo": "Todos con ellos",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Un periódico los compró y los llevó a una granja. Vivieron más de doce años, hasta morir de viejos.",
+   "tipo": "sello",
+   "emojis": [
+    "🐷",
+    "🏡"
+   ],
+   "sello": "¡Salvados!",
+   "fondo": "campo",
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

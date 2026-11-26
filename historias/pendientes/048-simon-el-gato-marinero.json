@@ -1,0 +1,183 @@
+{
+ "id": "048-simon-el-gato-marinero",
+ "titulo": "El gato que ganó una medalla de guerra… cazando ratas 🐱🎖️",
+ "descripcion": "1949: un barco británico queda atrapado meses en un río de China. Las ratas atacan la comida. El héroe fue un gato llamado Simon.",
+ "hashtags": [
+  "#historia",
+  "#gatos",
+  "#animales",
+  "#barcos",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "simon",
+  "gato",
+  "hms amethyst",
+  "medalla dickin",
+  "yangtsé"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "GATO CON MEDALLA",
+  "emojis": [
+   "🐱",
+   "🎖️"
+  ]
+ },
+ "nota_veracidad": "Documentado: Simon, gato del buque británico HMS Amethyst, fue herido por metralla cuando el barco fue atacado en el río Yangtsé en abril de 1949 (incidente del Yangtsé, durante la guerra civil china). El barco quedó retenido unos tres meses; Simon cazaba las ratas que atacaban las provisiones. Recibió la Medalla Dickin (es el único gato con ella) y murió en noviembre de 1949, enterrado en el cementerio de animales de la PDSA en Ilford. El ataque causó víctimas en la tripulación, por eso se menciona con tono sobrio.",
+ "fuentes": [
+  "PDSA: 'Simon – Dickin Medal' (1949)",
+  "National Army Museum / Royal Navy: The Yangtze Incident (1949)"
+ ],
+ "claves": [
+  "simon",
+  "gato",
+  "barco",
+  "ratas",
+  "medalla",
+  "atrapado",
+  "río",
+  "marineros"
+ ],
+ "escenas": [
+  {
+   "texto": "El único gato del mundo con una medalla de guerra la ganó… cazando ratas.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🎖️"
+   ],
+   "rotulo": "Gato condecorado",
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ]
+  },
+  {
+   "texto": "Hong Kong, mil novecientos cuarenta y ocho. Un marinero encontró un gatito flaco en el puerto y lo subió al barco.",
+   "tipo": "fecha",
+   "anio": "1948",
+   "emojis": [
+    "🐱"
+   ],
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Lo llamaron Simon. Dormía en la gorra del capitán y cazaba ratones por todo el barco.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🧢"
+   ],
+   "rotulo": "Simon",
+   "fondo": "mar",
+   "personajes": [
+    "oficial",
+    "marinero"
+   ]
+  },
+  {
+   "texto": "Al año siguiente, el barco navegaba por un río de China en plena guerra, y fue atacado.",
+   "tipo": "sello",
+   "emojis": [
+    "💥",
+    "🚢"
+   ],
+   "sello": "¡Atacados!",
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ]
+  },
+  {
+   "texto": "Simon quedó herido por la metralla. Los marineros pensaron que no sobreviviría.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🩹"
+   ],
+   "rotulo": "Herido",
+   "fondo": "mar",
+   "personajes": [
+    "medico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "El barco quedó atrapado en el río durante unos tres meses. Y llegó otro enemigo: las ratas.",
+   "tipo": "numero",
+   "valor": "3",
+   "unidad": "meses atrapados",
+   "emojis": [
+    "🐀"
+   ],
+   "fondo": "mar"
+  },
+  {
+   "texto": "Las ratas se comían la comida. Si seguían así, la tripulación pasaría hambre.",
+   "tipo": "versus",
+   "emojis": [
+    "🐀",
+    "🥖"
+   ],
+   "rotulos": [
+    "Ratas",
+    "Comida"
+   ],
+   "rotulo": "Peligro",
+   "fondo": "mar"
+  },
+  {
+   "texto": "Pero Simon se recuperó, y se puso a cazar. Una rata tras otra.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🐀"
+   ],
+   "rotulo": "A cazar",
+   "fondo": "mar",
+   "personajes": [
+    "marinero"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "También visitaba a los heridos. Decían que les subía el ánimo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "❤️"
+   ],
+   "rotulo": "Enfermero",
+   "fondo": "mar",
+   "personajes": [
+    "marinero",
+    "medico"
+   ]
+  },
+  {
+   "texto": "Cuando escaparon, Simon recibió la Medalla Dickin, la de los animales héroes. Es el único gato que la tiene.",
+   "tipo": "sello",
+   "emojis": [
+    "🎖️",
+    "🐱"
+   ],
+   "sello": "¡Héroe!",
+   "fondo": "palacio",
+   "personajes": [
+    "marinero",
+    "oficial"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}
