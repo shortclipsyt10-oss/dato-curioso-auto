@@ -1,0 +1,171 @@
+{
+ "id": "059-la-nave-perdida-por-un-error-de-unidades",
+ "titulo": "La NASA perdió una nave de 125 millones… por un error de unidades 🚀📏",
+ "descripcion": "En 1999 una sonda viajó casi un año hasta Marte y se perdió justo al llegar. El motivo: un equipo usaba unidades inglesas y el otro, el sistema métrico.",
+ "hashtags": [
+  "#espacio",
+  "#nasa",
+  "#marte",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "mars climate orbiter",
+  "nasa",
+  "error de unidades",
+  "marte"
+ ],
+ "paleta": "espacio",
+ "miniatura": {
+  "texto": "ERROR DE UNIDADES",
+  "emojis": [
+   "🚀",
+   "📏"
+  ]
+ },
+ "nota_veracidad": "Documentado: la Mars Climate Orbiter despegó en diciembre de 1998 y se perdió el 23 de septiembre de 1999. El informe de la NASA concluyó que el software de Lockheed Martin daba los impulsos de los propulsores en libras-fuerza por segundo y el equipo de navegación del JPL los esperaba en newton por segundo. La nave pasó a unos 57 km de la superficie en vez de unos 150 y se destruyó o salió despedida. El coste de la nave fue de unos 125 millones de dólares.",
+ "fuentes": [
+  "NASA (1999), Mars Climate Orbiter Mishap Investigation Board Phase I Report",
+  "NASA JPL: 'Mars Climate Orbiter'"
+ ],
+ "claves": [
+  "marte",
+  "nasa",
+  "unidades",
+  "sistema métrico",
+  "sonda",
+  "error",
+  "kilómetros"
+ ],
+ "escenas": [
+  {
+   "texto": "La NASA perdió una nave de ciento veinticinco millones de dólares por un error de unidades.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚀",
+    "📏"
+   ],
+   "rotulo": "Un error carísimo",
+   "fondo": "noche",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Diciembre de mil novecientos noventa y ocho. Despega la sonda Mars Climate Orbiter rumbo a Marte.",
+   "tipo": "fecha",
+   "emojis": [
+    "🚀"
+   ],
+   "anio": "1998",
+   "fondo": "noche",
+   "personajes": [
+    "cientifico",
+    "multitud"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Su misión: estudiar el clima marciano. Viajó casi diez meses por el espacio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔴",
+    "🛰️"
+   ],
+   "rotulo": "Rumbo a Marte",
+   "fondo": "noche"
+  },
+  {
+   "texto": "Pero había un problema escondido. La empresa que fabricó la nave calculaba en libras y pies, unidades inglesas.",
+   "tipo": "emoji",
+   "emojis": [
+    "📐"
+   ],
+   "rotulo": "Unidades inglesas",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Y el equipo de la NASA que la dirigía esperaba los datos en el sistema métrico.",
+   "tipo": "emoji",
+   "emojis": [
+    "📏"
+   ],
+   "rotulo": "Sistema métrico",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Nadie se dio cuenta. Era como si uno midiera en pulgadas y el otro en centímetros.",
+   "tipo": "versus",
+   "emojis": [
+    "🤷",
+    "🤷"
+   ],
+   "rotulo": "Nadie lo vio",
+   "rotulos": [
+    "Inglesas",
+    "Métrico"
+   ]
+  },
+  {
+   "texto": "Al llegar a Marte, la nave bajó a solo cincuenta y siete kilómetros, en lugar de unos ciento cincuenta.",
+   "tipo": "numero",
+   "emojis": [
+    "🔴"
+   ],
+   "valor": "57",
+   "unidad": "km",
+   "fondo": "noche"
+  },
+  {
+   "texto": "Demasiado cerca. Se perdió el contacto para siempre.",
+   "tipo": "sello",
+   "emojis": [
+    "📡",
+    "❌"
+   ],
+   "sello": "PERDIDA",
+   "fondo": "noche",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Lo más probable es que se destruyera en la atmósfera o saliera disparada al espacio.",
+   "tipo": "emoji",
+   "emojis": [
+    "🔥",
+    "🛰️"
+   ],
+   "rotulo": "Fin de la misión",
+   "fondo": "noche"
+  },
+  {
+   "texto": "Desde entonces, la NASA revisa las unidades con muchísimo cuidado.",
+   "tipo": "emoji",
+   "emojis": [
+    "✅",
+    "📏"
+   ],
+   "rotulo": "Lección aprendida",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico",
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

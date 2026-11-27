@@ -1,0 +1,178 @@
+{
+ "id": "061-el-dia-que-suecia-cambio-de-carril",
+ "titulo": "¿Puede un país entero cambiar de carril en un solo día? Suecia lo hizo 🚗🇸🇪",
+ "descripcion": "En 1967 Suecia pasó de conducir por la izquierda a la derecha en una sola madrugada. Lo más curioso: casi todos habían votado que no.",
+ "hashtags": [
+  "#historia",
+  "#suecia",
+  "#coches",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "dagen h",
+  "suecia",
+  "conducir por la derecha",
+  "1967"
+ ],
+ "paleta": "rareza",
+ "miniatura": {
+  "texto": "TODOS A LA DERECHA",
+  "emojis": [
+   "🚗",
+   "🇸🇪"
+  ]
+ },
+ "nota_veracidad": "Documentado: en el referéndum de 1955 alrededor del 83 % de los votantes suecos rechazó cambiar al lado derecho, pero el Parlamento lo aprobó en 1963 porque los países vecinos conducían por la derecha. El 'Dagen H' fue el domingo 3 de septiembre de 1967: el tráfico no esencial se prohibió de madrugada y a las cinco todos los vehículos pasaron al otro lado. En los meses siguientes bajaron los accidentes (más precaución) y luego volvieron a los niveles habituales.",
+ "fuentes": [
+  "Swedish National Road and Transport Research Institute (VTI)",
+  "BBC News (2017): 'Dagen H: The day Sweden switched sides of the road'",
+  "Sveriges Riksdag, decisión de 1963"
+ ],
+ "claves": [
+  "suecia",
+  "izquierda",
+  "derecha",
+  "referéndum",
+  "madrugada",
+  "coches",
+  "accidentes"
+ ],
+ "escenas": [
+  {
+   "texto": "Un país entero cambió de lado de la carretera en un solo día… aunque casi nadie quería.",
+   "tipo": "emoji",
+   "emojis": [
+    "🚗",
+    "🔄"
+   ],
+   "rotulo": "¿Todos a la vez?",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Suecia, mil novecientos cincuenta y cinco. Allí se conducía por la izquierda, pero sus vecinos lo hacían por la derecha.",
+   "tipo": "fecha",
+   "emojis": [
+    "🇸🇪"
+   ],
+   "anio": "1955",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Se hizo un referéndum para cambiar. Y el resultado fue aplastante.",
+   "tipo": "emoji",
+   "emojis": [
+    "🗳️"
+   ],
+   "rotulo": "Referéndum",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "El ochenta y tres por ciento votó que no.",
+   "tipo": "numero",
+   "emojis": [
+    "👎"
+   ],
+   "valor": "83",
+   "unidad": "% dijo NO",
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ]
+  },
+  {
+   "texto": "Aun así, años después, el Parlamento decidió hacer el cambio igualmente.",
+   "tipo": "sello",
+   "emojis": [
+    "🏛️"
+   ],
+   "sello": "SE HACE",
+   "fondo": "palacio",
+   "personajes": [
+    "noble",
+    "noble"
+   ]
+  },
+  {
+   "texto": "El gran día llegó en mil novecientos sesenta y siete. Lo llamaron Día H.",
+   "tipo": "fecha",
+   "emojis": [
+    "📅"
+   ],
+   "anio": "1967",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "De madrugada, se prohibió circular. Y a las cinco en punto, todos los coches cruzaron al otro carril.",
+   "tipo": "emoji",
+   "emojis": [
+    "⏰",
+    "🚗"
+   ],
+   "rotulo": "5:00 en punto",
+   "fondo": "pueblo_noche",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Hubo que cambiar miles de señales y hasta las puertas de los autobuses.",
+   "tipo": "emoji",
+   "emojis": [
+    "🪧",
+    "🚌"
+   ],
+   "rotulo": "Todo al revés",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "hombre"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "Todos esperaban un caos. Pero pasó lo contrario: los accidentes bajaron.",
+   "tipo": "emoji",
+   "emojis": [
+    "😮",
+    "📉"
+   ],
+   "rotulo": "Menos accidentes",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "La gente conducía con tanto miedo que iba con muchísimo cuidado. Al menos durante un tiempo.",
+   "tipo": "emoji",
+   "emojis": [
+    "😬",
+    "🚗"
+   ],
+   "rotulo": "Miedo útil",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

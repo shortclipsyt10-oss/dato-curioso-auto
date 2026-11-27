@@ -1,0 +1,178 @@
+{
+ "id": "060-tama-la-gata-jefa-de-estacion",
+ "titulo": "Una gata se convirtió en jefa de estación… y salvó una línea de tren 🐱🚉",
+ "descripcion": "En 2007 una estación rural de Japón estaba a punto de quedarse sin tren. Entonces nombraron jefa de estación a una gata, y los turistas empezaron a llegar en masa.",
+ "hashtags": [
+  "#gatos",
+  "#japon",
+  "#animales",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "tama",
+  "gata jefa de estación",
+  "kishi",
+  "japón"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "GATA JEFA DE ESTACIÓN",
+  "emojis": [
+   "🐱",
+   "🚉"
+  ]
+ },
+ "nota_veracidad": "Documentado: la línea Kishigawa (Wakayama, Japón) tenía pérdidas y en 2006 la estación de Kishi se quedó sin personal. En enero de 2007 la empresa Wakayama Electric Railway nombró jefa de estación a Tama, la gata de la dueña de una tienda cercana, con gorra oficial y sueldo en comida. El número de pasajeros subió y un estudio local calculó un impacto económico de unos 1.100 millones de yenes. En 2010 la estación se reconstruyó con forma de cara de gato. Tama murió en 2015 a los 16 años y la nombraron 'jefa de estación honoraria eterna'.",
+ "fuentes": [
+  "Wakayama Electric Railway: 'Tama, estación de Kishi'",
+  "The Japan Times (2015): 'Tama, Wakayama's cat stationmaster, dies at 16'",
+  "BBC News (2015): 'Japan's cat stationmaster dies'"
+ ],
+ "claves": [
+  "tama",
+  "gata",
+  "estación",
+  "jefa",
+  "japón",
+  "tren",
+  "turistas"
+ ],
+ "escenas": [
+  {
+   "texto": "Una línea de tren en Japón iba a cerrar… y la salvó una gata.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🚃"
+   ],
+   "rotulo": "Salvada por una gata",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Japón, dos mil seis. En la pequeña estación de Kishi apenas subía gente al tren.",
+   "tipo": "fecha",
+   "emojis": [
+    "🚉"
+   ],
+   "anio": "2006",
+   "fondo": "pueblo",
+   "personajes": [
+    "anciano"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "La empresa perdía dinero y despidió a todo el personal de la estación.",
+   "tipo": "sello",
+   "emojis": [
+    "💸"
+   ],
+   "sello": "SIN PERSONAL",
+   "fondo": "pueblo"
+  },
+  {
+   "texto": "Pero allí vivía Tama, una gata que dormía junto a las vías y saludaba a los pasajeros.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🛤️"
+   ],
+   "rotulo": "Tama",
+   "fondo": "pueblo",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Al presidente de la empresa se le ocurrió algo: nombrarla jefa de estación.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎩",
+    "🐱"
+   ],
+   "rotulo": "¿Y si…?",
+   "fondo": "pueblo",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Le dieron una gorra oficial y un sueldo pagado en comida de gato.",
+   "tipo": "emoji",
+   "emojis": [
+    "🧢",
+    "🐟"
+   ],
+   "rotulo": "Sueldo: comida",
+   "fondo": "pueblo",
+   "personajes": [
+    "noble",
+    "mujer"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "La noticia corrió por todo Japón. Empezaron a llegar turistas solo para verla.",
+   "tipo": "emoji",
+   "emojis": [
+    "📸",
+    "🐱"
+   ],
+   "rotulo": "Llegan los turistas",
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Según un estudio, Tama atrajo tanto turismo que movió unos mil cien millones de yenes.",
+   "tipo": "numero",
+   "emojis": [
+    "💴"
+   ],
+   "valor": "1.100.000.000",
+   "unidad": "yenes",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Hasta reconstruyeron la estación con forma de cara de gato.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "🏠"
+   ],
+   "rotulo": "La estación gato",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Tama vivió dieciséis años. Hoy es jefa de estación honoraria para siempre, y otra gata ocupa su puesto.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐱",
+    "❤️"
+   ],
+   "rotulo": "Jefa para siempre",
+   "fondo": "pueblo",
+   "personajes": [
+    "multitud"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "id": "055-la-broma-de-los-arboles-de-espaguetis",
+ "titulo": "La BBC dijo que los espaguetis crecían en árboles… y millones lo creyeron 🍝🌳",
+ "descripcion": "En 1957 un programa serio de la BBC mostró a una familia suiza cosechando espaguetis de los árboles. Al día siguiente, cientos de personas llamaron para saber cómo plantarlos.",
+ "hashtags": [
+  "#historia",
+  "#bbc",
+  "#comida",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "árbol de espaguetis",
+  "bbc panorama",
+  "inocentada",
+  "1 de abril"
+ ],
+ "paleta": "comida",
+ "miniatura": {
+  "texto": "ESPAGUETIS EN ÁRBOLES",
+  "emojis": [
+   "🍝",
+   "🌳"
+  ]
+ },
+ "nota_veracidad": "Documentado: el 1 de abril de 1957 el programa Panorama de la BBC, narrado por Richard Dimbleby, emitió un reportaje de unos tres minutos sobre una 'cosecha de espaguetis' en el cantón suizo del Tesino. Se estima que lo vieron unos ocho millones de personas y cientos llamaron a la BBC. La respuesta de la BBC (poner una ramita de espagueti en una lata de salsa de tomate) aparece en las crónicas de la propia BBC y del Museum of Hoaxes.",
+ "fuentes": [
+  "BBC On This Day, 1 de abril de 1957: 'BBC fools the nation'",
+  "Museum of Hoaxes: 'The Swiss Spaghetti Harvest'"
+ ],
+ "claves": [
+  "espaguetis",
+  "árboles",
+  "bbc",
+  "cosecha",
+  "suiza",
+  "llamadas",
+  "abril"
+ ],
+ "escenas": [
+  {
+   "texto": "La televisión más seria del Reino Unido dijo que los espaguetis crecen en los árboles… y millones se lo creyeron.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍝",
+    "🌳"
+   ],
+   "rotulo": "¿En serio?",
+   "fondo": "campo",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Primero de abril de mil novecientos cincuenta y siete. Programa Panorama de la BBC.",
+   "tipo": "fecha",
+   "emojis": [
+    "📺"
+   ],
+   "anio": "1957",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "El presentador, con voz solemne, mostró a una familia suiza recogiendo espaguetis de los árboles.",
+   "tipo": "emoji",
+   "emojis": [
+    "🇨🇭",
+    "🍝"
+   ],
+   "rotulo": "La gran cosecha",
+   "fondo": "campo",
+   "personajes": [
+    "mujer",
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Explicó que ese año la cosecha era excelente, gracias a un invierno suave.",
+   "tipo": "emoji",
+   "emojis": [
+    "☀️",
+    "🌳"
+   ],
+   "rotulo": "Buen año",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "En aquella época, muchos británicos casi nunca habían comido espaguetis.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤔",
+    "🍝"
+   ],
+   "rotulo": "Comida exótica",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Unos ocho millones de personas vieron el reportaje.",
+   "tipo": "numero",
+   "emojis": [
+    "📺"
+   ],
+   "valor": "8.000.000",
+   "unidad": "espectadores",
+   "fondo": "pueblo_noche",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Al día siguiente, cientos de espectadores llamaron a la BBC. Querían saber cómo cultivar su propio árbol.",
+   "tipo": "emoji",
+   "emojis": [
+    "☎️"
+   ],
+   "rotulo": "Llamadas sin parar",
+   "fondo": "ciudad",
+   "personajes": [
+    "mujer",
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Según la BBC, la respuesta fue: pon una ramita de espagueti en una lata de tomate… y espera lo mejor.",
+   "tipo": "emoji",
+   "emojis": [
+    "🥫",
+    "🌱"
+   ],
+   "rotulo": "El consejo",
+   "fondo": "laboratorio",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Era una broma del día de los inocentes en el mundo anglosajón.",
+   "tipo": "sello",
+   "emojis": [
+    "🃏"
+   ],
+   "sello": "¡BROMA!",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Hoy se recuerda como una de las mayores bromas de la historia de la televisión.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏆",
+    "🍝"
+   ],
+   "rotulo": "Broma legendaria",
+   "fondo": "ciudad",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

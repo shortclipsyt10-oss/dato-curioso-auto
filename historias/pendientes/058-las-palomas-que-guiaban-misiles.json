@@ -1,0 +1,182 @@
+{
+ "id": "058-las-palomas-que-guiaban-misiles",
+ "titulo": "Un científico entrenó palomas para guiar misiles… y funcionaba 🕊️🚀",
+ "descripcion": "En plena Segunda Guerra Mundial, el psicólogo B. F. Skinner propuso meter palomas dentro de un misil para que lo dirigieran picoteando una pantalla. Y en las pruebas, acertaban.",
+ "hashtags": [
+  "#historia",
+  "#palomas",
+  "#ciencia",
+  "#segundaguerramundial",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "proyecto paloma",
+  "skinner",
+  "palomas",
+  "segunda guerra mundial"
+ ],
+ "paleta": "animales",
+ "miniatura": {
+  "texto": "PALOMAS PILOTO",
+  "emojis": [
+   "🕊️",
+   "🚀"
+  ]
+ },
+ "nota_veracidad": "Documentado: el Proyecto Pigeon de B. F. Skinner recibió en 1943 unos 25.000 dólares del Comité Nacional de Investigación de Defensa de EE. UU. Las palomas, entrenadas con recompensas de comida, picoteaban la imagen del objetivo en una pantalla dentro del morro de una bomba planeadora. Se canceló en 1944 sin usarse en combate; la Marina lo retomó como Proyecto Orcon (1948-1953) y lo abandonó por la guía electrónica. El prototipo está en el Museo Nacional de Historia Estadounidense.",
+ "fuentes": [
+  "Skinner, B. F. (1960), 'Pigeons in a Pelican', American Psychologist 15(1)",
+  "Smithsonian National Museum of American History: 'Nose Cone, Pigeon-Guided Missile'"
+ ],
+ "claves": [
+  "palomas",
+  "misil",
+  "skinner",
+  "picotear",
+  "pantalla",
+  "guerra",
+  "cancelaron"
+ ],
+ "escenas": [
+  {
+   "texto": "Durante la Segunda Guerra Mundial, un científico quiso que las palomas pilotaran misiles. Y no era broma.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️",
+    "🚀"
+   ],
+   "rotulo": "Palomas piloto",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Estados Unidos, mil novecientos cuarenta y tres. Todavía no existían misiles con guía electrónica precisa.",
+   "tipo": "fecha",
+   "emojis": [
+    "🎯"
+   ],
+   "anio": "1943",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico",
+    "oficial"
+   ]
+  },
+  {
+   "texto": "El psicólogo Burrhus Skinner tenía una idea: las palomas aprenden rápido si se les premia con comida.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️",
+    "🌽"
+   ],
+   "rotulo": "Skinner",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Las entrenó para picotear la imagen de un barco en una pantalla.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️",
+    "🚢"
+   ],
+   "rotulo": "Pico al objetivo",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "El plan: meter tres palomas en el morro del misil. Si el objetivo se movía, ellas picaban y corregían el rumbo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕊️",
+    "🕊️",
+    "🕊️"
+   ],
+   "rotulo": "Tres pilotos",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "El ejército le dio dinero para probarlo: veinticinco mil dólares.",
+   "tipo": "numero",
+   "emojis": [
+    "💵"
+   ],
+   "valor": "25.000",
+   "unidad": "dólares",
+   "fondo": "palacio",
+   "personajes": [
+    "general",
+    "cientifico"
+   ]
+  },
+  {
+   "texto": "Y en las pruebas, las palomas acertaban sorprendentemente bien.",
+   "tipo": "sello",
+   "emojis": [
+    "🎯"
+   ],
+   "sello": "¡FUNCIONA!",
+   "fondo": "laboratorio",
+   "personajes": [
+    "cientifico"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Pero los militares no se fiaban de confiar un arma a unos pájaros.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤨",
+    "🕊️"
+   ],
+   "rotulo": "¿Palomas? No, gracias",
+   "fondo": "palacio",
+   "personajes": [
+    "general",
+    "oficial"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Cancelaron el proyecto en mil novecientos cuarenta y cuatro. Ninguna paloma voló nunca en combate.",
+   "tipo": "emoji",
+   "emojis": [
+    "❌"
+   ],
+   "rotulo": "Cancelado",
+   "fondo": "palacio",
+   "personajes": [
+    "general"
+   ]
+  },
+  {
+   "texto": "Hoy el morro con su cabina para palomas se exhibe en un museo de Washington.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️",
+    "🕊️"
+   ],
+   "rotulo": "Al museo",
+   "fondo": "palacio",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,26 +1,39 @@
-# Aprendizajes (actualizado 2026-11-26)
+# Aprendizajes (actualizado 2026-11-27)
 
 ## Datos disponibles
-- Medición del 26/11 10:34 UTC. 14 videos subidos; 12 con más de 12 h y 10 con más de 15 h.
-- Ranking (visitas/hora, solo con 20 h o más):
-  1. 003 Napoleón derrotado… por conejos: **58/h** (1.198 visitas, 55 likes, el mejor ratio de likes, 4,6 %).
-  2. 001 Guerra del Emú: 32/h (1.238 visitas).
-  3. 007 Tardígrados: 29/h (1.339 visitas).
-  4. 013 Yamaguchi, dos bombas atómicas: 22/h (519).
-  5. 012 Guerra de los pasteles: 12/h (316).
-  6. 008 Cleopatra e iPhone: 8/h (366), el peor de los que sí se distribuyen.
-- **Anomalía:** 002 Wojtek, 004 Baile 1518, 005 Pulpo, 006 Miel, 026 Isla de los Faisanes, 028 Torre Eiffel y 029 Maratón tienen de 0 a 2 visitas tras 12-36 h. No es el tema (Wojtek es casi igual que Napoleón, que va el primero): parece un problema de distribución o de visibilidad de esos videos, y conviene revisarlo en YouTube Studio. No los cuento como señal.
+- Medición del 27/11 10:32 UTC. 15 videos subidos; 13 con más de 17 h.
+- **La anomalía de ayer se resolvió sola:** Wojtek, Baile 1518, Pulpo, Isla de los Faisanes, Torre Eiffel y Maratón, que estaban a 0-2 visitas, ahora tienen entre 750 y 1.430. YouTube simplemente tardó en empezar a distribuirlos. Siguen a 0: 006 Miel (35 h) y 030 Mike el pollo (15 h); hay que mirarlos mañana antes de sacar conclusiones.
+- Ojo con visitas/hora: los videos recientes salen inflados (el empujón inicial pesa más). Comparo también el total y el ratio de likes.
+
+## Ranking
+| Video | Horas | Visitas | /h | Likes % |
+|---|---|---|---|---|
+| 028 Estafador que vendió la Torre Eiffel… dos veces | 20 | 1.219 | 59 | 2,3 |
+| 029 Maratón olímpico más disparatado | 17 | 1.007 | 57 | 2,6 |
+| 005 Pulpo 3 corazones | 38 | 1.429 | 37 | 3,0 |
+| 004 Epidemia de baile 1518 | 41 | 1.336 | 32 | 2,7 |
+| 026 Isla que cambia de país | 23 | 756 | 32 | 3,8 |
+| 015 Ketchup como medicina | 26 | 799 | 30 | **0,8** |
+| 003 Napoleón… por conejos | 44 | 1.203 | 27 | **4,7** |
+| 002 Wojtek | 59 | 1.403 | 24 | 3,6 |
+| 001 Emú | 62 | 1.243 | 20 | 1,9 |
+| 007 Tardígrados | 70 | 1.352 | 19 | 2,4 |
+| 012 Guerra de los pasteles | 50 | 945 | 19 | 2,9 |
+| 013 Yamaguchi | 47 | 651 | 14 | 3,1 |
+| 008 Cleopatra / iPhone | 68 | 376 | 5 | 1,9 |
 
 ## Qué funciona
-- **Personaje o país famoso humillado o vencido por un animal**, con el giro tras "…" (Napoleón/conejos, Australia/emús). Es el patrón claramente ganador.
-- **Animal con hazaña o superpoder** (tardígrados).
-- **Supervivencia increíble de una persona** (Yamaguchi) funciona aceptable.
+- **Engaños y personajes absurdos con giro final** ("… dos veces"): Torre Eiffel es el arranque más rápido del canal.
+- **Superlativos de historia rara** ("el más disparatado"), con escenas de acción (maratón).
+- **Animal vence o ridiculiza a humanos** (Napoleón/conejos): el que más gusta (mejor ratio de likes); Wojtek también tiene muy buen ratio.
+- Todo lo que llega a distribuirse ronda 1.000-1.400 visitas: el techo actual es parecido entre temas.
 
 ## Qué no
-- Dato o comparación sin protagonista ni acción (Cleopatra).
-- Guerra absurda sin animales (pasteles) rinde a medias.
+- Comparación de datos sin historia (Cleopatra): el peor, con diferencia.
+- Comida "dato" (ketchup): vistas normales pero casi nadie da like (0,8 %).
+- Supervivencia trágica (Yamaguchi): pocas visitas.
 
-## Qué hago distinto hoy (046-053)
-- 5 en la línea ganadora, con animal protagonista que vence o deja en ridículo a humanos, y título "X… y giro": Pickles, el perro que encontró la Copa del Mundo robada; Stubby, el perro callejero condecorado; Simon, el gato con medalla de guerra; los dos cerdos fugitivos de Tamworth; Violet Jessop, la superviviente del Titanic y sus dos gemelos (supervivencia, como Yamaguchi).
-- 3 pruebas: **espacio** con humor (sándwich de contrabando en Gemini 3), **cuerpo** con título en **pregunta + cifra** (hipo de 68 años) y **comida** con final absurdo (inventor enterrado en un bote de Pringles).
-- Próxima vez: comprobar si las paletas espacio/cuerpo/comida (043-045, 051-053) se acercan a las de animales y si los videos a 0 visitas siguen así.
+## Qué hago distinto hoy (054-061)
+- 5 en la línea ganadora (engaño o personaje absurdo + giro con "…"): Emperador Norton, la broma de los espaguetis de la BBC, Mary Toft y los "partos" de conejos, el Gigante de Cardiff (con su copia falsa), las palomas que guiaban misiles.
+- 3 pruebas: **espacio con cifra** (sonda de 125 millones perdida por un error de unidades), **animal tierno que salva a humanos** (Tama, la gata jefa de estación) y **título en pregunta** de rareza (Suecia cambia de carril en un día).
+- Próxima vez: ver si Miel y Mike siguen a 0, y comparar engaños (028, 054-057) contra animales (046-049, 058, 060).

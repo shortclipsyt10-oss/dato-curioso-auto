@@ -1,0 +1,195 @@
+{
+ "id": "057-el-gigante-de-cardiff",
+ "titulo": "Enterró un gigante falso… y su copia falsa tuvo más visitas 🗿",
+ "descripcion": "En 1869 aparecía un 'hombre gigante petrificado' en una granja de Nueva York. Era una estatua enterrada a propósito, y lo más absurdo vino después: alguien hizo una copia de la falsificación.",
+ "hashtags": [
+  "#historia",
+  "#estafa",
+  "#datoscuriosos",
+  "#curiosidades",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "gigante de cardiff",
+  "george hull",
+  "p. t. barnum",
+  "engaño"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "EL GIGANTE FALSO",
+  "emojis": [
+   "🗿",
+   "💰"
+  ]
+ },
+ "nota_veracidad": "Documentado: George Hull encargó en 1868 una figura de yeso (gipsita) de unos tres metros, la enterró en la granja de su primo William Newell en Cardiff (Nueva York) y en octubre de 1869 unos pozeros la 'descubrieron'. Se cobraba entrada por verla. P. T. Barnum quiso comprarla, no se la vendieron y exhibió una copia, que atrajo más público. La frase 'cada minuto nace un tonto' se atribuye a menudo a Barnum o al caso, pero esa atribución es dudosa: por eso va con escena de duda.",
+ "fuentes": [
+  "Farmers' Museum, Cooperstown (NY): 'The Cardiff Giant'",
+  "Tribble, S. (2009), A Colossal Hoax: The Giant from Cardiff that Fooled America"
+ ],
+ "claves": [
+  "gigante",
+  "granja",
+  "estatua",
+  "entrada",
+  "barnum",
+  "copia",
+  "falso"
+ ],
+ "escenas": [
+  {
+   "texto": "Alguien enterró un gigante falso… y luego una copia del falso tuvo todavía más éxito.",
+   "tipo": "emoji",
+   "emojis": [
+    "🗿"
+   ],
+   "rotulo": "Un gigante falso",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Nueva York, mil ochocientos sesenta y nueve. Unos obreros cavaban un pozo en una granja.",
+   "tipo": "fecha",
+   "emojis": [
+    "⛏️"
+   ],
+   "anio": "1869",
+   "fondo": "campo",
+   "personajes": [
+    "granjero",
+    "hombre"
+   ],
+   "accion": "andar"
+  },
+  {
+   "texto": "De repente, apareció un hombre enorme de piedra. Medía unos tres metros.",
+   "tipo": "numero",
+   "emojis": [
+    "🗿"
+   ],
+   "valor": "3",
+   "unidad": "metros",
+   "fondo": "campo",
+   "personajes": [
+    "granjero"
+   ]
+  },
+  {
+   "texto": "Corrió la voz: ¡un gigante convertido en piedra! Miles hicieron cola para verlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "😮",
+    "👀"
+   ],
+   "rotulo": "¡Un gigante!",
+   "fondo": "campo",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "El granjero montó una carpa y empezó a cobrar entrada. Dinero fácil.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎪",
+    "💰"
+   ],
+   "rotulo": "Pague y pase",
+   "fondo": "campo",
+   "personajes": [
+    "granjero",
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "El secreto: lo había tallado un escultor y lo habían enterrado allí a propósito un año antes.",
+   "tipo": "sello",
+   "emojis": [
+    "🔨",
+    "🗿"
+   ],
+   "sello": "FALSO",
+   "fondo": "laboratorio",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "El famoso empresario Barnum quiso comprarlo. Le dijeron que no.",
+   "tipo": "emoji",
+   "emojis": [
+    "🎩",
+    "❌"
+   ],
+   "rotulo": "Barnum quiere el gigante",
+   "fondo": "ciudad",
+   "personajes": [
+    "noble",
+    "granjero"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Así que mandó hacer su propia copia… y la exhibió como el gigante auténtico.",
+   "tipo": "emoji",
+   "emojis": [
+    "🗿",
+    "🗿"
+   ],
+   "rotulo": "Falso contra falso",
+   "fondo": "ciudad",
+   "personajes": [
+    "noble"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "La copia del falso atrajo todavía más gente que el original.",
+   "tipo": "versus",
+   "emojis": [
+    "🗿",
+    "🗿"
+   ],
+   "rotulo": "Ganó la copia",
+   "rotulos": [
+    "El falso",
+    "La copia"
+   ]
+  },
+  {
+   "texto": "Dicen que de ahí salió la frase: cada minuto nace un tonto. Nadie sabe quién la dijo.",
+   "tipo": "duda",
+   "emojis": [
+    "🤡"
+   ],
+   "sello": "¿QUIÉN LO DIJO?",
+   "fondo": "ciudad",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Al final, el autor confesó. Hoy el gigante original se puede visitar en un museo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏛️",
+    "🗿"
+   ],
+   "rotulo": "Hoy, en un museo",
+   "fondo": "palacio",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "id": "054-el-emperador-norton",
+ "titulo": "Se proclamó emperador de Estados Unidos… y la ciudad le siguió el juego 👑",
+ "descripcion": "En 1859 un comerciante arruinado de San Francisco se declaró emperador. En vez de reírse de él, la ciudad entera le dio la razón durante veinte años.",
+ "hashtags": [
+  "#historia",
+  "#sanfrancisco",
+  "#datoscuriosos",
+  "#curiosidades",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "emperador norton",
+  "joshua norton",
+  "san francisco",
+  "historia de estados unidos"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "EMPERADOR DE EE. UU.",
+  "emojis": [
+   "👑",
+   "🇺🇸"
+  ]
+ },
+ "nota_veracidad": "Documentado: Joshua Norton perdió su fortuna especulando con arroz y el 17 de septiembre de 1859 envió al San Francisco Bulletin una proclama en la que se declaraba 'Emperador de estos Estados Unidos'. Emitió billetes propios que algunos comercios aceptaban, publicó decretos (entre ellos disolver el Congreso y construir un puente sobre la bahía) y a su funeral en 1880 acudieron miles de personas (las cifras de la prensa van de 10.000 a 30.000). La historia de que la policía le saludaba tras un arresto en 1867 viene de crónicas de la época y se cuenta con 'dicen que'. El Bay Bridge (1936) no se construyó por su decreto: es una coincidencia que se recuerda en su honor.",
+ "fuentes": [
+  "Drury, W. (1986), Norton I, Emperor of the United States",
+  "California Historical Society: 'Emperor Norton'",
+  "Daily Alta California, 9 de enero de 1880"
+ ],
+ "claves": [
+  "norton",
+  "emperador",
+  "san francisco",
+  "billetes",
+  "decretos",
+  "puente",
+  "funeral"
+ ],
+ "escenas": [
+  {
+   "texto": "Un hombre arruinado se proclamó emperador de Estados Unidos… y una ciudad entera le hizo caso.",
+   "tipo": "emoji",
+   "emojis": [
+    "👑"
+   ],
+   "rotulo": "¿Emperador?",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "San Francisco, mil ochocientos cincuenta y nueve. Joshua Norton lo había perdido todo apostando por el arroz.",
+   "tipo": "fecha",
+   "emojis": [
+    "🍚"
+   ],
+   "anio": "1859",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Entonces envió una carta al periódico: desde hoy, soy Norton Primero, emperador de los Estados Unidos.",
+   "tipo": "emoji",
+   "emojis": [
+    "📰",
+    "👑"
+   ],
+   "rotulo": "Norton I",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "gente"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "Lo lógico era que se rieran. Pero los vecinos decidieron seguirle el juego.",
+   "tipo": "emoji",
+   "emojis": [
+    "😂",
+    "🤝"
+   ],
+   "rotulo": "Le siguen el juego",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Imprimió sus propios billetes, y algunas tiendas y restaurantes los aceptaban de verdad.",
+   "tipo": "emoji",
+   "emojis": [
+    "💵"
+   ],
+   "rotulo": "Su propio dinero",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Firmó decretos absurdos, como disolver el Congreso. Nadie le hizo caso, claro.",
+   "tipo": "sello",
+   "emojis": [
+    "📜",
+    "🏛️"
+   ],
+   "sello": "IGNORADO",
+   "fondo": "palacio",
+   "personajes": [
+    "hombre"
+   ]
+  },
+  {
+   "texto": "Dicen que un policía lo arrestó una vez, y la ciudad se indignó tanto que lo soltaron y le pidieron perdón.",
+   "tipo": "duda",
+   "emojis": [
+    "👮",
+    "🙇"
+   ],
+   "sello": "¿LEYENDA?",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "oficial"
+   ]
+  },
+  {
+   "texto": "También ordenó construir un puente sobre la bahía. Décadas después, el puente existe.",
+   "tipo": "emoji",
+   "emojis": [
+    "🌉"
+   ],
+   "rotulo": "Lo pidió en 1872",
+   "fondo": "mar",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Cuando murió, en mil ochocientos ochenta, miles de personas fueron a despedirlo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🕯️",
+    "👑"
+   ],
+   "rotulo": "Miles en su funeral",
+   "fondo": "pueblo_noche",
+   "personajes": [
+    "multitud"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Un emperador sin imperio… pero con toda una ciudad a su favor.",
+   "tipo": "emoji",
+   "emojis": [
+    "👑",
+    "❤️"
+   ],
+   "rotulo": "Norton I",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre",
+    "gente"
+   ],
+   "accion": "celebrar"
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}

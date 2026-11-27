@@ -1,0 +1,187 @@
+{
+ "id": "056-la-mujer-que-decia-parir-conejos",
+ "titulo": "Dijo que daba a luz conejos… y engañó al médico del rey 🐇👑",
+ "descripcion": "En 1726 una mujer inglesa aseguró que estaba dando a luz conejos. Varios médicos, incluido el cirujano del rey, se lo creyeron hasta que alguien encontró al portero que los compraba.",
+ "hashtags": [
+  "#historia",
+  "#medicina",
+  "#conejos",
+  "#datoscuriosos",
+  "#shorts"
+ ],
+ "etiquetas": [
+  "mary toft",
+  "conejos",
+  "engaño",
+  "historia de la medicina"
+ ],
+ "paleta": "historia",
+ "miniatura": {
+  "texto": "¿PARÍA CONEJOS?",
+  "emojis": [
+   "🐇",
+   "🩺"
+  ]
+ },
+ "nota_veracidad": "Documentado: en 1726 Mary Toft, de Godalming (Surrey), afirmó dar a luz conejos. El cirujano local John Howard y Nathaniel St. André, cirujano de la corte de Jorge I, la creyeron y publicaron sobre el caso. En Londres la vigilaron, se descubrió que un portero había intentado conseguirle un conejo y, bajo presión del médico Richard Manningham, confesó el fraude en diciembre de 1726. Pasó una temporada en prisión y quedó libre. Hogarth la satirizó en un grabado. No se dramatiza su situación: fue una mujer pobre empujada a un fraude.",
+ "fuentes": [
+  "Pickover, C. (2000), The Girl Who Gave Birth to Rabbits",
+  "Royal College of Surgeons (2016): 'Mary Toft and the rabbit births'",
+  "Hogarth, W. (1762), Credulity, Superstition and Fanaticism"
+ ],
+ "claves": [
+  "conejos",
+  "mary",
+  "médicos",
+  "rey",
+  "londres",
+  "engaño",
+  "portero"
+ ],
+ "escenas": [
+  {
+   "texto": "En mil setecientos veintiséis, una mujer dijo que estaba dando a luz conejos… y los médicos se lo creyeron.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐇",
+    "🩺"
+   ],
+   "rotulo": "¿Conejos?",
+   "fondo": "pueblo",
+   "personajes": [
+    "mujer",
+    "medico"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "Inglaterra, mil setecientos veintiséis. Mary Toft vivía en un pueblo pequeño y era muy pobre.",
+   "tipo": "fecha",
+   "emojis": [
+    "🏡"
+   ],
+   "anio": "1726",
+   "fondo": "pueblo",
+   "personajes": [
+    "mujer"
+   ]
+  },
+  {
+   "texto": "Un día llamó al médico del pueblo y le enseñó lo que, según ella, acababa de nacer: trozos de conejo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🐇"
+   ],
+   "rotulo": "El primer conejo",
+   "fondo": "pueblo",
+   "personajes": [
+    "mujer",
+    "medico"
+   ],
+   "accion": "hablar"
+  },
+  {
+   "texto": "El médico, asombrado, escribió a científicos de toda Inglaterra. La noticia corrió como la pólvora.",
+   "tipo": "emoji",
+   "emojis": [
+    "✉️",
+    "📰"
+   ],
+   "rotulo": "Se hace famoso",
+   "fondo": "ciudad",
+   "personajes": [
+    "medico",
+    "gente"
+   ]
+  },
+  {
+   "texto": "Hasta el cirujano del rey viajó a verla. Y salió convencido de que era verdad.",
+   "tipo": "emoji",
+   "emojis": [
+    "👑",
+    "🩺"
+   ],
+   "rotulo": "El médico del rey",
+   "fondo": "palacio",
+   "personajes": [
+    "medico",
+    "rey"
+   ],
+   "accion": "senalar"
+  },
+  {
+   "texto": "La llevaron a Londres para estudiarla. Allí la vigilaban de día y de noche.",
+   "tipo": "emoji",
+   "emojis": [
+    "🏙️",
+    "👀"
+   ],
+   "rotulo": "Vigilada",
+   "fondo": "ciudad",
+   "personajes": [
+    "mujer",
+    "medico",
+    "medico"
+   ]
+  },
+  {
+   "texto": "Entonces pillaron a un portero intentando colarle un conejo a escondidas.",
+   "tipo": "sello",
+   "emojis": [
+    "🐇",
+    "🚪"
+   ],
+   "sello": "¡PILLADO!",
+   "fondo": "ciudad",
+   "personajes": [
+    "hombre"
+   ],
+   "accion": "correr"
+  },
+  {
+   "texto": "Acorralada, Mary confesó: lo había inventado todo.",
+   "tipo": "emoji",
+   "emojis": [
+    "😳"
+   ],
+   "rotulo": "La confesión",
+   "fondo": "palacio",
+   "personajes": [
+    "mujer",
+    "medico"
+   ],
+   "accion": "triste"
+  },
+  {
+   "texto": "Los médicos que la habían creído quedaron en ridículo delante de todo el país.",
+   "tipo": "emoji",
+   "emojis": [
+    "🤦",
+    "🐇"
+   ],
+   "rotulo": "Ridículo nacional",
+   "fondo": "ciudad",
+   "personajes": [
+    "medico",
+    "multitud"
+   ]
+  },
+  {
+   "texto": "Durante meses, en Londres casi nadie quiso comer conejo.",
+   "tipo": "emoji",
+   "emojis": [
+    "🍽️",
+    "🐇"
+   ],
+   "rotulo": "Nadie comía conejo",
+   "fondo": "pueblo",
+   "personajes": [
+    "gente"
+   ]
+  },
+  {
+   "texto": "Síguenos para más curiosidades.",
+   "tipo": "final"
+  }
+ ]
+}
