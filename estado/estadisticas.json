@@ -1,17 +1,29 @@
 {
- "actualizado": "2026-11-27T16:40+00:00",
+ "actualizado": "2026-11-27T19:35+00:00",
  "videos": [
+  {
+   "id": "030-mike-el-pollo-sin-cabeza",
+   "youtube_id": "O7L66YL_aHo",
+   "titulo": "Mike, el pollo que vivió 18 meses sin cabeza 🐔 #shorts",
+   "paleta": "rareza",
+   "publicado": "2026-11-27T18:00:16Z",
+   "horas": 1.6,
+   "visitas": 290,
+   "likes": 6,
+   "comentarios": 0,
+   "visitas_por_hora": 181.95
+  },
   {
    "id": "028-el-hombre-que-vendio-la-torre-eiffel",
    "youtube_id": "qeMMqphjTK4",
    "titulo": "El estafador que vendió la Torre Eiffel… dos veces 🗼💰 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-26T14:00:28Z",
-   "horas": 26.7,
-   "visitas": 1219,
+   "horas": 29.6,
+   "visitas": 1215,
    "likes": 28,
    "comentarios": 0,
-   "visitas_por_hora": 45.72
+   "visitas_por_hora": 41.06
   },
   {
    "id": "029-el-maraton-mas-loco-de-la-historia",
@@ -19,11 +31,11 @@
    "titulo": "El maratón olímpico más disparatado de la historia 🏃‍♂️🚗 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-26T17:00:22Z",
-   "horas": 23.7,
+   "horas": 26.6,
    "visitas": 1007,
    "likes": 26,
    "comentarios": 0,
-   "visitas_por_hora": 42.56
+   "visitas_por_hora": 37.87
   },
   {
    "id": "005-pulpo-tres-corazones",
@@ -31,11 +43,11 @@
    "titulo": "El pulpo tiene 3 corazones y sangre azul 🐙 #shorts",
    "paleta": "oceano",
    "publicado": "2026-11-25T20:00:32Z",
-   "horas": 44.7,
+   "horas": 47.6,
    "visitas": 1429,
    "likes": 43,
    "comentarios": 1,
-   "visitas_por_hora": 32.0
+   "visitas_por_hora": 30.03
   },
   {
    "id": "004-epidemia-de-baile-1518",
@@ -43,11 +55,11 @@
    "titulo": "La epidemia de baile de 1518 💃 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T17:00:35Z",
-   "horas": 47.7,
+   "horas": 50.6,
    "visitas": 1336,
    "likes": 36,
    "comentarios": 0,
-   "visitas_por_hora": 28.03
+   "visitas_por_hora": 26.41
   },
   {
    "id": "026-isla-de-los-faisanes",
@@ -55,11 +67,11 @@
    "titulo": "La isla que cambia de país cada seis meses 🇪🇸🇫🇷 #shorts",
    "paleta": "rareza",
    "publicado": "2026-11-26T11:00:25Z",
-   "horas": 29.7,
-   "visitas": 804,
-   "likes": 31,
+   "horas": 32.6,
+   "visitas": 816,
+   "likes": 32,
    "comentarios": 1,
-   "visitas_por_hora": 27.11
+   "visitas_por_hora": 25.04
   },
   {
    "id": "015-ketchup-medicina",
@@ -67,11 +79,11 @@
    "titulo": "El ketchup se vendía como medicina 🍅💊 #shorts",
    "paleta": null,
    "publicado": "2026-11-26T08:00:02Z",
-   "horas": 32.7,
-   "visitas": 803,
+   "horas": 35.6,
+   "visitas": 850,
    "likes": 6,
    "comentarios": 0,
-   "visitas_por_hora": 24.58
+   "visitas_por_hora": 23.88
   },
   {
    "id": "003-napoleon-conejos",
@@ -79,11 +91,11 @@
    "titulo": "Napoleón fue derrotado… por conejos 🐰 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T14:00:34Z",
-   "horas": 50.7,
-   "visitas": 1205,
+   "horas": 53.6,
+   "visitas": 1206,
    "likes": 56,
    "comentarios": 1,
-   "visitas_por_hora": 23.79
+   "visitas_por_hora": 22.5
   },
   {
    "id": "002-wojtek-oso-soldado",
@@ -91,11 +103,11 @@
    "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T23:00:02Z",
-   "horas": 65.7,
-   "visitas": 1403,
+   "horas": 68.6,
+   "visitas": 1406,
    "likes": 51,
    "comentarios": 0,
-   "visitas_por_hora": 21.37
+   "visitas_por_hora": 20.5
   },
   {
    "id": "001-guerra-del-emu",
@@ -103,11 +115,11 @@
    "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T20:00:00Z",
-   "horas": 68.7,
+   "horas": 71.6,
    "visitas": 1243,
    "likes": 24,
    "comentarios": 1,
-   "visitas_por_hora": 18.1
+   "visitas_por_hora": 17.36
   },
   {
    "id": "007-tardigrados",
@@ -115,11 +127,11 @@
    "titulo": "El animal que sobrevive al espacio 🐻🚀 #shorts",
    "paleta": null,
    "publicado": "2026-11-24T12:57:55Z",
-   "horas": 75.7,
+   "horas": 78.6,
    "visitas": 1354,
    "likes": 32,
    "comentarios": 0,
-   "visitas_por_hora": 17.89
+   "visitas_por_hora": 17.22
   },
   {
    "id": "012-guerra-de-los-pasteles",
@@ -127,11 +139,11 @@
    "titulo": "La guerra que empezó por unos pasteles 🥐⚔️ #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T08:00:20Z",
-   "horas": 56.7,
+   "horas": 59.6,
    "visitas": 947,
    "likes": 27,
    "comentarios": 0,
-   "visitas_por_hora": 16.71
+   "visitas_por_hora": 15.89
   },
   {
    "id": "013-tsutomu-yamaguchi",
@@ -139,11 +151,11 @@
    "titulo": "El hombre que sobrevivió a dos bombas atómicas #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T11:00:19Z",
-   "horas": 53.7,
+   "horas": 56.6,
    "visitas": 651,
    "likes": 20,
    "comentarios": 1,
-   "visitas_por_hora": 12.13
+   "visitas_por_hora": 11.5
   },
   {
    "id": "008-cleopatra-iphone",
@@ -151,11 +163,11 @@
    "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T14:00:28Z",
-   "horas": 74.7,
+   "horas": 77.6,
    "visitas": 376,
    "likes": 7,
    "comentarios": 0,
-   "visitas_por_hora": 5.04
+   "visitas_por_hora": 4.85
   },
   {
    "id": "006-miel-que-nunca-caduca",
@@ -163,19 +175,19 @@
    "titulo": "La miel que nunca caduca 🍯 #shorts",
    "paleta": "comida",
    "publicado": "2026-11-25T23:00:10Z",
-   "horas": 41.7,
+   "horas": 44.6,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
    "visitas_por_hora": 0.0
   },
   {
-   "id": "030-mike-el-pollo-sin-cabeza",
-   "youtube_id": "O7L66YL_aHo",
-   "titulo": "Mike, el pollo que vivió 18 meses sin cabeza 🐔 #shorts",
-   "paleta": "rareza",
-   "publicado": "2026-11-26T19:40:26Z",
-   "horas": 21.0,
+   "id": "031-jack-el-babuino-ferroviario",
+   "youtube_id": "0-JvYXRLygE",
+   "titulo": "El babuino que trabajó 9 años en el tren 🐒🚂 #shorts",
+   "paleta": "animales",
+   "publicado": "2026-11-27T19:35:51Z",
+   "horas": 1.0,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
