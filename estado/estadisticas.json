@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-27T04:40+00:00",
+ "actualizado": "2026-11-27T07:57+00:00",
  "videos": [
-  {
-   "id": "029-el-maraton-mas-loco-de-la-historia",
-   "youtube_id": "gxhfZnrR-Y8",
-   "titulo": "El maratón olímpico más disparatado de la historia 🏃‍♂️🚗 #shorts",
-   "paleta": "historia",
-   "publicado": "2026-11-26T17:00:22Z",
-   "horas": 11.7,
-   "visitas": 1004,
-   "likes": 26,
-   "comentarios": 0,
-   "visitas_por_hora": 86.1
-  },
   {
    "id": "028-el-hombre-que-vendio-la-torre-eiffel",
    "youtube_id": "qeMMqphjTK4",
    "titulo": "El estafador que vendió la Torre Eiffel… dos veces 🗼💰 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-26T14:00:28Z",
-   "horas": 14.7,
-   "visitas": 1218,
-   "likes": 29,
+   "horas": 17.9,
+   "visitas": 1219,
+   "likes": 28,
    "comentarios": 0,
-   "visitas_por_hora": 83.09
+   "visitas_por_hora": 67.93
+  },
+  {
+   "id": "029-el-maraton-mas-loco-de-la-historia",
+   "youtube_id": "gxhfZnrR-Y8",
+   "titulo": "El maratón olímpico más disparatado de la historia 🏃‍♂️🚗 #shorts",
+   "paleta": "historia",
+   "publicado": "2026-11-26T17:00:22Z",
+   "horas": 14.9,
+   "visitas": 1007,
+   "likes": 26,
+   "comentarios": 0,
+   "visitas_por_hora": 67.37
   },
   {
    "id": "005-pulpo-tres-corazones",
@@ -31,11 +31,11 @@
    "titulo": "El pulpo tiene 3 corazones y sangre azul 🐙 #shorts",
    "paleta": "oceano",
    "publicado": "2026-11-25T20:00:32Z",
-   "horas": 32.7,
+   "horas": 35.9,
    "visitas": 1429,
    "likes": 43,
    "comentarios": 1,
-   "visitas_por_hora": 43.76
+   "visitas_por_hora": 39.76
   },
   {
    "id": "026-isla-de-los-faisanes",
@@ -43,11 +43,11 @@
    "titulo": "La isla que cambia de país cada seis meses 🇪🇸🇫🇷 #shorts",
    "paleta": "rareza",
    "publicado": "2026-11-26T11:00:25Z",
-   "horas": 17.7,
-   "visitas": 703,
+   "horas": 20.9,
+   "visitas": 749,
    "likes": 29,
    "comentarios": 1,
-   "visitas_por_hora": 39.81
+   "visitas_por_hora": 35.76
   },
   {
    "id": "004-epidemia-de-baile-1518",
@@ -55,11 +55,11 @@
    "titulo": "La epidemia de baile de 1518 💃 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T17:00:35Z",
-   "horas": 35.7,
-   "visitas": 1334,
+   "horas": 38.9,
+   "visitas": 1336,
    "likes": 36,
    "comentarios": 0,
-   "visitas_por_hora": 37.41
+   "visitas_por_hora": 34.31
   },
   {
    "id": "015-ketchup-medicina",
@@ -67,11 +67,11 @@
    "titulo": "El ketchup se vendía como medicina 🍅💊 #shorts",
    "paleta": null,
    "publicado": "2026-11-26T08:00:02Z",
-   "horas": 20.7,
+   "horas": 24.0,
    "visitas": 773,
    "likes": 6,
    "comentarios": 0,
-   "visitas_por_hora": 37.4
+   "visitas_por_hora": 32.27
   },
   {
    "id": "003-napoleon-conejos",
@@ -79,11 +79,11 @@
    "titulo": "Napoleón fue derrotado… por conejos 🐰 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T14:00:34Z",
-   "horas": 38.7,
+   "horas": 41.9,
    "visitas": 1203,
    "likes": 56,
    "comentarios": 1,
-   "visitas_por_hora": 31.12
+   "visitas_por_hora": 28.68
   },
   {
    "id": "002-wojtek-oso-soldado",
@@ -91,11 +91,11 @@
    "titulo": "El oso que fue soldado en la Segunda Guerra Mundial 🐻 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T23:00:02Z",
-   "horas": 53.7,
+   "horas": 57.0,
    "visitas": 1403,
    "likes": 51,
    "comentarios": 0,
-   "visitas_por_hora": 26.14
+   "visitas_por_hora": 24.63
   },
   {
    "id": "001-guerra-del-emu",
@@ -103,11 +103,11 @@
    "titulo": "Australia le declaró la guerra a los emús… y perdió 🐦 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T20:00:00Z",
-   "horas": 56.7,
+   "horas": 60.0,
    "visitas": 1243,
    "likes": 24,
    "comentarios": 1,
-   "visitas_por_hora": 21.94
+   "visitas_por_hora": 20.73
   },
   {
    "id": "007-tardigrados",
@@ -115,11 +115,11 @@
    "titulo": "El animal que sobrevive al espacio 🐻🚀 #shorts",
    "paleta": null,
    "publicado": "2026-11-24T12:57:55Z",
-   "horas": 63.7,
-   "visitas": 1344,
+   "horas": 67.0,
+   "visitas": 1352,
    "likes": 32,
    "comentarios": 0,
-   "visitas_por_hora": 21.1
+   "visitas_por_hora": 20.18
   },
   {
    "id": "012-guerra-de-los-pasteles",
@@ -127,11 +127,11 @@
    "titulo": "La guerra que empezó por unos pasteles 🥐⚔️ #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T08:00:20Z",
-   "horas": 44.7,
+   "horas": 47.9,
    "visitas": 920,
    "likes": 27,
    "comentarios": 0,
-   "visitas_por_hora": 20.6
+   "visitas_por_hora": 19.19
   },
   {
    "id": "013-tsutomu-yamaguchi",
@@ -139,11 +139,11 @@
    "titulo": "El hombre que sobrevivió a dos bombas atómicas #shorts",
    "paleta": "historia",
    "publicado": "2026-11-25T11:00:19Z",
-   "horas": 41.7,
-   "visitas": 630,
+   "horas": 44.9,
+   "visitas": 650,
    "likes": 20,
    "comentarios": 1,
-   "visitas_por_hora": 15.12
+   "visitas_por_hora": 14.46
   },
   {
    "id": "008-cleopatra-iphone",
@@ -151,11 +151,11 @@
    "titulo": "Cleopatra vivió más cerca del iPhone que de las pirámides 🤯 #shorts",
    "paleta": "historia",
    "publicado": "2026-11-24T14:00:28Z",
-   "horas": 62.7,
+   "horas": 65.9,
    "visitas": 376,
    "likes": 7,
    "comentarios": 0,
-   "visitas_por_hora": 6.0
+   "visitas_por_hora": 5.7
   },
   {
    "id": "006-miel-que-nunca-caduca",
@@ -163,7 +163,7 @@
    "titulo": "La miel que nunca caduca 🍯 #shorts",
    "paleta": "comida",
    "publicado": "2026-11-25T23:00:10Z",
-   "horas": 29.7,
+   "horas": 33.0,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
@@ -175,7 +175,7 @@
    "titulo": "Mike, el pollo que vivió 18 meses sin cabeza 🐔 #shorts",
    "paleta": "rareza",
    "publicado": "2026-11-26T19:40:26Z",
-   "horas": 9.0,
+   "horas": 12.3,
    "visitas": 0,
    "likes": 0,
    "comentarios": 0,
